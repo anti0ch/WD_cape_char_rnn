@@ -1255,7 +1255,669 @@ Theodosian
 Thresher
 Treant
 Gauss II
-
+Knight Bulwark
+Commander Night
+General Raven
+Professor Cascade
+Templar Marvel
+Champion Day
+Paladin Trident
+King Blade
+Prince Raven
+Exemplar Phoenix
+Guardian Dagger
+Savior Rune
+Protector Quake
+Lord Sun
+Adjudicator Force
+Duke Rocket
+Prodigy Fist
+Mother Bomb
+Madame Hammer
+Mistress Gale
+Lady Slam
+Queen Frost
+Baroness Mask
+Princess Saber
+Empress Snow
+Duchess Glaive
+Sister Axe
+Miss Cleaver
+Commando Maul
+Keeper Spear
+Sir Gate
+Savant Metal
+Captain Bulwark
+Watchman Night
+Dragoon Raven
+Agent Cascade
+The Knight of Night
+The Commander of Birds
+The General of Feathers
+The Professor of Storms
+The Templar of Suns
+The Champion of Eons
+The Paladin of Waves
+The King of Blades
+The Prince of Talons
+The Exemplar of Flames
+The Guardian of Knives
+The Savior of Runes
+The Protector of Chasms
+The Lord of Stars
+The Adjudicator of Power
+The Duke of Soul
+The Prodigy of Spirit
+The Mother of Life
+The Madame of Daylight
+The Mistress of Explosions
+The Lady of Arms
+The Queen of Knaves
+The Baroness of Tides
+The Princess of Earth
+The Empress of Might
+The Duchess of Legacy
+The Sister of Masks
+The Miss of Frost
+The Commando of Flame
+The Keeper of Light
+The Sir of Dark
+The Savant of Night
+The Captain of Birds
+The Watchman of Feathers
+The Dragoon of Storms
+The Agent of Suns
+The Grand Knight
+The Supreme Commander
+The Great General
+The White Professor
+The White Templar
+The Silver Champion
+The Crimson Paladin
+The Silent King
+The Red Prince
+The Last Exemplar
+The Final Guardian
+The Glorious Savior
+The Metropolitan Protector
+The Mighty Lord
+The Stalwart Adjudicator
+The Majestic Duke
+The Fancy Prodigy
+The Golden Mother
+The Macho Madame
+The Elegant Mistress
+The Fearless Lady
+The Swift Queen
+The Bronze Baroness
+The Quantum Princess
+The Nuclear Empress
+The Electric Duchess
+The Scarlet Sister
+The Phantom Miss
+The Extreme Commando
+The Heavy Keeper
+The Impervious Sir
+The Steel Savant
+The Incredible Captain
+The Royal Watchman
+The Ethereal Dragoon
+The Jolly Agent
+The Cold Knight
+The Fantastic Commander
+The Furious General
+The Ultra Professor
+The Sorcerous Templar
+The Bright Champion
+The Gallant Paladin
+Bulwarkfighter
+Nightwatcher
+Ravenslayer
+Cascademancer
+Marvelslinger
+Dayseeker
+Tridentmaster
+Bladeeater
+Ravenchaser
+Phoenixbuster
+Daggerlancer
+Runekeeper
+Quakebinder
+Sunwalker
+Forcefighter
+Rocketwatcher
+Fistslayer
+Bombmancer
+Hammerslinger
+Galeseeker
+Slammaster
+Frosteater
+Maskchaser
+Saberbuster
+Snowlancer
+Glaivekeeper
+Axebinder
+Cleaverwalker
+Maulfighter
+Spearwatcher
+Gateslayer
+Metalmancer
+Grand Man
+Supreme Woman
+Great Lass
+White Gal
+White Kid
+Silver Boy
+Crimson Girl
+Silent Lad
+Red Dude
+Last Mask
+Final Supreme
+Glorious Man
+Metropolitan Woman
+Mighty Lass
+Stalwart Gal
+Majestic Kid
+Fancy Boy
+Golden Girl
+Macho Lad
+Elegant Dude
+Fearless Mask
+Swift Supreme
+Bronze Man
+Quantum Woman
+Nuclear Lass
+Electric Gal
+Scarlet Kid
+Phantom Boy
+Extreme Girl
+Heavy Lad
+Impervious Dude
+Steel Mask
+Incredible Supreme
+Royal Man
+Ethereal Woman
+Jolly Lass
+Cold Gal
+Fantastic Kid
+Furious Boy
+Ultra Girl
+Sorcerous Lad
+Bright Dude
+Gallant Mask
+Sir Bulwark
+L'il Night
+Kid Raven
+General Cascade
+Professor Marvel
+King Day
+Prince Trident
+Lord Blade
+Duke Raven
+Mister Phoenix
+Princess Dagger
+Captain Rune
+Sir Quake
+L'il Sun
+Kid Force
+General Rocket
+Professor Fist
+King Bomb
+Prince Hammer
+Lord Gale
+Duke Slam
+Mister Frost
+Princess Mask
+Captain Saber
+Sir Snow
+L'il Glaive
+Kid Axe
+General Cleaver
+Professor Maul
+King Spear
+Prince Gate
+Lord Metal
+Grand Gorilla
+Supreme Starling
+Great Kingfisher
+White Tiger
+White Lion
+Silver Bear
+Crimson Jaguar
+Silent Panther
+Red Eagle
+Last Hawk
+Final Squirrel
+Glorious Mouse
+Metropolitan Kitty
+Mighty Cat
+Stalwart Dog
+Majestic Wolf
+Fancy Coyote
+Golden Hare
+Macho Sparrow
+Elegant Lizard
+Fearless Iguana
+Swift Capybara
+Bronze Hedgehog
+Quantum Hampster
+Nuclear Platypus
+Electric Kangaroo
+Scarlet Frog
+Phantom Minnow
+Extreme Gryphon
+Heavy Groundhog
+Impervious Deer
+Steel Moose
+Incredible Gorilla
+Royal Starling
+Ethereal Kingfisher
+Jolly Tiger
+Cold Lion
+Fantastic Bear
+Furious Jaguar
+Ultra Panther
+Sorcerous Eagle
+Bright Hawk
+Gallant Squirrel
+The Gorilla of Night
+The Starling of Birds
+The Kingfisher of Feathers
+The Tiger of Storms
+The Lion of Suns
+The Bear of Eons
+The Jaguar of Waves
+The Panther of Blades
+The Eagle of Talons
+The Hawk of Flames
+The Squirrel of Knives
+The Mouse of Runes
+The Kitty of Chasms
+The Cat of Stars
+The Dog of Power
+The Wolf of Soul
+The Coyote of Spirit
+The Hare of Life
+The Sparrow of Daylight
+The Lizard of Explosions
+The Iguana of Arms
+The Capybara of Knaves
+The Hedgehog of Tides
+The Hampster of Earth
+The Platypus of Might
+The Kangaroo of Legacy
+The Frog of Masks
+The Minnow of Frost
+The Gryphon of Flame
+The Groundhog of Light
+The Deer of Dark
+The Moose of Night
+Sir Man
+L'il Woman
+Kid Lass
+General Gal
+Professor Kid
+King Boy
+Prince Girl
+Lord Lad
+Duke Dude
+Mister Mask
+Princess Supreme
+Captain Man
+Sir Triumphant
+L'il Victorious
+Kid Lockdown
+General Convoker
+Professor Illusionist
+King Sorcerer
+Prince Meow
+Lord Bang
+Duke Triumphant
+Mister Victorious
+Princess Lockdown
+Captain Convoker
+Pyrofighter
+Cryowatcher
+Technoslayer
+Neuromancer
+Ultraslinger
+Turboseeker
+Pyromaster
+Cryoeater
+Technochaser
+Neurobuster
+Ultralancer
+Turbokeeper
+Pyrobinder
+Cryowalker
+Bulwark Man
+Night Woman
+Raven Lass
+Cascade Gal
+Marvel Kid
+Day Boy
+Trident Girl
+Blade Lad
+Raven Dude
+Phoenix Mask
+Dagger Supreme
+Rune Man
+Quake Woman
+Sun Lass
+Force Gal
+Rocket Kid
+Fist Boy
+Bomb Girl
+Hammer Lad
+Gale Dude
+Slam Mask
+Frost Supreme
+Mask Man
+Saber Woman
+Snow Lass
+Glaive Gal
+Axe Kid
+Cleaver Boy
+Maul Girl
+Spear Lad
+Gate Dude
+Metal Mask
+Elder Murder
+Commander Inferno
+Professor Grind
+King Gate
+Doctor Doom
+Boss Hell
+Baron God
+Prince Soul
+Knight Acid
+Agent Day
+Surgeon Nail
+Bastard Night
+Commodore Ghost
+Operative Shadow
+Templar Storm
+Duke Calamity
+Count Pain
+Empress Scorch
+Tyrant Frost
+Tycoon Glass
+Sister Thunder
+Rogue Death
+Bomber Diamond
+Bitch Bone
+Prodigy Acid
+Savant Wraith
+Elder Fox
+Commander Hawk
+Professor Trash
+King Despair
+Doctor Cyborg
+Boss Static
+Baron Terror
+Prince Tempo
+Knight Chem
+The Golden Elder
+The Junkyard Commander
+The Arson Professor
+The Toxic King
+The Sonic Doctor
+The Mutant Boss
+The Wandering Baron
+The Sewer Prince
+The Tidal Knight
+The Brutal Agent
+The Harsh Surgeon
+The Terrible Bastard
+The Despicable Commodore
+The Monarch Operative
+The Radioactive Templar
+The Black Duke
+The Devil's Count
+The Iron Empress
+The Colossal Tyrant
+The Crescent Tycoon
+The Double Sister
+The Blue Rogue
+The Heartless Bomber
+The Lucky Bitch
+The Unlucky Prodigy
+The Immortal Savant
+The Bad Elder
+The Ghostly Commander
+The Deep Professor
+The Dark King
+The Double Doctor
+The Crimson Boss
+The Supersonic Baron
+The Pink Prince
+The Silver Knight
+The Cold Agent
+The Gold Surgeon
+The Furious Bastard
+The Silent Commodore
+The Rat Operative
+The Calamity Templar
+Murdermaster
+Infernoeater
+Grindcrusher
+Gatemancer
+Doomslinger
+Hellcrasher
+Godmonger
+Soulmangler
+Acidcutter
+Daybomber
+Nailslicer
+Nightcaster
+Ghostwatcher
+Shadowhunter
+Stormstalker
+Calamityseeker
+Paincaller
+Scorchtaster
+Frostfucker
+Glassfather
+Thunderbreaker
+Deathdealer
+Diamondfister
+Boneshatter
+Acidsplitter
+Wraithspitter
+Foxraiser
+Hawkbringer
+Trashflayer
+Despairmaster
+Cyborgeater
+Staticcrusher
+Terrormancer
+Temposlinger
+Chemcrasher
+The Elder of Acid
+The Commander of Day
+The Professor of Nail
+The King of Night
+The Doctor of Ghost
+The Boss of Shadow
+The Baron of Storm
+The Prince of Calamity
+The Knight of Pain
+The Agent of Scorch
+The Surgeon of Frost
+The Bastard of Glass
+The Commodore of Thunder
+The Operative of Death
+The Templar of Diamond
+The Duke of Bone
+The Count of Acid
+The Empress of Wraith
+The Tyrant of Fox
+The Tycoon of Hawk
+The Sister of Trash
+The Rogue of Despair
+The Bomber of Cyborg
+The Bitch of Static
+The Prodigy of Terror
+The Savant of Tempo
+The Elder of Chem
+The Commander of Murder
+The Professor of Inferno
+The King of Grind
+The Doctor of Gate
+The Boss of Doom
+The Baron of Hell
+The Prince of God
+The Knight of Soul
+Golden Gentleman
+Junkyard Rat
+Arson Renegade
+Toxic Crush
+Sonic Heart
+Mutant Mask
+Wandering Storm
+Sewer Velvet
+Tidal Chill
+Brutal Despicable
+Harsh Supreme
+Terrible Bastard
+Despicable Vertigo
+Monarch Sorrow
+Radioactive Zero
+Black Thunder
+Devil's Frost
+Iron Spite
+Colossal Whisper
+Crescent Shock
+Double Trouble
+Blue Eight
+Heartless Horror
+Lucky Seven
+Unlucky Thirteen
+Immortal Lockdown
+Bad Dragoon
+Ghostly Savage
+Deep Train
+Dark Army
+Double Rain
+Crimson Fire
+Supersonic Guy
+Pink Gentleman
+Silver Rat
+Cold Renegade
+Gold Crush
+Furious Heart
+Silent Mask
+Rat Storm
+Calamity Velvet
+Elder Gentleman
+Commander Rat
+Professor Renegade
+King Crush
+Doctor Heart
+Boss Mask
+Baron Storm
+Prince Velvet
+Knight Chill
+Agent Despicable
+Surgeon Supreme
+Bastard Bastard
+Commodore Vertigo
+Operative Sorrow
+Templar Zero
+Duke Thunder
+Count Frost
+Empress Spite
+Tyrant Whisper
+Tycoon Shock
+Sister Trouble
+Rogue Eight
+Bomber Horror
+Bitch Seven
+Prodigy Thirteen
+Savant Lockdown
+Elder Dragoon
+Commander Savage
+Professor Train
+King Army
+Doctor Rain
+Boss Fire
+Baron Guy
+Murderface
+Infernomouth
+Grindfire
+Gategun
+Doomhands
+Helleye
+Godfang
+Soulblade
+Acidtooth
+Daybolt
+Nailtime
+Nightbomb
+Ghosteye
+Shadowwalk
+Stormspike
+Calamityshock
+Painfist
+Scorchbrand
+Frostmouth
+Glasstrail
+Thunderwrought
+Deathbolt
+Diamondscythe
+Bonehowl
+Acidhands
+Wraithbreath
+Foxtongue
+Hawkfire
+Trasheyes
+Despairscream
+Cyborgblood
+Staticface
+Terrormouth
+Tempofire
+Chemgun
+Golden Murder
+Junkyard Inferno
+Arson Grind
+Toxic Gate
+Sonic Doom
+Mutant Hell
+Wandering God
+Sewer Soul
+Tidal Acid
+Brutal Day
+Harsh Nail
+Terrible Night
+Despicable Ghost
+Monarch Shadow
+Radioactive Storm
+Black Calamity
+Devil's Pain
+Iron Scorch
+Colossal Frost
+Crescent Glass
+Double Thunder
+Blue Death
+Heartless Diamond
+Lucky Bone
+Unlucky Acid
+Immortal Wraith
+Bad Fox
+Ghostly Hawk
+Deep Trash
+Dark Despair
+Double Cyborg
+Crimson Static
+Supersonic Terror
+Pink Tempo
+Silver Chem
+Cold Murder
+Gold Inferno
+Furious Grind
+Silent Gate
+Rat Doom
+Calamity Hell
 The Black Goat
 Hale
 Miss Hiss

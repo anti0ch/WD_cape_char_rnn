@@ -1,10 +1,1283 @@
+Marshal
+Roundup
+Sterling
+Strobe
+Double March
+Cyclone III
+Warden IV
+Grandmaster
+Cinereal
+Dogwood
+Knight Crimson
+Lockdown
+The Lilies
+Spinal Tap
+Whirlybird
+Animal
+Catapult
+Chainer
+Posie
+Pyromancer
+Roguelight
+Templar
+Grindmauler
+Daedalus
+Meteoroid
+Naga
+Trickshot
+Hobbler
+Paperdoll
+Sleetz
+Paliza
+Smear
+Barb
+Bramble
+Burstnova
+Palisade
+Pinpoint
+Gram
+Joystick
+Strobe
+Vagrant
+Voltaic
+Extirpate
+Trashmouth
+Airburst
+Mistral
+Oversight
+Thunderclap
+Zephyr
+Nightshade
+Topiary
+Crosswired
+Handsome
+Yggdrasil
+Chernekov
+Delphi
+Ignis
+Ordeal
+Overtime
+God's Thumb
+Gunshow
+Ms. Rickard
+Dr. Little
+Facade
+Procyon
+Two-Touch
+Backhoe
+Dolores
+Gilgamesh
+Greasemonkey
+Kraken
+La Llorona
+Shattershot
+Fissure
+Witness(temp)
+Wretch
+Homestead
+Screwjob
+Two's Company
+Lady of the Lake
+Maw
+Mercury
+Blaggard
+Dayguard
+Gravity Hammer
+Ichor
+Laserlash
+Lodestone
+Hekate
+Kubaba
+Navaratna
+Nótt 
+Oread
+Salamander
+Sliver
+Materia
+Korund
+Rubin
+Saphir
+Friedrich
+Faust
+Gretchen
+Hagel
+Hexe
+Schlafender Prinz
+Hedera Helix
+Kasperletheater
+Feuermelder
+Lichtblitz
+Schrödinger
+Amalgam
+Bündnis
+Gleipnir
+Walpurgisnacht
+Einsicht
+Erzengel
+Rammbock
+Wappen
+Runaway
+Fenrir
+Alleskleber
+Bildhauer
+Carnaval
+Du Bist!
+Eiserne Jungfrau
+Glitzernde
+Nachtschatten
+Rasende Wut
+Sandmann
+Säureregen
+Schwindel
+Skadi
+Spiegelbild
+Stopschild
+Wirbelsturm
+Enjambre
+Caramelo
+Host
+Blastzone
+Hellion
+Pulsar
+"Raul"
+Slink
+Maniobra
+Caesura
+Picasso
+Shunt
+Checkpoint
+Flare
+Flubster
+Mano Sola
+Ola Polar
+Gravitron
+Alacrity
+Shortstop
+Skeddle
+Briar Patch
+Heartless Bitch
+Lucky 13
+Wrayth
+Golden Rule
+Matrix
+Lilu
+Phlegyas
+Spike
+Li'l Bang
+The Black Knight
+The Duke
+Chapter
+Knockout
+Phantasm
+Abracadabra
+Gladiator
+Harlequin
+Masquerade
+Domino
+Iridescent
+Coffin
+Eerie
+Knuckleduster
+Rock Lobster
+The Hollow King
+Starbright
+Starlight
+Adramelech
+Darwin and Finch
+Etchings
+Gallows
+Gnasher
+Guivre
+Hexcrafter
+Knightmare
+Miasma
+Murmur
+Ouroboros
+Quillhound
+Sandstorm
+Sharezer
+Wormwood
+Mortal Lock
+Coldhand
+Cwn Annwn
+Big Brother
+Gambit
+Perimeter
+Checkmate
+Jiangjun
+Shinkansen
+Wuwei
+Zhugeliang
+Bastille
+Flamehaze
+Nailgun
+Quickdraw
+Vitreous
+Royal Flush
+Bust
+Devil's Advocate
+Doubledown
+Gutshot
+Rush
+Scoop
+Wink
+Kickstart
+Redline
+Tailwind
+Velocitas
+Cantus Aureus
+Downsize
+Vanguard
+Beholder
+Conquistador
+Feral
+Forgemaster
+Gigawatt
+Iron Will
+Sentinel
+Undine
+Valiant
+Fleetfoot II
+Guzhang (故障)
+Migong
+Clamshell
+Erupcion
+Goliath
+Delphi
+Nachzehrer
+Invictus
+Khandhas
+Redcap
+Stribog
+Longinus
+Sigma
+Anvil
+Burn Notice
+Cinderblock
+Guzhang (孤掌)
+Joey
+Mincemeat
+Pizzicato
+The Hammer
+Amphetamine Queen
+Carver
+Freezerburn
+Quickfix
+Shades
+Tremor
+Player One
+Jetstream
+Pasadizo
+Rebellion
+The Good King
+Mala Suerte
+Corsair
+Embody
+Kickflip
+Knuckleball
+Switchblade
+Joyeuse
+Maleficarum
+Malleus
+Jack of Hearts
+Cantus Aurea
+Bad Penny
+Blackthorn
+G_LOC
+Russian Roulette
+Magpie
+Overclock
+Revenant
+Suckerpunch
+Avalon
+Gordias
+Myrmelion
+Reticule
+The Critic
+Whisper
+Loup-garou
+Mordred
+Strafe
+Preface
+Caladbolg
+Overheat
+Dangerzone
+Misdirection
+Vigour
+Vim
+Contra
+Hotspot
+Jigsaw
+Raindance
+Spotlight
+Therion
+Rig
+Frack
+Jackpot
+Trommel
+Quickdraw
+Bespoke
+Breakaway
+Loudmouth
+Switchblade
+Citadel
+Navpoint
+Ordnance
+The Cure
+Wake
+Forget-me-not
+Gargoyle
+Hummer
+Miss Fire
+Striptease
+Polar
+Iluminado
+Infierno
+Mano de Dio
+Mortifero
+Ripcord
+Click
+Frostburn
+Dozer
+Megacarpus
+Shieldbearer
+Babylon
+Dante
+Quarantine
+Kitty Corner
+Helldozer
+ROFLcopter
+B_X_C
+Silent Night
+Absynthesis
+Dillinger
+Godot
+Low-Key
+Paper Tiger
+Violetta
+Wright
+Boozehound
+Hezi-tate
+Magnus
+Redbolt
+Auger
+Backdraft
+O.Z.M.
+Shrapnel
+Bath Boy
+Magic Mike
+Claymore
+Dexter
+Sinister
+The Vice Grip
+Vortex
+Chronyst
+Cumulus
+Deadweight
+Gamma
+Shokyakuro
+Banger
+Mash
+Comerica
+Octane
+I-Beam
+En Rose
+Veldt
+Later Gator
+Croc Madame
+Black Queen
+Black Pawn
+Black Bishop
+Willy Nilly
+Beastborn
+Marjanah
+Armorface
+Blue Leaf
+Corvair
+Cyan
+Macha
+Trivia
+Lavinia
+Lutefisk
+Sylvestris
+Interrobang
+Eda
+Akazakana
+Kyōso
+Pete Bog
+Tinder
+Malfire
+Ballon
+Bootlegger
+Figaro
+Baler
+Keen
+Kid Gloves
+Excisor
+Adonis
+Backlash
+Cue Ball
+Red Glare
+Prowess
+Lurker
+Rotas
+Strat
+Chunk
+Snapper
+Paltik
+Three Snake
+Windshield Viper
+Liebszauber
+Aquateen
+Congeries
+Omen
+Sykkiä
+Verdict
+Br'er Rabbit
+Aluna
+Aura
+Zwang
+Fleece
+Frischluft
+Galerie
+Guandao
+Hastur
+La Maupin
+Morning Glory
+Crazy Kate
+Nebulos
+Pavise
+Stray
+Wisp
+Wiggle
+Wojtek
+Hellwalk
+Grouper
+Hapalochlaena
+Flack Rabbit
+Streamweaver
+Acolyte
+Chromium
+Lancet
+Medulla
+Myop
+Noma
+Predator
+Royal
+Swan
+Vortic
+Chernobog
+Lectern
+Wishbone
+Bluebottle
+Manic
+Rediron
+Shame
+Avi8
+Boomerang
+Liftdoff
+Mezzine
+Julius
+Maironette
+Simik
+Veil
+Vindex
+Graft
+Hextract
+Ova
+Barlycuss
+Canoric
+Carnic
+Chime
+Chorus
+Flisk
+Heist
+Howl
+Ilk
+Knave
+Martyr
+Pale Gloom
+Plover
+Quark
+Radiculose
+Recluse
+Rictus
+Runnel
+Soliform
+Wolfpact
+Hrunting
+Direlect
+Flashpoint
+Paramour
+Skullshock
+Dyaus
+Myach
+Sydyk
+Synod
+Tyglav
+Tyranis
+Adze
+Dollhouse
+Haft
+Bloodsigh
+Gutwings
+Monteserrat
+Screecul
+Atmos
+Mantra
+Scratch
+Reverb
+Twinge
+Avalon
+Raselgethi
+Babel
+Blitz
+Blossom
+Passion
+Flatline
+Inkwell
+Quag
+Accrue
+Coldfront
+Ibex
+Volhine
+Holdfast
+Renegade
+Tallow
+Vorpal
+Aleppo
+Bellcat
+Dreamer
+Duskline
+Jackal
+Pursuit
+Sniffs
+Cordite
+Dakken
+Dangerclose
+Janisarry
+Maelstrom
+Mattock
+Heirophant
+Oculli 
+Rivit
+Roth
+Lemuria
+Simmer
+Vanish
+Waif
+Dryad
+Ivory Froth
+Misery
+Sirrocco
+Stygian
+Fathom
+Gale
+Tempest
+Windstorm
+Cheshire
+Jackanapes
+Linorm
+Rabbit
+Half
+Erinys
+Themis
+Gin
+Ammit
+Lazarus
+Safeguard
+Scintillate
+Fortnight
+Icarus
+Slimeball
+Wallop
+Resilience
+Silence
+Eldritch
+Junius
+Crank
+Hot Stuff
+Sizzle
+Campanilla
+Golden Son
+Abrams
+Molotov
+Thresher
+Boggart
+Chink
+Prink
+Reynolds
+Slink
+Thunk
+Yoink
+Red Light
+Lenticular
+Metasynth
+Aurora Le Fay
+Blackbird
+Cocollona
+Coruscate
+Elhanan
+Exhaust
+Featherweight
+Fisher o' Men
+Freezeout
+Maxwell
+Pantagruel
+Pelter
+Silvertongue
+Thrust
+Veil of Ignorance
+Haze
+Meany Moe
+Redact
+Stream
+Hopscotch
+Jason
+Simon
+Steve
+Blue Bomber
+Booty Trap
+Catharsis
+Flow
+Freyja
+Memnzy
+Spade
+Spook
+Shell
+Surf
+Pillar
+Manohae
+Blur
+Chimney
+Ferryman
+Misdirection
+R
+Silver Lining
+Stock
+Hitch
+Landshark
+Peekaboo
+Cardinal
+Clarity
+Pyrachnid
+Trial
+Hanging Gardens
+Semiramis
+Atropos (II)
+Quaff
+Rebar
+Gryphon Rampant
+Lionheart
+Treason
+Agent Orange
+Blunt Force Trauma
+Pain Train
+Anansi
+Makavelli
+King of the Hill
+Mistress of Ceremonies
+Prominence
+The Cad (Caduceus)
+Airmaxx
+Boolean
+Greased Lightning
+Guidance
+Immolator
+Interstice
+Maslow's Hammer
+Princess December
+ROBOGOD
+Rube Coldberg
+Last Resort
+Red Card
+Savoir-faire
+Busta Crimez
+Event Horizon
+Acacia
+Anthem
+Axis
+Goldenrod
+Warpath
+Holmgang
+Misericorde
+Scrimshaw
+Sword of Damocles
+Warzone
+Bushwhack
+Larkspur
+The Cur
+Bath Boy
+Greenbat
+Magic Mike
+Redshift
+Ace of Space
+Marionette
+Miss Blitz
+Ragdoll
+Van Helsing
+White Flag
+Kumiho
+Sigrdrífa
+Prête
+Manticora
+Sheltershatter
+Arcstar
+Calcaire
+Forked Lightning
+Glance
+Matraque
+Navigator
+Skybreak
+Trombe
+Visage
+Whitespark
+Windy
+Matador
+Lumen
+Epidermis
+Abattoir
+Albescent
+Archival
+Armada
+Axehead
+Bête Noire
+Black Rabbit
+Brew
+Citizen
+Crane the Harmonious
+Croquer
+Cuttlefish
+Dune
+Fusilier
+Leperous
+Malin
+Masque
+Mr. Formidable
+Nightingale
+Panoply
+Petit Morty
+Rainbow Idol
+Rapere
+Skincrawl
+Templar de Sang
+Weep
+Terza Mela
+Sole Survivor
+Appendix
+Lucifuge
+
+
+Cataract
+Concierge
+Darling
+Rebound
+Fauna
+Luna
+Veneer
+Cuckooclock
+Exodus
+Getaway
+Horde
+Husk
+Mayhem
+Scrapheap
+Armada II
+Arquebus
+Basilisk
+Beacon
+Bulwark
+Castle
+Count
+Empress
+Junket
+Retaliate
+Din
+Felix
+Scintillant
+Sundream
+Ticktock
+Backtrack
+Chayot
+Comet
+Enigma
+Sakura
+Sockmonkey
+Tarot
+Animus
+Landvaettir
+Noir
+Selkie
+Techwiz
+Heatblaze
+Smokepoint
+Netherchild
+Cossack
+Cryomancer
+Vertigo
+Webster
+Cycle
+Cerulean
+Elixir
+Meka
+Skirmish
+Sunbolt
+Buttchug
+Epistulae
+Erlenmeyer
+Ingot
+Peony
+Petit Chat
+Rageboner
+Rugburn
+Silverwind
+Teabag
+Zero Escape
+Bubble
+Newton's Law
+Wavelength
+Wyvern
+Cassette
+Fugue
+MP3
+Shatterbeam
+Bird School
+Egg
+Firebear
+Miss Andry
+O RLY
+Snuffles
+Decisive Strike
+Slipknot
+Ajax
+Myriad
+Taserhands
+Barare
+Blood Price
+Cold Strike
+El Diablo
+Chibiface
+Katana
+Kunai with Chain
+Senpai
+Benchmark
+Professoressa
+Scribe
+Essence
+37th Strategem
+Doppelganger
+Flag Man
+Fraggot
+Heart Attack
+Mood Swing
+Natural Selection
+Quartermaster
+Susurravi
+Witness
+Flip Off
+Utopian
+Pixie Stick
+Lollipop
+Jawbreaker
+Rite
+Divina
+Sister Vicar
+9 Iron
+Double Fault
+Lax Bro
+Hail
+St. Elmo's Fire
+Rain of Despair
+Harsh Tempo
+Entity
+Index
+Augury
+Bomb Collar
+Naked Angel
+Devil's Grin
+Pieces of Eight
+Barnacle
+Fire Bear
+Martial Law
+Neptunia
+Fifth Element
+Houdinette
+White Lady
+Chalcedony
+Senator Smog
+Miss Oilslick
+Glitter Litter
+Plunderer
+Landlubber
+Blood Moon
+Tru Blood
+Blood Sista
+Memento Mori
+Reprehensus
+Team Playa
+Parade Day
+Vortex
+Dark Ensnare
+Pit Bull
+Dust
+The Vice Grip
+Bit
+Bot
+G.G.
+Gib
+GTFO
+Usagi
+Cannon
+The Gardener
+Deru
+Halal
+Hasp
+Jonquil
+Szilard
+The Nail
+Wisteria
+Kirin
+Aftershock
+Bayonet
+Kickback
+Mourningdove
+Ride the Lightning
+Bastard Son
+Poe
+Kid Convoker
+Miss Wisp
+Rift
+Gristledinger
+Itami
+Sho
+Tsuneo
+Clot
+Apex
+Heartwood
+Canon
+Grimoire
+Diana
+Firebrand
+Magma 
+Seidr (II)
+Tartare
+Weise
+Lag
+Nightswoop
+Looking Glass
+Spindle
+Warning
+Luce
+Marchesa
+Stato
+The Sun King
+Snow White
+Vitreous
+Acheron
+Gungnir
+Hyperion
+Mistbank
+Swash
+Circum
+Deorsum
+Sursum
+Carp
+Despair
+Draw
+Effervescent
+Lord Pierce
+Ellecksavaa
+Truth
+Oath
+Consequence
+Disaster
+Harrier
+Eerie
+Squad
+Bar Sinister
+Unity
+Flora Rose
+Torchy
+Shocking Surprise
+Telescope
+Hellroad
+Sidereal
+Persimmon
+Bravest
+Imperative
+Magic Mirror
+Simisan
+Djinni
+"Allie"
+Sangkin
+Sordid Affair
+Alchemeister
+Cruise
+Carbon Copy
+Inertia
+Thrive
+Cohoho
+Cager
+Seven-League
+MAX
+Blech
+Carpenter
+Sea
+Sin
+Wonder
+Concrete Jungle
+Ad Astra
+Grim
+Voyeur
+Nougat
+Styx
+Locus
+Chikara
+Dāku 
+Jakuten
+Kuishinbō
+Ni
+Zankyō 
+Illuminate
+Arashi
+Brontes
+Grizzly
+Coyote
+Diablo de el Suerte
+Esé
+La Tempestad
+Maestra
+Cooker
+Psych
+Battlement
+Drawbridge
+Portcullis
+Redoubt
+Siege
+Trebuchet
+Pallas
+Reflection
+Roma
+Taunt
+Triton
+Viscosity
+~Starlight Princess~
+Bái Lóng
+Hōng
+Jūnfá
+Tàiyáng
+Aesinador
+Airdash
+Bellona
+Campeón
+Esbirro
+Groupthink
+Hon
+Injustica
+Jōzō
+Naplam
+Professor Pain
+Retaliación
+Soothe
+Tingletouch
+Unseen Assailant
+Watchrunner
+Sterling
+Puck
+The Hare
+Cocoon
+Metamorphose
+Wiseacre
+Ghost Army
+Ghost of Christmas Past
+Ampersand
+Oz
+Purple Parrot
+Red
+Wan
+Broadcast
+Trigger Finger
+Ghetto G-sus
+Grindylow
+Hands of an Angry God
+Wicht
+Allele
+Cotton
+Pater
+Seachange
+Shakesphere
+Deep-Six
+Coy
+Thousand Hands
+Thrice
+Finial
+Pioneer
+Playpen
+Brutal
+Dark Reprise
+Superstition
+Big Bad
+Culverin
+Dire
+Galileo
+Lacrimosa
+Swole
+Cassette (II)
+Plower
+Red Eye
+
+
+Titz
+Azz
+Furor
+Mélange
+Kablam!
+Snowdrop
+The 800
+DeWitt
+Pas de Deux
+Caul
+Horn Lord
+Ravel
+Fireback
+Asbestos
+Asworstos
+Luddite
+Ashcloud Akira
+Flair
+Gungnir
+Scorpio
+Slither
+Candela
+Brightside
+Filament
+Drop
+Freestyle
+Omnigrade
+Reverberatum
+Domovoi
+The Prince in Rags
+Arcturus
+Blackbile
+Bloodblister
+Bombast
+Cindercrest
+Coriolis
+Diamonddust
+Estoc
+Greasetrap
+Hyaline
+Mendicant
+Metronome
+Mycelious
+Pennypincher
+Zopilote
+Antlion
+Showtime
+Sulayman
+Corona
+Laurel
+Carnelian
+Crevasse
+Marauder
+Turnkey
+Broadside
+Jackhammer
+Anathema
+Anemona
+Banshee
+Bobbin
+Havoc
+Jupiter
+Kamaitachi
+Mano Destra
+Pinball Wizard
+Repose
+Reynard
+Scheherazade
+Scordatura
+Syncopate
+Trammel
+Trespass
+Vagabond
+Vassal
+Wayfaring Stranger
+Hostage
+Jericho
+Sidewinder
+Sprocket
+Ameno-sagiri
+Homura
+Takemikazuchi
+Totsuka-no-tsurugi
+Yata-no-Kagami
+Yatagarasu
+Noblesse Oblige
+Pinnacle
+Sovereign
+Spire
+Viceroy
+Clavier
+Dreadnought
+Laplace
+Thane
+Kusanagi-no-tsurugi
+Sawmill
+Siegfried
+Canard
+Sprite
+Antikythera
+Deus Ex
+Sevenleague
+Dehydro
+Madrigal
+Stutterstep
+Groundskeeper
+Arson Jones
+Bookie
+Epicenter
+Skingraft
+The Don
+Tommygun
+Argus
+Carroll
+Epilogue
+Gorge
+Hook
+Koryuu
+Line
+Minos
+Mist
+Quartz
+Revenant
+Sinker
+Theodosian
+Thresher
+Treant
+Gauss II
+
+The Black Goat
+Hale
+Miss Hiss
+Chica Plow
+Professor Perpetuity
+Queen Midas
+Sonic Velvet
+Little Hand
+Lady Saint Plumage
+Ignes Fatui
+Accolade
+Laureate
+Firecracker
+Snakeskin
 37th Strategem
 9 Iron
 Abattoir
 Abrams
 Absynthesis
 Acacia
-Accolade / Laureate
+Accolade
+Laureate
 Accrue
 Ace of Space
 Acheron
@@ -53,7 +1326,8 @@ Atmos
 Atropos (II)
 Auger
 Augury
-Aura/Zwang
+Aura
+Zwang
 Aurora Le Fay
 Avalon
 Avalon
@@ -170,7 +1444,8 @@ Caul
 Cerulean
 Chalcedony
 Chayot
-Checkmate / Jiangjun
+Checkmate
+Jiangjun
 Checkpoint
 Chernobog
 Cheshire
@@ -961,7 +2236,6 @@ Ticktock
 Tinder
 Tingletouch
 Titz
-Tom / Will
 Tommygun
 Topaz
 Torchy
@@ -1053,3 +2327,498 @@ Yoink
 Zankyō 
 Zero Escape
 Zhugeliang
+
+Accord
+Acidbath
+Acoustic
+Adalid
+Adamant
+Aegis
+Agnes Court
+Alabaster
+Alexandria
+Allfather
+Andrew Richter
+Animos
+Annex
+Anomaly
+Apotheosis
+Appraiser
+Arbiter
+Armada
+Armsmaster
+Arthwys
+Ascendant
+Ash Beast
+Assault
+Astrologer
+August Prince
+Auroch
+Bahu
+Bakuda
+Ballistic
+Bambina
+Barker
+Barrow
+Bastion
+Battery
+Bauble
+Bearach
+Big Rig
+Bitch
+Hellhound
+Biter
+Black Kaze
+Blasto
+Blister
+Blowout
+Blue Bomber
+Blueblood
+Bonesaw
+Brandish
+Brazier
+Breed
+Brickhaus
+Brigandine
+Browbeat
+Burnscar
+Butcher 
+Butcher II
+Butcher III
+Butcher IV
+Butcher IX
+Butcher VI
+Butcher VIII
+Butcher XI
+Butcher XII
+Butcher XIII
+Butcher XIV
+Quarrel
+Cache
+Cadence
+Califa de Perro
+Campanile
+Canary
+Carapacitor
+Carnal
+Cascade
+Cask
+Chain Man
+Chariot
+Cherish
+Butcher XV
+Chevalier
+Chopshop
+Chronicler
+Chubster
+Chuckles
+Cinderhands
+Cinereal
+Circus
+Citrine
+Clasp
+Clay
+Clockblocker
+Cloister
+Codex
+Coil
+Contessa
+Cozen
+Crane the Harmonious
+Cranial
+Crawler
+Cricket
+Crimson
+Crucible
+Crusader
+Cuff
+Daiichi
+Damsel of Distress
+Dauntless
+Deathadder
+Debaser
+Defiant
+Deva Yaga
+Dinah Alcott
+Dispatch
+Dodge
+Dogwood
+Doormaker
+Dovetail
+Dragon
+Dredge
+Echidna
+Edict
+Egessa
+Eidolon
+Elegance
+Eleventh Hour
+Eligos
+Entourage
+Epoch
+Erudite
+Escutcheon
+Exalt
+Fathom
+Faultline
+Feint
+Felix Swoop
+Fenja
+Fierceling
+Fisherboy
+Flambe
+Flashbang
+Flashpoint
+Flechette
+Foil
+Fleur
+Floret
+Fog
+Four
+Fourteen
+Frenetic
+Furror
+Furrow
+Gallant
+Galvanate
+Garnett
+Garotte
+Gauss
+Gavel
+Genesis
+Genoscythe
+Gentle Giant
+Geomancer
+Getaway
+Gethsemane
+Glace
+Glaistig Uaine
+Valkyrie
+Glory Girl
+Glyph
+Golem
+Good Neighbor
+Grace
+Grandiose
+Granka
+Gray Boy
+Greenhorn
+Gregor the Snail
+Grue
+Grumman
+Gully
+Gwerrus
+Hallow
+Halo
+Harbinger
+Harsh Mistress
+Hatchet Face
+Heartbreaker
+Heith
+Hemorrhagia
+Herald
+Hero
+Hew
+Hiemal
+Hookwolf
+Hooligan
+Horizon
+Hoyden
+Humble
+Hunch
+Imp
+Impel
+Ingenue
+Intrepid
+Iron Falcon
+Iron Rain
+Ironscale
+Jack Slash
+Jacklight
+Jadeite
+Jamestown
+Jed Taylor
+Jia
+Jing
+Jotun
+Jouster
+Kaeing Tha
+Hidden Hand
+Kaiser
+Kazikli Bey
+Khepri
+Khun Sa
+Prince Prosperous
+Kid Win
+King
+King of Cups
+King of Hearts
+King of Spades
+King of Wands
+Kismet
+Knave of Clubs
+Knave of Hearts
+Knight Crimson
+Knot
+Krieg
+Kudzu
+Lab Rat
+Labyrinth
+Lady Photon
+Laserdream
+Leet
+Legend
+Leister
+Leonid
+Licit
+Ligeia
+Lightslinger
+Lightstar
+Lizard Prince
+Lizardtail
+Lockdown
+Lung
+Lustrum
+Magnaat
+Mama Bear
+Mannequin
+Manpower
+Mantellum
+Marquis
+Masamune
+Matryoshka
+Menja
+Miasma
+Minakhim
+March
+Mirrormask
+Miss Militia
+Mister Eminent
+Mockshow
+Mog
+Momo
+Monokeros
+Moord Nag
+Mouse Protector
+Mr. Keene
+Munstro
+Murder Rat
+Murderbeam
+Mush
+Muspelheim
+Myrddin
+N-Force
+Narwhal
+Nemean
+Newter
+Nice Guy
+Niflheim
+Night
+Night Hag
+Nilbog
+Nine
+Nix
+Noctis
+Nonpareil
+Null
+Zero
+Number Man
+Nyx
+Oaf
+Ogun
+Oliver
+One
+Oni Lee
+Othala
+Othello
+Paddock
+Panacea
+Parian
+Particulate
+Patrician
+Pelter
+Perdition
+Periastron
+Persecutor
+Nero
+Pestilence
+Phir Se
+Phoenixfeather
+Phu comti
+Pime Abtiss
+Poletama
+Polish
+Prancer
+Prefab
+Pretender
+Prin Hunlika
+Princess Scarecrow
+Prince of Blades
+Prism
+Professor Haywire
+Prolapse
+Protectorate
+Psychosoma
+Purity
+Pyrotechnical
+Quark
+Queen of Swords
+Rail
+Ramrod
+Ramus
+Ravager
+Raymancer
+Reaver
+Regent
+Hijack
+Ren
+Resolute
+Revel
+Rifle
+Rime
+Romp
+Rook
+Rosary
+Roulette
+Rune
+Sadboy
+Saint
+Saltykov
+Sanguine
+Satyrical
+Saurian
+Scanner
+Scapegoat
+Schwarze Tante
+Screamer
+Screen
+Scrub
+Sere
+Shadow Stalker
+Sham
+Shamrock
+Shatterbird
+Shen yu
+Shielder
+Shuffle
+Siberian
+Sifara
+Silkroad
+Skidmark
+Skinslip
+Skitter
+Weaver
+Sleeper
+Smackdown
+Snaptrap
+Snowflake
+Speaker of the House
+Spire
+Spitfire
+Sploosh
+Spree
+Spruce
+Spur
+Squealer
+Stain
+Standstill
+Thirteenth Hour
+Stardust
+Stinger
+Stormtiger
+Strider
+String Theory
+Subject 265
+Subject 3016
+Sundancer
+Tattletale
+Teacher
+Tecton
+The Custodian
+The Dart
+The Lilies
+Thirteen
+Thirty-One
+Thirty-Two
+Toggle
+Tong Ling Ta
+Ziggurat
+Topsy
+Trainwreck
+Trickster
+Triumph
+Tunguska
+Turanta
+Twenty-Three
+Two
+Tyrant
+Uber
+Uglymug
+Upperhand
+Ursa Aurora
+Usher
+Valefor
+Vantage
+Vellum
+Velocity
+Velvet
+Vex
+Victor
+Vikare
+Virago
+Vista
+Vitiator
+Vixen
+Vornehm
+Wanton
+Watch
+WCM
+Weld
+Whimper
+Whirlygig
+Winter
+Woebegone
+Young Buck
+Zigzag
+Gauss II
+Dragon
+Axis
+Warpath
+Pain Train
+Van Helsing
+Ace of Space
+Bath Boy
+Princess December
+Acacia
+Anthem
+Scrimshaw
+Lionheart
+Holmgang
+Welcome to the Jungle
+Artisan
+Hestia
+Strata
+Absolute Hero
+Jericho
+Downsize
+Archon
+Alexandria
+Pretender
+Stellarator
+Desvendar
+Malhador
+Thin Man
+Linedrive
+Fusão
+Gateslinger
+Hedron
+Swiftspear
+Golden Fang
+Bellstriker
+Eureka III
+Blunt Force Trauma
+Bullwhip
+Cota de Malha
+Degenerado
+Empyreal
+Tetelestai

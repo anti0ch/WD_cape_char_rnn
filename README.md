@@ -24,9 +24,8 @@ This will train char-rnn on the first 1000 characters of the tiny shakespeare co
 - `char_rnn_model.py` implements the Char-RNN model.
 
 ## Training
-To train on tiny shakespeare corpus (included in data/) with default settings (this might take a while):
 ```bash
-python train.py --data_file=data/tiny_shakespeare.txt
+python train.py --data_file=data/raws.txt
 ```
 
 All the output of this experiment will be saved in a folder (default to `output/`, you can specify the folder name using `--output_dir=your-output-folder`). 

@@ -13,10 +13,10 @@ Follow the instructions on [TensorFlow official website](https://www.tensorflow.
 
 If the installation finishes with no error, quickly test your installation by running:
 ```bash
-python train.py --data_file=data/tiny_shakespeare.txt --num_epochs=10 --test
+python train.py --data_file=data/raw.txt --num_epochs=10 --test
 ```
 
-This will train char-rnn on the first 1000 characters of the tiny shakespeare copus. The final train/valid/test perplexity should all be lower than 30. 
+This will train char-rnn on the first 1000 characters of the cape database. The final train/valid/test perplexity should all be lower than 30. 
 
 # Usage
 - `train.py` is the script for training.

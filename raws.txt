@@ -3614,50 +3614,15 @@ Tether
 Thane
 Thaumaturge
 Thaw
-The  Trinity
+The Trinity
 The 800
-The Adjudicator of Power
-The Agent of Scorch
-The Agent of Suns
-The Arson Professor
 The Artful Dodger
-The Bad Elder
-The Baron of Hell
-The Baron of Storm
-The Baroness of Tides
-The Bastard of Glass
-The Bear of Eons
-The Bitch of Static
 The Black Duke
 The Black Goat
 The Black Knight
-The Blue Rogue
-The Bomber of Cyborg
-The Boss of Doom
-The Boss of Shadow
-The Bright Champion
 The Bronze Baroness
-The Brutal Agent
 The Cad
-The Cad (Caduceus)
 The Calamity Templar
-The Captain of Birds
-The Capybara of Knaves
-The Cat of Stars
-The Champion of Eons
-The Cold Agent
-The Cold Knight
-The Colossal Tyrant
-The Commander of Birds
-The Commander of Day
-The Commander of Murder
-The Commando of Flame
-The Commodore of Thunder
-The Count of Acid
-The Coyote of Spirit
-The Crescent Tycoon
-The Crimson Boss
-The Crimson Paladin
 The Critic
 The Cur
 The Cure
@@ -3665,179 +3630,30 @@ The Custodian
 The Cypher
 The Dark King
 The Dart
-The Deep Professor
-The Deer of Dark
-The Despicable Commodore
-The Devil's Count
-The Doctor of Gate
-The Doctor of Ghost
-The Dog of Power
 The Don
-The Double Doctor
-The Double Sister
-The Dragoon of Storms
-The Duchess of Legacy
 The Duke
-The Duke of Bone
-The Duke of Soul
 The Dusk
-The Eagle of Talons
-The Elder of Acid
-The Elder of Chem
-The Electric Duchess
-The Elegant Mistress
-The Empress of Might
-The Empress of Wraith
-The Ethereal Dragoon
-The Exemplar of Flames
-The Extreme Commando
-The Fancy Prodigy
-The Fantastic Commander
-The Fearless Lady
 The Final Guardian
 The Foresaken
-The Frog of Masks
-The Furious Bastard
-The Furious General
-The Gallant Paladin
 The Gardener
-The General of Feathers
 The Gentleman
-The Gentlemen
-The Ghostly Commander
-The Glorious Savior
-The Gold Surgeon
-The Golden Elder
-The Golden Mother
 The Good King
-The Gorilla of Night
-The Grand Knight
-The Great General
 The Green Man
-The Groundhog of Light
-The Gryphon of Flame
-The Guardian of Knives
 The Hammer
-The Hampster of Earth
 The Hare
-The Hare of Life
-The Harsh Surgeon
-The Hawk of Flames
-The Heartless Bomber
-The Heavy Keeper
-The Hedgehog of Tides
 The Hollow King
 The Huntsman
-The Iguana of Arms
-The Immortal Savant
-The Impervious Sir
 The Implicit
-The Incredible Captain
-The Iron Empress
-The Jaguar of Waves
-The Jolly Agent
-The Junkyard Commander
-The Kangaroo of Legacy
-The Keeper of Light
-The King of Blades
-The King of Grind
-The King of Night
-The Kingfisher of Feathers
-The Kitty of Chasms
-The Knight of Night
-The Knight of Pain
-The Knight of Soul
-The Lady of Arms
-The Last Exemplar
 The Lilies
-The Lion of Suns
-The Lizard of Explosions
-The Lord of Stars
 The Lucky Bitch
-The Macho Madame
-The Madame of Daylight
-The Majestic Duke
-The Man
-The Metropolitan Protector
-The Mighty Lord
-The Minnow of Frost
-The Mire King
-The Miss of Frost
-The Mistress of Explosions
-The Monarch Operative
-The Moose of Night
-The Mother of Life
-The Mouse of Runes
-The Mutant Boss
 The Nail
 The Nuclear Empress
 The Ombudsman
-The Operative of Death
-The Paladin of Waves
-The Panther of Blades
-The Phantom Miss
-The Pink Prince
-The Platypus of Might
 The Prince in Rags
-The Prince of Calamity
-The Prince of God
-The Prince of Talons
-The Princess of Earth
-The Prodigy of Spirit
-The Prodigy of Terror
-The Professor of Inferno
-The Professor of Nail
-The Professor of Storms
-The Protector of Chasms
-The Quantum Princess
-The Queen of Knaves
-The Radioactive Templar
-The Rat Operative
-The Red Prince
-The Resurrection Man
-The Rogue of Despair
-The Royal Watchman
-The Savant of Night
-The Savant of Tempo
-The Savior of Runes
-The Scarlet Sister
-The Sewer Prince
 The Sheriff
-The Silent Commodore
-The Silent King
-The Silver Champion
-The Silver Knight
-The Sir of Dark
-The Sister of Masks
-The Sister of Trash
-The Sonic Doctor
-The Sorcerous Templar
-The Sparrow of Daylight
-The Squirrel of Knives
-The Stalwart Adjudicator
-The Starling of Birds
 The Steel Savant
 The Sun King
-The Supersonic Baron
-The Supreme Commander
-The Surgeon of Frost
-The Swift Queen
-The Templar of Diamond
-The Templar of Suns
-The Terrible Bastard
-The Tidal Knight
-The Tiger of Storms
-The Toxic King
-The Tycoon of Hawk
-The Tyrant of Fox
-The Ultra Professor
-The Unlucky Prodigy
 The Vice Grip
-The Wandering Baron
-The Watchman of Feathers
-The White Professor
-The White Templar
-The Wolf of Soul
 Themis
 Theodosian
 Therion

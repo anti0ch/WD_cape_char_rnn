@@ -34,6 +34,7 @@ Ace In The Hole
 Ace of Space
 Acheron
 Achilles
+Acid Trip
 Acidbath
 Acidcutter
 Acidhands
@@ -96,6 +97,7 @@ Alabaster
 Alacrity
 Albescent
 Alchemeister
+Alchemiss
 Alchemist
 Alcove
 Aleph Null
@@ -312,6 +314,7 @@ Bangarang
 Banger
 Bangle
 Banjo
+Bank Breaker
 Banshee
 Banter
 Baphomet
@@ -579,6 +582,7 @@ Bulwark Man
 Bulwarkfighter
 Bündnis
 Bunker
+Bunk-Her
 Bunyip
 Burden
 Burgeon
@@ -1012,6 +1016,7 @@ Cumulus
 Curbstomp
 Curfew
 Curie
+Cute Witch Queen
 Cuttle
 Cuttlefish
 Cwn Annwn
@@ -1121,6 +1126,7 @@ Detox
 Detritus
 Deus Ex
 Deus Ex Machina
+Deus Volt
 Deuteronomy
 Deva Yaga
 Devil Moon
@@ -1152,6 +1158,7 @@ Dignity
 Dilemma
 Diligence
 Dillinger
+Dim Mak II
 Din
 Dinah Alcott
 Dio
@@ -1233,6 +1240,7 @@ Dr. Little
 Dr. Tomorrow
 Draconid
 Dracula
+Drag Queen
 dragon
 Dragonbreath
 Dragoon Raven
@@ -1423,6 +1431,7 @@ Extirpate
 Extravagant
 Extreme Girl
 Extreme Gryphon
+Eye Matey
 Eyeshot
 Ezekiel
 Fable
@@ -1448,6 +1457,7 @@ Fantastic Bear
 Fantastic Kid
 Faraday
 Fastball
+Fatal Femme
 Fate
 Fathom
 Faultline
@@ -1511,6 +1521,7 @@ Fissure
 Fist Boy
 Fist of Iron
 Fistfight
+Fistress
 Fistslayer
 Flack Rabbit
 Flag Man
@@ -1902,6 +1913,7 @@ Hacksaw
 Hadron
 Haft
 Hagel
+Haiku
 Hail
 Hair Metal
 Halal
@@ -2076,6 +2088,7 @@ Hrunting
 Huayra
 Hubble
 Hubris
+Huld
 Humanist
 Humble
 Humid
@@ -2105,6 +2118,7 @@ Iceflow
 Ichor
 Id
 Ideologue
+Ides
 Idol
 Ifrit
 Ignatius
@@ -2178,6 +2192,7 @@ Iridescent
 Iris
 Iron Falcon
 Iron Rain
+Iron Scar
 Iron Scorch
 Iron Spite
 Iron Will
@@ -2355,6 +2370,7 @@ Kore
 Korund
 Koryuu
 Kothophed
+Koto
 Krag
 Kraken
 Kratocrat
@@ -2429,6 +2445,7 @@ Legwork
 Leister
 Leitmotif
 Lemuria
+Lenore
 Lenticular
 Leonid
 Leperous
@@ -2436,6 +2453,7 @@ Leveret
 Leviticus
 Lexicon
 Libera
+Libertas
 Libra
 lich
 Lichtblitz
@@ -2514,6 +2532,7 @@ Lucky Duck
 Lucky Seven
 Luddite
 Lumen
+Lumina
 Luminary
 Lun
 Luna
@@ -2638,6 +2657,7 @@ Masochist
 Masque
 Masquerade
 Mastermind
+Masterplan
 Masterstroke
 Mastiff
 Matador
@@ -2731,6 +2751,7 @@ Miss Blitz
 Miss Cleaver
 Miss Fire
 Miss Hiss
+Miss Information
 Miss Mania
 Miss Massacre
 Miss Militia
@@ -2760,6 +2781,7 @@ Moccasin
 Mockingbird
 Mockshow
 Mog
+Moira Kane
 Molecular
 Molotov
 Momo
@@ -3099,6 +3121,7 @@ Pelzig
 Pendulum
 Pennypincher
 Pentamorpher
+Penumbra Puma
 Peony
 Pepperbox
 Perdition
@@ -3158,6 +3181,7 @@ Pink Tempo
 Pinnacle
 Pinpoint
 Pinprick
+Pin-up Girl
 Pioneer
 Pirouette
 Pisces
@@ -3464,6 +3488,7 @@ Reverb
 Reverberate
 Reverberatum
 Reverie
+Reverse Cowgirl
 Reversi
 Revert
 Revolver
@@ -3702,6 +3727,7 @@ Shen yu
 Shenanigans
 Shepherd
 Sheriff
+Shi Shi
 Shieldbearer
 Shielder
 Shifu
@@ -3970,6 +3996,7 @@ Staticface
 Stato
 Statuary
 Statuesque
+Steel Jaguarundi
 Steel Mask
 Steel Moose
 Steel Wool
@@ -4005,6 +4032,7 @@ Strata
 Stray
 Stream
 Streamweaver
+Street Meat
 Streetwise
 Stribog
 Stricture
@@ -4070,6 +4098,7 @@ Swift Supreme
 Swiftspear
 Swill
 Swindle
+Swiss
 Switch
 Switchblade
 Swole
@@ -4116,6 +4145,7 @@ Teacher
 Tealeaf
 Team Playa
 Tease
+Technicolor Rainbow Princess
 Technochaser
 Technoslayer
 Techwiz
@@ -4308,6 +4338,7 @@ Trellis
 Tremor
 Trespass
 Trespasser
+Triage
 Trial
 Trick Shot
 Trickshot
@@ -4434,6 +4465,7 @@ Velocity
 Velvet
 Vendetta
 Veneer
+Venganza
 Venom
 Venus
 Verdict
@@ -4519,6 +4551,7 @@ Webster
 Weep
 Weeping Willow
 Weevil
+Weird Mother
 Weise
 Welcome to the Jungle
 Weld
@@ -4539,6 +4572,7 @@ White King
 White Lady
 White Lion
 White Night
+White Rabbit
 White Rose
 White Tiger
 Whiteout
@@ -4553,6 +4587,7 @@ Wiesswald
 WiFi
 Wiggle
 Wight
+Wild Hunt
 Wild Man
 Wild Warrior
 Wildcard
@@ -4605,6 +4640,7 @@ Wrath
 Wrayth
 Wreck
 Wrecker
+Wrecking Belle
 Wretch
 Wright
 Wrought

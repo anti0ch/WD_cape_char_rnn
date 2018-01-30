@@ -1,10 +1,11 @@
-2nd law
+2nd Law
 37th Strategem
 9 Iron
 A Friend In Need
 Ábaco
 Abacus
 Abattoir
+Abbot
 Abbotoir
 Abel
 Abeyant
@@ -12,7 +13,9 @@ Abholos
 Able
 Abomination
 Abracadabra
+Abraham
 Abrams
+Abscheulichkeit
 Abscond
 Absent
 Absinthe
@@ -36,6 +39,7 @@ Acidcutter
 Acidhands
 Acidsplitter
 Acidtooth
+ACME
 Acolyte
 Acoustic
 Acquisition
@@ -49,6 +53,7 @@ Adjudicator Force
 Adjust
 Adonis
 Adramelech
+Advent
 Adversary
 Adze
 Aegis
@@ -57,6 +62,7 @@ Aeon
 Aerophone
 Aesinador
 Aesop
+Aether
 Aficionado
 Afterburner
 Afterimage
@@ -85,6 +91,7 @@ Ajax
 Akasha
 Akazakana
 Akimbo
+Akira
 Alabaster
 Alacrity
 Albescent
@@ -125,6 +132,7 @@ Amphisbaena
 Amulet
 Analytic
 Anansi
+Anarchist
 Anarchy
 Anathema
 Anchorman
@@ -132,6 +140,7 @@ Ancient
 Andrew Richter
 Anemona
 Angel
+Angler
 Anglerfish
 Anguish
 Animal
@@ -157,6 +166,7 @@ Aperture
 Apex
 Apogee
 Apollo
+Apollo H8
 Apophis
 Apotheosis
 Apparatus
@@ -180,6 +190,8 @@ Archon
 Arcstar
 Arcturus
 Ares
+Argo
+Argonaut
 Argus
 Aria
 Aristotle
@@ -206,11 +218,14 @@ Ash
 Ash Beast
 Ashcloud Akira
 Ashtoreth
+Asimov
+Asmodeus
 assault
 Asteria
 Astrape
 Astrologer
 Asworstos
+Aten
 Athenian
 Athlete
 Atlas
@@ -220,6 +235,7 @@ Atrophy
 Atropos (II)
 Atticus
 Attitude
+Auburn
 Audial
 Auditor
 Auger
@@ -254,6 +270,7 @@ Azazel
 Azoth
 Azz
 B_X_C
+Babble
 Babel
 Babylon
 Bacchanal
@@ -290,6 +307,7 @@ Ballistic
 Ballon
 Ballot
 Bambina
+Bandit
 Bangarang
 Banger
 Bangle
@@ -304,12 +322,15 @@ Barb
 Barker
 Barlycuss
 Barnacle
+Baron
 Baron God
 Baron Guy
 Baron Storm
 Baron Terror
 Baroness
 Baroness Mask
+Barotrauma
+Barracuda
 Barricade
 Barrow
 Barter
@@ -327,6 +348,7 @@ Batter
 battery
 Battlement
 Battlemind
+Battlescar
 Battlin’ Jackson
 Bat-Tziyon
 Bauble
@@ -341,6 +363,7 @@ Bedlam
 Bedlamite Knight
 Beekeeper
 Beelzebub
+Beeswax
 Beholder
 Bellcat
 Belligerent
@@ -352,6 +375,7 @@ Benchmark
 Benthos
 Bespoke
 Bête Noire
+Betwixt
 Bezoar
 Bhanjak
 Biciul
@@ -364,11 +388,13 @@ BigBadWolf
 Bigwig
 Bildhauer
 Billabong
+Binary
 Binge
 Bird School
 Birdeye
 Birdhouse
 Birdseye
+Biscuits
 Bismuth
 Bit
 Bitch
@@ -426,6 +452,7 @@ Blood Price
 Blood Sista
 Bloodbag
 Bloodblister
+Bloodless 
 Bloodletter
 Bloodlust
 Bloodmoon
@@ -481,8 +508,11 @@ Boomspark
 Bootleg
 Bootlegger
 Booty Trap
+Booyah
 Boozehound
 Boreal
+Borg
+Boss
 Boss Fire
 Boss Hell
 Boss Mask
@@ -528,10 +558,12 @@ Broiler
 Broker/_
 Bronte
 Brontes
+Bronze
 Bronze Hedgehog
 Bronze Man
 browbeat
 Bruin
+Bruiser
 Brutal
 Brutal Day
 Brutal Despicable
@@ -581,6 +613,7 @@ Bygone
 Cache
 Cacophony
 Cadence
+Cadillac
 Caduceus
 Caesar
 Caesura
@@ -597,8 +630,10 @@ Calamityshock
 Calcaire
 Caliber
 Calibrate
+Calico
 Caliente
 Califa de Perro
+Callisto
 Calvary
 Calypso
 Camaka
@@ -619,13 +654,18 @@ Cannon
 Canon
 Canopy
 Canoric
+Cans
 Cantus Aureus
+Cap
 Capital
 capricorn
 Captain Bulwark
 Captain Convoker
 Captain Larrikin
 Captain Man
+Captain Natro
+Captain Oceas
+Captain Pyra
 Captain Rune
 Captain Saber
 Caption
@@ -639,6 +679,7 @@ Caricature
 Carmine
 Carnal
 Carnaval
+Carne Diem
 Carnelian
 Carnic
 Carnifex
@@ -686,7 +727,9 @@ Ceilidh
 Celestia
 Celestial
 Cell Sword
+Celsius
 Celt
+Celtic
 Cemetery
 Censor
 Centavo
@@ -715,6 +758,7 @@ Chatterbox
 Chayot
 Checkmate
 Checkpoint
+Chekov
 Chemcrasher
 Chemgun
 Cherish
@@ -773,12 +817,15 @@ Civil
 Clamshell
 Clarinet
 Clarity
+Clarke
 Clasp
 Classical
 Claudius
 Clavier
 Clay
 Claymore
+Cleanse
+Cleanser
 Clear
 Cleaver Boy
 Cleaverwalker
@@ -794,9 +841,11 @@ Cloister
 Clot
 Cloud Nine
 Cloudburst
+Clover
 Clue
 Coach
 Coal
+Cobalt
 Cocktail
 Cocollona
 Cocoon
@@ -854,6 +903,7 @@ Conquest
 Conquistador
 Consecrator
 Consequence
+Conspiracy
 Conspirator
 Constellate
 Contamination
@@ -867,6 +917,7 @@ Control Freak
 Controlled
 Convection
 Cooker
+Cooper
 Copernicus
 Cord
 Cordite
@@ -875,6 +926,7 @@ Cordyceps
 Core
 Corinthian
 Coriolis
+Cornhole
 Corona
 Coronary
 Corsair
@@ -919,6 +971,7 @@ Crescendo
 Crescent Glass
 Crescent Moon
 Crescent Shock
+Cretian
 Crevasse
 Cricket
 Crimson
@@ -933,6 +986,8 @@ Cronioz
 Croquer
 Crossbones
 Crosswired
+Crow
+Crowbar
 Crowd
 CrowdControl
 Crucible
@@ -983,6 +1038,7 @@ Damsel
 Damsel of Distress
 Dancehall
 Dancer
+Dandylion
 Dangerclose
 Dangerzone
 Dante
@@ -997,6 +1053,7 @@ Darude
 Darwin and Finch
 Database
 Dauntless
+Dawn
 Day Boy
 Daybolt
 Daybomber
@@ -1004,6 +1061,7 @@ Daybreak
 Daydream
 Dayguard
 Daylight
+Daymaker
 Dayman
 Dayseeker
 Dead Air
@@ -1065,6 +1123,7 @@ Deus Ex
 Deus Ex Machina
 Deuteronomy
 Deva Yaga
+Devil Moon
 Devil's Advocate
 Devil's Frost
 Devil's Grin
@@ -1086,6 +1145,7 @@ Diamondscythe
 Diana
 Diceroll
 Dichotomous
+Die
 Digit
 Digit/Digimaster
 Dignity
@@ -1105,6 +1165,7 @@ Dirtdigger
 Disaster
 Disciple
 Disclosure
+Discovery
 Discus
 Disjoint
 Dispatch
@@ -1138,6 +1199,7 @@ Doomhands
 Doomsday
 Doomslinger
 Doormaker
+Doozie
 Doppelgang
 Doppelganger
 Doppler
@@ -1159,6 +1221,7 @@ Downbeat
 Downburst
 Downfall
 Downsize
+Doze
 Dozen
 Dozer
 Dr Goggles
@@ -1209,6 +1272,7 @@ Duke Triumphant
 Dune
 Dunerider
 Duress
+Dusk
 Duskline
 Dust
 Dust Devil
@@ -1232,6 +1296,7 @@ Effervescent
 Effigy
 Egessa
 Egg
+Eggs
 Ego
 Ego Trip
 Eidolon
@@ -1266,6 +1331,7 @@ Elijah
 Elishah
 Elixir
 Ellecksavaa
+Ellimist
 Ember
 Emberling
 Embody
@@ -1302,10 +1368,12 @@ Epicurean
 Epidermis
 Epilogue
 Epimetheus
+Epione
 Epistulae
 Epoch
 Epsilon
 Equilibrium
+Equinox
 Eraser
 Erinys
 Erlenmeyer
@@ -1363,6 +1431,7 @@ Fabulist
 Facade
 Facet
 Faerie
+Fahrenheit
 Faint
 Fairytale
 Faithless
@@ -1374,15 +1443,18 @@ Famicide
 Famine
 Fancy Boy
 Fancy Coyote
+Fantasia
 Fantastic Bear
 Fantastic Kid
 Faraday
 Fastball
+Fate
 Fathom
 Faultline
 Fauna
 Faust
 Fawn
+Fay
 Fearless Iguana
 Fearless Mask
 Fearmaster
@@ -1407,8 +1479,10 @@ Figaro
 Filament
 Filibuster
 Filter
+Fin
 Final Squirrel
 Final Supreme
+Finale
 Finality
 Finch
 Finial
@@ -1457,6 +1531,7 @@ Flaw
 Flechette
 Fleece
 Fleetfoot II
+Fletcher
 Fleur
 Flicker
 Flight Risk
@@ -1507,6 +1582,7 @@ Fragment
 Fragstorm
 Frameshift
 Freefire
+Freemason
 Freestyle
 Freezeout
 Freezerburn
@@ -1546,6 +1622,7 @@ Furious Jaguar
 Furor
 Furror
 Furrow
+Fury
 Fusão
 Fusilier
 G.G.
@@ -1576,13 +1653,16 @@ Gambit
 Gamdot
 Gamma
 Ganesh
+Ganymede
 Garaou
 Garden
 Gargantuan
 Gargoyle
+Garnet
 Garnett
 Garotte
 Garrison
+Garth
 Gaslight
 Gate Dude
 Gatecrasher
@@ -1600,6 +1680,7 @@ Gauss II
 Gavel
 Gear
 Gearbox
+Geiger
 Geist
 Gellid
 Gemini
@@ -1663,6 +1744,7 @@ Glitterhands
 Glitz Girl
 Glitzernde
 Gloam
+Globe
 Gloom
 Glorious Man
 Glorious Mouse
@@ -1683,6 +1765,7 @@ Godmonger
 Godot
 God's Thumb
 Godsend
+Gog
 Gold
 Gold Crush
 Gold Inferno
@@ -1703,13 +1786,18 @@ Gomorrah
 goner
 Good Johnny
 Good Neighbor
+Goodspear 
 Gooper
 Gordias
+Gore
 Gorge
 Gorgon
 Gorgrath
 Gossamer
+Goth
+Gothic
 Grace
+Graceless
 Gradient
 Graft
 Gram
@@ -1723,6 +1811,7 @@ Granite
 Granka
 Grant
 Grapeshot
+Grasscutter
 Grasshopper
 Grassland
 Gravedanger
@@ -1801,6 +1890,7 @@ Gunshy
 Gunslinger
 Gunsmith
 Gutshot
+Gutter
 Gutwings
 Guzhang (孤掌)
 Guzhang (故障)
@@ -1859,6 +1949,7 @@ Havoc
 Hawkbringer
 Hawkfire
 Hayabusa
+Haymaker
 Hazard
 Haze
 Headcase
@@ -1884,6 +1975,7 @@ Heavyset
 Heavyweight
 Hecate
 Hecatoncheir
+Hectate
 Hectic
 Hedera Helix
 Hedgewitch
@@ -1908,6 +2000,7 @@ Hellraiser
 Hellroad
 Hellspawn
 Hellwalk
+Helon
 Hemorrhagia
 Hephaestus
 Herald
@@ -1983,6 +2076,7 @@ Hrunting
 Huayra
 Hubble
 Hubris
+Humanist
 Humble
 Humid
 Hummer
@@ -2005,6 +2099,7 @@ Hypnos
 Iapetus
 I-Beam
 Ibex
+Ibis
 Icarus
 Iceflow
 Ichor
@@ -2027,6 +2122,7 @@ Immolator
 Immortal Lockdown
 Immortal Wraith
 Imp
+Impact
 Impale
 Impasse
 Impel
@@ -2089,10 +2185,12 @@ IronBeetle
 Ironclad
 Ironscale
 Isaiah
+Iscariot
 Islander
 Isochasm
 Itako
 Itami
+Itchy
 Ivory Froth
 Jabberwock
 Jack of Hearts
@@ -2170,6 +2268,7 @@ Kamaitachi
 Kamakiri
 Kanieneo
 Kaos
+Kaprosuchus
 Karma
 Karma Cowboy
 Kasperletheater
@@ -2179,12 +2278,14 @@ Kazikli Bey
 Keen
 Keeper Spear
 Keepsake
+Kelvin
 Kerana
 keter
 Khālī
 Khan
 Khandhas
 Khepri
+Khione
 Khopesh
 Khun Sa
 kick
@@ -2197,11 +2298,13 @@ Kid Force
 Kid Gloves
 Kid Lass
 Kid Lockdown
+Kid Morningstar
 Kid Raven
 Kid Win
 Killstreak
 Killzone
 Kindred
+Kinetic Cold
 King
 King Army
 King Blade
@@ -2222,6 +2325,7 @@ King Spear
 Kingmaker
 Kingpin
 Kirin
+Kirkschild 
 Kismet
 Kite
 Kitty Corner
@@ -2275,6 +2379,7 @@ Labyrinth
 Lachisis (?)
 Lacrimosa
 Ladon
+Lady Diamond
 Lady Excelsis
 Lady Luck
 Lady Luster
@@ -2285,8 +2390,10 @@ Lady Slam
 Lag
 Lagniappe
 Lambent
+Lamenta
 Lamprey
 Lancelot
+Lancer
 Lancet
 Landlubber
 Landshark
@@ -2307,6 +2414,8 @@ Laureate
 Laurel
 Lavamancer
 Lavender
+LaVey
+LaVeyan
 Lavinia
 Lax Bro
 Lazarus
@@ -2368,9 +2477,11 @@ Lizard Prince
 Lizardtail
 Loathe Deluge
 Lobotomy
+Loci
 Lockbox
 Lockdown
 Locus
+Locust
 Lodestone
 Log Ram
 Logos
@@ -2439,6 +2550,7 @@ Madrigal
 Maelstrom
 Maestra
 Maestro
+Mage
 Magehand
 Magic Mike
 Magic Mirror
@@ -2447,8 +2559,10 @@ Magister
 Magisterial
 Magma 
 Magnaat
+Magnficence
 Magnitude
 Magnus
+Magog
 Magpie
 Maironette
 Majestic Kid
@@ -2486,6 +2600,7 @@ Mano Sola
 Manohae
 Manos del Mono
 Manpower
+Manta
 Mantellum
 Manticora
 Mantis
@@ -2527,6 +2642,7 @@ Masterstroke
 Mastiff
 Matador
 Matchmaker
+Matchsticks
 Materia
 Matraque
 Matrix
@@ -2564,10 +2680,13 @@ Menja
 Mephisto
 Mercurial
 Mercury
+Mercy
 Meridian
+Merlin
 Merry Berry
 Mesa
 Mesh
+Meta
 Metal Mask
 Metalcore
 Metalhead
@@ -2612,9 +2731,11 @@ Miss Blitz
 Miss Cleaver
 Miss Fire
 Miss Hiss
+Miss Mania
 Miss Massacre
 Miss Militia
 Miss Oilslick
+Miss Shapen
 Miss Wisp
 Mist
 Mistbank
@@ -2630,6 +2751,7 @@ Mistral
 Mistress Gale
 Mistress of Ceremonies
 Misty Melody
+Mithrandir
 Mithril
 Mitre
 Mjolnir
@@ -2661,6 +2783,7 @@ Moord Nag
 Morbid
 Mordant
 Mordred
+Morgan
 Morning Glory
 Moros
 Morphling
@@ -2749,6 +2872,7 @@ Neon
 Neon King
 Neptunia
 Nero
+Nest
 Netherchild
 Nettle
 Network
@@ -2782,6 +2906,7 @@ Nightshade
 Nightsong
 Nightswoop
 Nightwatcher
+Nightwave
 Nightwind
 Nihilist
 Nihilo
@@ -2795,6 +2920,7 @@ Ninth Hell
 Nirvana
 Niveous
 Nix
+Noble
 Noblesse Oblige
 Nobody
 Noctis
@@ -2823,6 +2949,7 @@ Number Man
 Numbers
 Numbskull
 Nurture
+Nutshank
 Nyx
 O RLY
 O.Z.M.
@@ -2843,6 +2970,7 @@ Oculli
 Odyssey
 Ogre
 Ogun
+Ol' Black Magic
 Ola Polar
 Old Faithless
 Oliver
@@ -2884,6 +3012,7 @@ Ouroboros
 Outburst
 Outclass
 Outer Gate
+Outlander
 Outrageous
 Outrider
 Outsider
@@ -2899,6 +3028,7 @@ Overrun
 Oversight
 Overtime
 Overtone
+Overwatch
 Ovum
 Oxheart
 Oz
@@ -2934,6 +3064,7 @@ Paper Tiger
 Papercut
 Paperdoll
 Papyrus
+Paracelsus
 Parade Day
 Paradigm
 Paradigm Shift
@@ -2952,6 +3083,7 @@ Pas de Deux
 Pasadizo
 Pasas
 Pascal
+Passenger
 Passion
 Pater
 Pathos
@@ -2978,6 +3110,7 @@ Periscope
 Perplex
 Persecutor
 Perséphone
+Persian
 Persimmon
 Peste
 Pestilence
@@ -2988,11 +3121,15 @@ Petit Chat
 Petit Morty
 Phalanx
 Phantasm
+Phantasmagoria
 Phantom
 Phantom Boy
 Phantom Minnow
 Pharaoh
 Pharos
+Phase
+Phaser
+Phenom
 Phenomenon
 Pheonix
 Phir Se
@@ -3059,6 +3196,7 @@ Polychrome
 Polyp
 Portcullis
 Posie
+Posse
 Postmodern
 Posy
 Potential
@@ -3076,6 +3214,7 @@ Pretender
 Pretty Boy
 Prick
 Pride
+Primal
 Prime
 Primer
 Primitive
@@ -3085,6 +3224,7 @@ Prince Gate
 Prince Girl
 Prince Hammer
 Prince Meow
+Prince Nightblade
 Prince of Blades
 Prince of Peace
 Prince Prosperous
@@ -3097,6 +3237,7 @@ Princeling
 Princess Arachnea
 Princess Dagger
 Princess December
+Princess Jadefeather
 Princess Lockdown
 Princess Mask
 Princess Saber
@@ -3152,6 +3293,7 @@ Puck
 Puerco Loco
 pulsar
 Pulse
+Punchy
 Purity
 Purple Boar
 Purple Parrot
@@ -3181,13 +3323,16 @@ Quarantine
 Quark
 Quarrel
 Quartermaster
+Quarters
 Quartz
 Quasimodo
 Queen Frost
 Queen Midas
 Queen of Swords
+Queenfish
 Quickdraw
 Quickfix
+Quiet Riot
 Quillhound
 Quincunx
 R
@@ -3235,6 +3380,7 @@ Rational Mind
 Raul
 Ravager
 Ravel
+Raven
 Raven Dude
 Raven Lass
 Ravenchaser
@@ -3288,7 +3434,9 @@ Reflection
 Regent
 Region
 Reign
+Relativity
 Relay
+Reliant
 rem
 Remedy
 Ren
@@ -3378,10 +3526,12 @@ Royal Flush
 Royal Man
 Royal Starling
 Rube Coldberg
+Rubicon
 Rubin
 Rugburn
 Rum
 Rumble
+Rumbler
 Runaway
 Rune
 Rune Man
@@ -3410,6 +3560,7 @@ Salamander
 Saltykov
 Salva Fier
 Salvo
+Samedi
 Samsara
 Samson
 Sanctuary
@@ -3433,6 +3584,7 @@ Savant Wraith
 Savior Rune
 Savoir-faire
 Savvy
+Sawbuck
 Sawed-Off
 Sawmill
 Scald
@@ -3510,6 +3662,7 @@ Serum
 Servant
 Set
 Setback
+Seven Hells
 Sevenleague
 Seven-League
 Severer
@@ -3566,6 +3719,7 @@ Shocking Surprise
 shoggoth
 Shokyakuro
 Shortstop
+Show Stopper
 Showstopper
 Showtime
 Shrapnel
@@ -3636,6 +3790,7 @@ Sister Thunder
 Sister Trouble
 Sister Vicar
 Sixed
+Sixpence
 Sixth Sense
 Sizzle
 Skadi
@@ -3676,6 +3831,7 @@ Slice
 Slice of Life
 Sliced Bread
 Slick
+Slider
 Slight
 Slimeball
 Slingshot
@@ -3712,6 +3868,7 @@ Snow White
 Snowdrop
 Snowflake
 Snowlancer
+Snowman
 Snuffle
 Snuffles
 Sobek
@@ -3734,10 +3891,12 @@ Sordid Affair
 Sordina
 Sorrow
 Sortes
+Soter
 Soulblade
 Soulmangler
 Soulshock
 Sound Striker
+Soundblast
 Southpaw
 Sovereign
 Spade
@@ -3747,6 +3906,7 @@ Speakeasy
 Speaker of the House
 Spear Lad
 Spearwatcher
+Speed of Dark
 Spew
 Spidermonkey
 Spiegelbild
@@ -3796,6 +3956,7 @@ Standstill
 Star Girl
 Starbright
 Starburst
+Starcraft
 Starcrossed
 Stardom
 Stardust
@@ -3825,7 +3986,9 @@ Stigmata
 Stillsound
 Stilt
 Stinger
+Stingray
 Stirred
+Stitch
 Stochastic
 Stock
 Stopschild
@@ -3842,6 +4005,7 @@ Strata
 Stray
 Stream
 Streamweaver
+Streetwise
 Stribog
 Stricture
 Strider
@@ -3910,6 +4074,8 @@ Switch
 Switchblade
 Swole
 Sword of Damocles
+Sworn 
+Sycamore
 Sycophant
 Sydyk
 Sykkiä
@@ -3979,6 +4145,7 @@ Termite
 Terrabyte
 Terracotta
 Terraforma
+Terratoma
 Terrible Bastard
 Terrible Night
 Terror-form
@@ -4018,6 +4185,7 @@ The Final Guardian
 The Foresaken
 The Gardener
 The Gentleman
+The Gigahedron
 The Good King
 The Green Man
 The Hammer
@@ -4056,6 +4224,7 @@ Thirty-One
 Thirty-Two
 This One
 Thorn
+Thoth
 Thousand Hands
 Thrall
 Threatsensor
@@ -4085,6 +4254,7 @@ Timberline
 Time Warp
 Tinder
 Tingletouch
+Tinkerbell
 TinkerBelle
 Tinkertown
 Tiptoe
@@ -4117,6 +4287,8 @@ Tourmaline
 Toxic Crush
 Toxic Gate
 Toxin
+Trace
+Tracer
 Trafalgar
 Trailblazer
 Trainwreck
@@ -4168,6 +4340,7 @@ Tsar
 Tsunami
 Tsuneo
 Tule
+Tumbleweed
 Tumour
 Tundra
 Tunguska
@@ -4178,7 +4351,9 @@ Turnkey
 Tusk
 Tutor
 Twax
+Twelve
 Twenty-Three
+Twilight
 Twin Sister
 Twinge
 Twist
@@ -4215,13 +4390,6 @@ Unforeseen
 Unity
 Unlucky Acid
 Unlucky Thirteen
-Unnamed
-Unnamed Malthys
-Unnamed Master
-Unnamed Shaker
-Unnamed Thinker
-Unnamed Tinker
-Unseen Assailant
 Untouchable
 Uplink
 Upload
@@ -4233,8 +4401,10 @@ Usagi
 Usher
 Utopian
 Vacant
+Vae Victis
 Vagabond
 Vagrant
+Vainglory
 Valefor
 Valentine
 Valiance
@@ -4242,6 +4412,7 @@ Valiant
 Valkyrie
 Valmiki
 Van Helsing
+Vandal
 Vanguard
 Vanish
 Vantage
@@ -4251,6 +4422,7 @@ Varicose
 Varyllex
 Vassal
 Vast
+Vaulter
 Vector
 Vectus
 Veil
@@ -4322,6 +4494,7 @@ Wandering Storm
 Wanderlust
 Wanton
 Wappen
+Warcraft
 Warden IV
 Warlock
 Warning
@@ -4345,6 +4518,7 @@ Webcaster
 Webster
 Weep
 Weeping Willow
+Weevil
 Weise
 Welcome to the Jungle
 Weld
@@ -4352,6 +4526,7 @@ Wendigo
 Whatever
 Whimper
 Whimsy
+Whipcrack
 Whirlwin
 Whirlwind
 Whirlybird
@@ -4369,14 +4544,17 @@ White Tiger
 Whiteout
 Whitespark
 Whymsical
+Wiccan
 Wicht
 Wick
 Wicker
 Wickerman
+Wiesswald
 WiFi
 Wiggle
 Wight
 Wild Man
+Wild Warrior
 Wildcard
 Wilderness
 Wildwood
@@ -4408,6 +4586,7 @@ Wither
 Witness
 Witness(temp)
 Wizard
+Wo2U
 Woebegone
 Wojtek
 Wolf Claw
@@ -4445,9 +4624,12 @@ Yoink
 Young Buck
 Youngblood
 Yuki-Onna
+Zane
 Zankyō 
 Zao
 Zap
+Zealot
+Zebra
 Zeegles Fasttooth
 Zefiro
 Zehr

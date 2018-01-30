@@ -1,0 +1,21 @@
+{
+  "best_model": "jygg/best_model/model-84014", 
+  "best_valid_ppl": 4.601151466369629, 
+  "encoding": "utf-8", 
+  "latest_model": "jygg/save_model/model-148260", 
+  "params": {
+    "batch_size": 20, 
+    "dropout": 0.0, 
+    "embedding_size": 0, 
+    "hidden_size": 128, 
+    "input_dropout": 0.0, 
+    "learning_rate": 0.002, 
+    "max_grad_norm": 5.0, 
+    "model": "lstm", 
+    "num_layers": 3, 
+    "num_unrollings": 10, 
+    "vocab_size": 182
+  }, 
+  "test_ppl": 4.675789833068848, 
+  "vocab_file": "jygg/vocab.json"
+}

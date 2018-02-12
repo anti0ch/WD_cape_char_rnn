@@ -1,0 +1,21 @@
+{
+  "best_model": "capedict/best_model/model-95285", 
+  "best_valid_ppl": 4.934660911560059, 
+  "encoding": "utf-8", 
+  "latest_model": "output/save_model/model-106185", 
+  "params": {
+    "batch_size": 20, 
+    "dropout": 0.3, 
+    "embedding_size": 0, 
+    "hidden_size": 128, 
+    "input_dropout": 0.0, 
+    "learning_rate": 0.002, 
+    "max_grad_norm": 5.0, 
+    "model": "lstm", 
+    "num_layers": 2, 
+    "num_unrollings": 10, 
+    "vocab_size": 28
+  }, 
+  "test_ppl": 193.39822387695312, 
+  "vocab_file": "capedict/vocab.json"
+}

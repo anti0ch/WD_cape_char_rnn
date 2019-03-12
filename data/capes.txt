@@ -1,654 +1,1241 @@
-16 Tons
-2nd Law
-37th Strategem
-9 Iron
-A Friend In Need
-A Lonely Avenue
-A Whisper In The Ear
-Abattoir
-Abbot
-Abomination
-Abracadabra
-Abscess
-Abscond
-Absent
-Absinthe
-Absolute Hero
-Absurdity
-Absynthesis
-Acacia
-Acanthus
-Access
-Accidental
-Accolade
-Accord
-Ace Arborist
-Ace In The Hole
-Ace of Space
-Acheron
-Achilles
-Acid Trip
-Acidbath
-Acidhands
-Acidtooth
-ACME
-Acolyte
-Acoustic
-Acrobat
-Acumen
-Ad Astra
-Adamant
-Adamantine
-Adonis
+Brimstone
 Adramelech
-Adversary
-Advisory
-Adze
-Aegis
-Aeon
-Aether
-Aficionado
-Afterburner
-Afterimage
-Aftermath
-Aftershock
-Agape
-Agenda
-Agent Orange
+Arson Jones
+Eyeshot
 Agony
-Aimbot
-Air
+Anarchist
+Bakuda
+Murderbeam
+Chemgun
+Flare
+Sunbolt
+Sunburst
+Sunspot
 Airburst
-Airdash
-Airmaxx
-Airspace
+Gustslinger
+Gutshot
+Daybomber
+Flashbang
+Laserdream
+Laserlash
+Pulsar
+Ray
+Raymancer
+Nightbomb
+Backdraft
+Blast Furnace
+Fireburst
+Incendiary
+Pyroclastic
+Arsenal
+Needlestorm
+Siege
+Abracadabra
+Raijin
+Zap
+Acoustic
+Bangarang
+Bassdrop
+Tempofire
+Temposlinger
+Fission
+Torrent
 Airstrike
-Airtight
-Ajax
-Akasha
-Akazakana
-Akuma
+Recoil
+Ricochet
+Blast Radius
+Bombardier
+Bombmancer
+Boom
+Burstnova
+Shrapnel
+Aimbot
+Ace In The Hole
+Arquebus
+Artemis
+Artillerie
+Ballista
+Ballistic
+Black Bullet
+Boom-Shakalaka
+Boomerang
+Broadside
+Cannon
+Catapult
+Doomslinger
+Fastball
+Flechette
+Fragburst
+Freefire
+Gategun
+Grapeshot
+Grenadier
+King Blast
+King Bomb
+Mortar
+Ordnance
+Railgun
+Ranger
+Rifle
+Salvo
+Sawed-Off
+Scattershot
+Shatterbeam
+Shatterbolt
+Shattershot
+Shuriken
+Slingshot
+Snipe
+Sniper
+Splatterpult
+Super Missile
+Tommygun
+Trickshot
+Trigger Finger
+Wraithbreath
+Accolade
+Anomaly
+Wraith
+Acidbath
 Alabaster
+Effervescent
+Prismatic
+Geist
+Wisp
+Conduit
+Banshee
+Aether
+Pause
+Cascade
+Shunt
+Totem
+Burial Shroud
+Core
+Eidolon
+Empyreal
+Entity
+Ephemeral
+Essence
+Ethereal
+Ethereal Kingfisher
+Ethereal Woman
+Relativity
+Savant Wraith
+Schrödinger
+Singularity
+The Hollow King
+Transmute
+Untouchable
+Waveform
+Wight
+Smite
+Adamant
+Mama Bear
+Aegis
+Ajax
+All Might
+Adamantine
+Callous
+Wrath
+Painfist
+Adversary
+Bloodlust
+Masochist
+Knight Acid
+Bloodbag
+Meathead
+Vital
+Coldheart
+Wendigo
+Terracotta
+Zircon
+Armorface
+Armory
+Bludgeon
+Gunshow
+Iron Maiden
+Ironclad
+Maul Girl
+Acacia
+The Untouchable
+Carapace
+Silverback
+Swole
+16 Tons
+Achilles
+Akuma
+Armadillo
+Atlas
+Battlin’ Jackson
+Blockbuster
+Blunt Force Trauma
+Brickhaus
+BuffDad
+BulletProof
+Bulwark Man
+Bulwarkfighter
+Bunk-Her
+Bunker
+Captain Bulwark
+Clobber
+Crashtest
+Curbstomp
+Fistress
+Gargantuan
+Gladiator
+Grendel
+Haymaker
+Heavyweight
+Incredible Gorilla
+Indomitable
+Lazarus
+Manpower
+Numbskull
+Ogre
+Phalanx
+Resilience
+Resilient
+Shining Armor
+Strongarm
+Tank
+Titan
+Titanic
+Warpath
+Wreck
+Wrecker
+Wrecking Ball
+Wrecking Belle
+Apotheosis
+Bottom Feeder
+Omnivore
+Abomination
+Wretch
+Acidtooth
+Gutwings
+Thrive
+Tumour
+Raidiant Slug
+Jotun
+Winterbeast
+Nightlobster
+Gargoyle
+Salamander
+Alloy
+IronBeetle
+Ironscale
+Tusk
+Wrought
+Rabid
+Caricature
+Doppelganger
+Masquerade
+The Shapeshifter
+Stingray
+Acheron
+Anglerfish
+Acanthus
+White Rose
+Amalgamation
+Composite
+Eldritch
+Id
+Uncanny Valley
+Hydra
+Troglodite
+Flaptor
+Shaper
+Earworm
+Amalgam
+Amphibian
+Animal
+Apex
+Barnacle
+Barracuda
+Batibat
+Beast
+Beastborn
+Bloat
+Bloatbeetle
+Bloater
+Brass Beast
+Bug
+Canary
+Carnivore
+Chimera
+Chupacabra
+Crawler
+Crimson Jaguar
+Dr. Jekyll
+Dragon
+Fenrir
+Gaunt
+Greenbat
+Hyde
+Jabberwock
+Kill Me-ow
+Kraken
+Loup-garou
+Lycanthrope
+Maw
+Miss Hiss
+Narwhal
+Natural Selection
+Razortooth
+Ribbit
+Runebat
+Saurian
+Scarab
+Scarlet Frog
+Scylla
+Shark Boy
+Shell
+Shoggoth
+Silver Rat
+Silverfish
+Slither
+Stumble
+Symbiote
+Tails
+Termite
+The Rabbit
+Thin Man
+Toad
+Toxoplasma
+Turtlebug
+Typhon
+Vixen
+White Lion
+White Tiger
+White Whale
+Wombat
+Wyvern
+Xeno
+Zebra
+Zodiac
+Abbot
+Preacher
+Zealot
+Agape
+Lion Tamer
+Baron Terror
+Beelzebub
+Tyrant
+Wraithspitter
+Censor
+Embargo
+Ash King
+Mania
+Manic
+Absinthe
+Acid Trip
+Allure
+Circe
+Enchantress
+Hypnos
+Amor
+Ardor
+Awe
+Bacchanal
+Bliss
+Babel
+Amanita
+Hive
+Replica
+A Whisper In The Ear
+Diplomat
+Emissary
+The Therapist
+Arbiter
+Aviary
+Baron
+Beekeeper
+Black Queen
+Booty Trap
+Boss
+Breed
+Brood
+Caesar
+Candid
+Candor
+Catspaw
+Collector
+Commandeer
+Commander Cunning
+Control Freak
+Crowd
+Debt
+Empress
+Entourage
+Gemini
+Ghost Army
+Hijack
+Horde
+Hostage
+Hostile Takeover
+King
+King of Hearts
+Legion
+Marionette
+Martial Law
+Matador
+Menagerie
+Noblesse Oblige
+Oathbinder
+Pathos
+Regent
+Reign
+Summoner
+Thrall
+Treason
+Unlucky Thirteen
+Us
+Viceroy
+White King
+Wild Hunt
+Frontrunner
+Amphetamine Queen
+Supersonic Terror
+Magpie
+Ad Astra
+Airdash
+Airspace
+Altitude
+Windrider
+Windwalker
+Zephyr
+Bone Rider
+Apollo
+Lightwing
+Sunwalker
+Spirit Walker
+Nightswoop
+Shadowstep
+Shadowwalk
+Speed of Dark
+Dunerider
+Alight
+Iron Falcon
+Acrobat
+Afterimage
+Greased Lightning
+Ride the Lightning
+Stormstalker
+Stormwalker
+Glasstrail
+Silent Gate
+Interstellar
+Double Time
+Doubletime
+Redpath
+The Artful Dodger
+Abscond
+Access
 Alacrity
-Alas
-Albescent
-Alchemeister
-Alchemist
+Angel
+Avi8
+Avian
+Aviator
+Ballerina
+Blackbird
+Blastoff
+Blink
+Blitz
+Blitzen
+Blur
+Bouncer
+Calvary
+Chariot
+Charter
+Circus
+Collide
+Cruise
+Cueball
+Cycle
+Dancer
+Drifter
+Envoy
+Escher
+Flanker
+Flight Risk
+Floater
+Flyby
+Getaway
+Grasshopper
+Hayabusa
+Hover
+Icarus
+Jaunt
+Jet
+Jetstream
+Jump
+Jumping Jack
+Kickflip
+Kite
+Launchpad
+Livery
+Mach
+Miss Blitz
+Orbit
+Pinball
+Pirouette
+Pitstop
+Pivot
+Quarry
+Rainbow Dash
+Rapid Rabbit
+Rocket Kid
+Roll Out
+Runner
+Rush
+Sidestep
+Sidewinder
+Sidle
+Sir Gate
+Skip
+Skybreak
+Skyfall
+Skylark
+Skywalk
+Spriggan
+Springheel
+Strider
+Stutterstep
+Surge
+Tailwind
+Telefrag
+The Hare
+The Trip
+Trailblazer
+Transpose
+Vagabond
+Velocitas
+Velocity
+Vertigo
+Voyager
+White Rabbit
+Wingtip
+Wink
+Zenith
+Zeno
+Zigzag
+Zip
+Zipper
+Jail
+Palisade
+Abscess
+Blight
+Killzone
+Beast from the East
+Bomber Horror
+Tidal Acid
+Skyburst
+Airtight
+Tornado
+Typhoon
+Whirlwind
+Windstorm
+Bone Orchard
+White Night
+Mistbank
+Absolute Hero
+Chill
+Chillzone
+Coldfront
+Winter
+Tar Pit
+Aftershock
+Chasm
+Fissure
+Frack
+Geomancer
+Groundbreaker
+Mudslide
+Sandstorm
+The Gardener
+Tremor
+Zen Garden
+Ziggurat
+Firestorm
+Scorched Earth
+Iron Rain
 Alcove
-Alcubierre
-Aleph Null
+Wonderland
+Stormcaller
+Miasma
+Quarantine
+Black Hole
+Ace of Space
+Aeon
+Deluge
+Tsunami
+Bloom
+Bramble
+Groundskeeper
+Welcome to the Jungle
+Wilderness
+Asplode
+Bomb Girl
+Bombast
+Bomber Diamond
+Dangerclose
+Fragstorm
+Oubliette
+The Architect
+2nd Law
+Ameno-sagiri
+Anchor
+Annex
+Antlion
+Ashcloud Akira
+Atmos
+Barricade
+Barrow
+Bastion
+Battlement
+Black Kaze
+Blastzone
+Blossom
+Bridge
+Bubble
+Bulwark
+Cager
+Caltrop
+Canopy
+Catastrophe
+Center
+Collateral
+CrowdControl
+Crumple zone
+Cyclical
+Dangerzone
+Deadzone
+Domain
+Drawbridge
+Entrench
+Epicenter
+Faraday
+Fume
+Funhouse
+Garden
+Globe
+Hallow
+Hazard
+Jungle
+Labyrinth
+Leyline
+Maelstrom
+Minefield
+Monolith
+Portcullis
+Region
+Rugburn
+Sanctuary
+Sanctum
+Scenic
+Sector
+Shakesphere
+Shitstorm
+Shrine
+Sinkhole
+Tartarus
+Terraforma
+Tunguska
+Warzone
+Whirlygig
+Xanadu
+Yggdrasil
+Yoink
+Zero Escape
+Zone
+Creep
+Bad Penny
+Brain Fart
+Bogeyman
+Mist
+Veil
+Veil of Ignorance
+Yuki-Onna
+Midnight
+Gorgon
+Boggart
+A Friend In Need
+Absent
 Alias
 Alibi
-Alight
-All Might
-Allele
-Allfather
-Alloy
-Allure
-Altitude
-Alturist
-Aluna
-Amalgam
-Amalgamation
-Amanita
-Amberflame
+Gaslight
+Illusionist
+Cyanhide
+Silent Panther
+Audible
+Silence
+Silent Lad
+Silent Mask
+Whisper
+Void
+Exhaust
+Haze
 Ambiguous
 Ambush
-Ameno-sagiri
-Ammit
-Amor
-Amore
-Amperial
-Ampersand
-Amphetamine Queen
-Amphibian
-Amphisbaena
-Amulet
-Analytic
-Anansi
-Anarchist
-Anarchy
-Anathema
-Anchor
-Anchorman
-Ancient
-Anemona
-Angel
-Angel's Red
 Angler
-Anglerfish
-Anguish
-Animal
-Animos
-Animus
-Ankh
-Ankou
-Annex
-Anomaly
-Anorak
-Ante Up
-Antediluvian
-Anthem
-Antidote
-Antifreeze
-Antikythera
-Antioch
-Antipathy
-Antlion
-Anubis
-Anvil
-Apache
-Apep
-Apepi
-Aperture
-Apex
-Apogee
-Apollo
-Apollo H8
-Apollyon
-Apophis
-Apotheosis
-Apparatus
+Aversion
+Backstab
+Baffle
+Bandit
+Basilisk
+Beacon
+Bewitch
+Big Sister
+Blank
+Blank Slate
+Blinder
+Braindrain
+Bygone
+Carbon Copy
+Ceasefire
+Cheshire
+Cloak
+Cloak & Dagger
+Coverup
+Cryptic
+Darling
+Dead Ringer
+Distract
+Enigma
+Everyman
+False Pretense
+Feign
+Feint
+Forget-me-not
+Goner
+Good Neighbor
+Gotcha
+Hoodwink
+Imp
+Jane Doe
+Jester
+Kneejerk
+Misdirection
+Mister Mask
+Peekaboo
+Pretender
+Secret
+Sham
+Shroud
+Silhouette
+Snatch
+Sneaker
+Solitary
+Stalker
+Stump
+Stupor
+Suckerpunch
+Superstition
+Surprise
+Taunt
+Trespass
+Trespasser
+Trickster
+Umbra
+Unforeseen
+Vanish
+Wayfaring Stranger
+Badtouch
+Abattoir
+Jack slash
+Acidhands
+Skyknife
+Vapor Blade
+Cold Strike
+Coldhand
+Cinderhands
+Fireknife
+Blade Lad
+Fist of Iron
+Zulfiqar
+Battery
+Taserfist
+Taserhands
+Bellstriker
+Aura
+Decisive Strike
+9 Iron
+Adze
+Anansi
+Armsmaster
+Backhand
+Backlash
+Barb
+Biter
+Breacher
+Captain Saber
+Crowbar
+Doomhands
+Fist Boy
+Fistfight
+Fistslayer
+Garotte
+God's Thumb
+GrisGris
+King Blade
+Knockout
+Midas
+Reach
+Rum Punch
+Saber
+Sabre
+Slugger
+Strike
+Talon
+The Vice Grip
+Thousand Hands
+Tingletouch
+Two-Touch
+Uppercut
+Wallop
+Weld
+Zweihander
+Blackmail
+Advisory
+Overwatch
+Snitch
+Helleye
+Curse
+Whirlwin
+Nightwatcher
+Double Jeopardy
+Blademaster
+Iron Will
+Zhugeliang
+Absurdity
+Accidental
+Fortune Cookie
+Jigsaw
+BrainMaster
+Chessmaster
+Headcase
+Mindfuck
+Skirmisher
+Wiseacre
+37th Strategem
+Accord
+Acolyte
+Acumen
+Aficionado
+Aftermath
+Agenda
+Ampersand
+Analytic
 Appendix
-Appleseed
 Appraiser
-Aquateen
-Arabesque
-Arachnor
-Arashi
-Arbiter
-Arbor
-Arc
-Arc Lass
-Arcane
-Arcanum
-Archaic
-Archerfish
-Archetype
-Archimedes
 Archival
 Archive
 Archives
 Archivist
-Archon
-Arcstar
-Arcturus
-Ardor
-Areia
-Argent
-Argent State
-Argo
-Argon
-Argonaut
 Argus
-Aria
-Arioch
 Aristotle
-Arlecchino
-Armada
-Armada II
-Armadillo
-Armorface
-Armory
-Armsmaster
-Aroma
-Arquebus
-Arsenal
-Arsenic
-Arson Grind
-Arson Jones
-Arson Renegade
-Artemis
-Arthwys
-Artillerie
-Artisan
-Artlash
-Asbestos
-Ascendant
-Aset
-Ash
-Ash Beast
-Ash King
-Ashcloud Akira
-Ashtoreth
-Asimov
-Asmodeus
-Asplode
-Assault
-Assert
-Asshole
-Asteria
-Astra
-Astrape
 Astrologer
-Asworstos
-Aten
 Athenian
-Athlete
-Atlas
-Atmos
-Atone
-Atrophy
-Atropos
-Atticus
-Attitude
-Attune
-Auburn
 Audial
-Audible
-Audio Jack
 Auditor
 Auger
 Augur
 Augury
-August Prince
-Auntie
-Aura
-Aura/Zwang
-Auroch
-Aurora Le Fay
 Auspex
-Auteur
-Authentic
 Autocorrect
-Autumn
-Auxiliar
-Auxiliary
-Avalon
-Avant Guard
-Averse
-Aversion
-Avi8
-Avian
-Aviary
-Aviator
-Awe
-Awides
-Axe Kid
-Axe to Grind
-Axebinder
-Axehead
 Axiom
-Axiom White
-Axis
-Axol
-Axolotl
-Azazel
-Azoth
-Azz
-Babble
-Babel
-Babylon
-Bacchanal
-Bacchus
-Backbone
-Backbreak
-Backdraft
-Backhand
-Backhoe
-Backlash
-Backslash
-Backstab
 Backtrack
-Bad Case
-Bad Penny
-Badge
-Badger
-Badland
-Badlands
-Badtouch
-Baffle
-Bagman
-Bait
-Bakuda
-Balance
-Baler
-Ballast
-Ballerina
-Ballista
-Ballistic
-Ballon
 Ballot
-Balthazar
-Bambina
-Bandit
-Bangarang
-Banger
-Bangle
-Banjo
-Bank Breaker
-Banshee
-Banta Ray
-Banter
-Baphomet
-Bar Sinister
-Baraq
-Barare
-Barb
-Barbatorem
-Barker
-Barlycuss
-Barnacle
-Baron
-Baron Terror
-Barotrauma
-Barracuda
-Barricade
-Barrow
 Barter
-Bashful
-Basilisk
-Baskerville
-Basket Case
-Bassdrop
-Bastard Son
-Bastille
-Bastion
-Bat-Tziyon
-Batch
-Bath Boy
-Batibat
-Batman
-Batter
-Battery
-Battlement
 Battlemind
-Battlering
-Battlescar
-Battlin’ Jackson
-Bauble
-Bayonet
-Beacon
-Beagle
-Bear Claw
-Bearach
-Bearhug
-Beast
-Beast from the East
-Beast of Babylon
-Beastborn
-Bedlam
-Bedlamite Knight
-Beekeeper
-Beelzebub
-Beeswax
 Beholder
-Bel
-Belaris
-Bellcat
-Belle
-Belligerent
-Bellona
-Bellows
-Bellstriker
-Belvedere
-Benchmark
-Benthos
-Beslien
-Bespoke
-Best
-Bête Noire
-Betwixt
-Bewitch
-Bezoar
-Bhanjak
-Biciul
-Big Bad
 Big Brother
-Big Cheese
-🅱️ig chungus
-Big Rig
-Big Sister
-BigBadWolf
-Bigwig
-Bildhauer
-Billabong
-Binary
-Binge
-Bingpot
-Bird School
 Birdeye
-Birdhouse
 Birdseye
-Biscuits
-Bismuth
 Bit
-Bitch
-Bitch Bone
-Bitch Seven
-Biter
-Bitterness
-Blabbermouth
-Black Bishop
+Blueprint
+Blueshift
+Bookworm
+Boolean
+Brainstorm
+Broadcast
+Chance
+Checkmate
+Chronicler
+Citation
+Clandestine
+Clarity
+Cleaver Boy
+Clue
+Compass
+Conspiracy
+Contract
+Copernicus
+Cortex
+Cranial
+Crisis
+Deja Vu
+Descartes
+Discovery
+Do Over
+Escrow
+Fortuneteller
+Galileo
+Gambit
+Ghosteye
+Grandmaster
+Groupthink
+Heimdall
+Hunch
+Index
+Insight
+Jack-of-all-Trades
+Laplace
+Laureate
+Lexicon
+Logos
+Mastermind
+Masterplan
+Memnzy
+Mind Map
+Mindmite
+Miss Information
+Navpoint
+Number Man
+Numbers
+Oracle
+Oversight
+Parse
+Pascal
+Professor Dilemma
+Proof
+Psion
+Psionic
+Rational Mind
+Reader
+Red Eye
+Renaissance Man
+Revelation
+Reverie
+Scenario
+Scout
+Search
+Second Guess
+Silvertongue
+Sixth Sense
+Snap Judgement
+Solomon
+Stalemate
+Stargazer
+Streetwise
+Survey
+Synapse
+Teacher
+Telescope
+The Ombudsman
+Thespian
+Third Eye
+Thoth
+Threatsensor
+Ticktock
+Tracer
+Trapmaster
+Trivia
+Truesight
+Truth
+Tutor
+Verdict
+Voyeur
+Warning
+Watch
+Watcher
+White Flag
+Wise Men
+Witness
+Wuwei
+Zen
+Zugzwang
+Malware
+Agent Orange
+Serum
+Airmaxx
+Allele
+Graft
+LED
+Rube Coldberg
+Afterburner
+Junkyard Inferno
+Absynthesis
+Witch Doctorate
+Circuit
+Circuit-Breaker
+Voltaic
+Adonis
+Alchemeister
+Alchemist
+Brew
+Glassworks
+Alcubierre
+Dr. Tomorrow
+Binary
+Junkyard Rat
+Lab Rat
+Skids
+Wingsuit
+Bomb Collar
+Excalibur
+ACME
+Akasha
+Amulet
+Antikythera
+Aperture
+Artisan
+Asimov
+Bauble
+Big Rig
 Black Box
-Black Bullet
-Black Calamity
-Black Dog
-Black Gate
-Black Hole
-Black Kaze
-Black Mirror
-Black Pawn
-Black Queen
-Black Rabbit
-Black Thunder
-Blackbile
-Blackbird
-Blackest Knight
-Blacklight
-Blackmail
-Blackout
-Blackrod
 Blacksmith
-Blackthorn
-Blade Lad
-Bladeblind
-Bladeblitz
-Bladeeater
-Blademaster
-Blaggard
-Bland Slam
-Blank
-Blank Slate
+Bot
+Buzzsaw
+Caliber
+Calibrate
+Carpenter
+Cassette
+Centrifuge
+Chopshop
+Citadel
+Cog
+Cogwork
+Doctor Cyborg
+Dr Newton
+Dynamo
+Electrotech
+Elixir
+Error 404
+Fabricate
+Forgemaster
+Fortify
+Gear
+Gearbox
+Gizmo
+Half-Life
+Hephaestus
+Hotrod
+Lobotomy
+Medicine Man
+Misclick
+Professor Chaos
+Ratchetman
+Reactor
+Rig
+Sprocket
+Stitch
+Sunday Clothes
+Technochaser
+Technoslayer
+Techwiz
+Tesla
+The Reanimator
+Tick-Tock
+Tinker Belle
+Tinkerbell
+TinkerBelle
+Tinkertown
+Uplink
+Upload
+WiFi
+Windshield Viper
+Wireframe
+Zion
+Yata-no-Kagami
+Aleph Null
+Anathema
+Attune
+Catalyst
+Corona
+Double down
+Doubledown
+Elemental
+Equinox
+Feedback
+Kingmaker
+Lockdown
+Outclass
+Refute
+Royal Flush
+Shutdown
+Signal Boost
+Swindle
+Syzygy
+Tarot
+Temperance
+Toggle
+Trump Card
+Upperhand
+Wildcard
+Zero
+Notre Dame
+Saint of Sorrow
+Hellfire
+Anarchy
+Avalon
+Baphomet
 Blasphemer
-Blast Furnace
-Blast Radius
-Blastburn
-Blastoff
-Blastzone
-Blather
-Blaze On
-Bleak Three
-Blech
-Blemish
-Blepharospie
 Blessing
-Blight
-Blinder
-Blindman’s Bluff
-Blink
-Bliss
-Blissbang
-Blister
-Blitz
-Blitzen
-Blizzard
-Bloat
-Bloatbeetle
-Bloater
-Blockade
-Blockbuster
+God Hand
+Godfang
+Godhead
+Godmonger
+Godsend
+Guardian Angel
+Iscariot
+Jericho
+Judgment
+Judgment Day
+Lady of the Lake
+Lionheart
+Liturgy
+Lucifer
+Martyr
+Omen
+Paladin
+Purity
+Rapture
+Rosary
+Saint
+Saints Amen
+Stigmata
+Templar
+The Trinity
+Vice
+Arioch
+Babylon
+Stock
+Stopwatch
+Panacea
+Lightshow
+Blueblood
+Interrobang
+Laissez-faire
+Supply Line
+Sworn
+Sycophant
+Parade Day
+The Cure
+Brightside
+Dawn
+Lady Photon
+Lightchild
+The Sun King
+Aurora Le Fay
+Champion
+Epic
+Kid Win
+Li'l Bang
+Paragon
+Star Girl
+The Sheriff
+Bank Breaker
+Freelance
+Freelancer
+Loan Shark
+Plunderer
+Solder of Fortune
+Miss Oilslick
+Asbestos
+Azz
+Blemish
+Boozehound
+Buttchug
+Chubster
+Chump
+Dead Beat
+Dogbreath
+Flubster
+Il Bastardo
+Joyride
+Kobold
+Lazer Lime
+Overdose
+Rotgut
+Technicolor Rainbow Princess
+Janus
+Knight Errant
+Knockabout
+Pariah
+Sole Survivor
+Street Meat
+Despairmaster
+Despairscream
+Horrorshow
+Ashtoreth
+Atrophy
+Bad Case
+Bar Sinister
+Bastard Son
+Coffin
+Despicable Ghost
+Despicable Vertigo
+Despot
+Grimoire
+Heartless Bitch
+Heartless Horror
+Hellcrasher
+Helldozer
+Hellhound
+Hellion
+Hellraiser
+Hellroad
+Hellspawn
+Hellwalk
+Malice
+Malign
+Mannequin
+Nucklavee
+Odious Spire
+Oust
+Pain Guy
+Pain Train
+Paincaller
+Terrible Bastard
+Terrible Night
+The Black Goat
+Vandal
 Blood Boil
 Blood Moon
 Blood Price
 Blood Raven
-Blood Sista
-Bloodbag
-Bloodblister
 Bloodless
 Bloodletter
-Bloodlust
-Bloodmoon
-Bloodsigh
-Bloodwater
-Bloody Duchess
-Bloom
-Blossom
-Blotter
-Bludgeon
-Blue
-Blue Bomber
-Blue Death
-Blue Eight
-Blue Leaf
-Blue Moon
-Blue Ribbon
-BlueBird
-Blueblood
-Bluebottle
-Blueprint
-Blueshift
-Blunder Bus
-Blunt Force Trauma
-Blur
-Blurt
-Bluster
-Bobbin
-Bodkin
-Bogeyman
-Boggart
-Boltkid
-Bomb Collar
-Bomb Girl
-Bombardier
-Bombast
-Bomber Diamond
-Bomber Horror
-Bombmancer
-Bone Homie
-Bone Orchard
-Bone Rider
-Bonecutter
-Bonehowl
-Bones
-Bonesaw
-Boneshank
 Boneshatter
-Bonfire
-Bonsai
-Bookie
-Bookworm
-Boolean
-Boom
-Boom-Shakalaka
-Boombox
-Boomerang
-Boomspark
-Bootleg
-Bootlegger
-Booty Trap
-Booyah
-Boozehound
-Boreal
-Boreas
-Borg
-Boss
-Boss Fire
-Boss Hell
-Boss Mask
-Boss Static
-Bot
-Bottom Birch
-Bottom Feeder
-Boulevard
-Bouncer
-Boxcar
-Br'er Rabbit
-Braindrain
-BrainMaster
-Brainstorm
-Bramble
-Branch
-Brandish
-Brash Clash
-Brass
-Brass Band
-Brass Beast
-Bravado
-Bravest
-Brazen Sledge
-Brazier
-Breach
-Breacher
-Breakaway
-Breed
-Brew
-Briar Patch
-Briar Rose
-Briar Witch
-Brickhaus
-Bridge
-Brigand
-Brigandine
-Bright
-Bright Aurora
-Bright Dude
-Bright Hawk
-Brightlord
-Brightside
-Brimstone
-Brine
-Broadcast
-Broadside
-Brocade
-Brocéliande
-Broiler
-Broker/_
-Bronte
-Brontes
-Bronze
-Bronze Hedgehog
-Bronze Man
-Brood
-Browbeat
-Bruin
-Bruiser
-Brushfire
-Brutal
-Brutal Day
-Brutal Despicable
-Bubble
-Buckaroo Bonsai
-Buffalo
-BuffDad
-Bug
-Bugbear
-Bugle
-Bull Guster
-Bullethell
-Bulletin
-BulletProof
-Bullwhip
-Bully
-Bulwark
-Bulwark Man
-Bulwarkfighter
-Bumper
-Bündnis
-Bunk-Her
-Bunker
-Burden
-Burgeon
-Burial Shroud
-Burn Notice
-Burnout
-Burnscar
-Burnup
-Burstnova
-Bushwhack
-Bust
-Busta Crimez
-Buster XI
+Tyrant Frost
+The Dark King
+Despair
+Fearmaster
+Terror-form
+Terrormancer
+Terrormouth
+Then Come the Screams
+Arson Renegade
+Carnal
+Pandemic
+Venom
+Anguish
+Cain
+Calamity Hell
+Cemetery
+Count Pain
+Jailbird
+Menace
+Mephisto
+Nemesis
+Ravager
+Reaper
+Reaver
+Tombstone
+Tyrant Whisper
+Dr. Bloodbath
+Gore
+Immolator
 Butcher
 Butcher II
 Butcher III
@@ -661,49 +1248,933 @@ Butcher XII
 Butcher XIII
 Butcher XIV
 Butcher XV
-Buttchug
+Carcass
+Carcinogen
+Carrion
+Cold Murder
+Deathdealer
+Genocide
+Golden Murder
+Holocaust
+Indiscriminate
+Jawbreaker
+Killstreak
+Knight Crimson
+Lynch Squad
+Macabre
+Man of War
+Miss Cleaver
+Miss Massacre
+Murdermaster
+Stab Happy
+The Depraved
+H8
+Knight Chem
+Nightwind
+Cold Blood
+Cold Fusion
+Ghostlight
+Nightlight
+Lady Lightning
+Soot
+Thundersnow
+Strobe
+Silent Night
+Morbid
+Nightmare
+Iron Scorch
+Brushfire
+Mood Swing
+Ace Arborist
+Storm-mouse
+Stormspike
+Stormtiger
+Stormwane
+Daybolt
+Chemguzzler
+Silver Chem
+Glitter Litter
+Glitterbeast
+Glitterdust
+Glitterhands
+Glitz Girl
+Glitzernde
+Nightsong
+Staticscream
+Deform
+Weather Report
+Bloodwater
+Dagon
+Green Goo
+Prodigy Acid
+Slimeball
+Air
+Ballon
+Cyclone III
+Dead Air
+Downdraft
+Duchess Gale
+Fresh Air
+Gale
+Gale Dude
+Gale Goon
+Gale King
+Galeseeker
+Mistress Gale
+Silverwind
+Sky
+Skyforge
+Templar Storm
+Twister
+Whirlybird
+Windy
+Blood Sista
+Bloodblister
+Bloodmoon
+Bloodsigh
+Bloody Duchess
+Bone Homie
+Bonecutter
+Bonehowl
+Bones
+Bonesaw
+Boneshank
+Crimson
+Crimson Girl
+Epidermis
+Flatline
+Fresh Meat
+Genome
+Lifeline
+Lucky Bone
+Meat Hook
+Meatbag
+Meatgrinder
+Remedy
+Ribcage
+Sinew
+Skincrawl
+Skingraft
+Skinslip
+Skintaker
+Spinal Tap
+Youngblood
+Apollyon
+Argon
+Aten
+Bright
+Bright Aurora
+Bright Dude
+Bright Hawk
+Brightlord
+Celestial
+Day Boy
+Daybreak
+Daydream
+Dayguard
+Daylight
+Daymaker
+Dayman
+Dayseeker
+Fallout
+Geiger
+Glow
+Helios
+Hyperion
+Illuminate
+Lightbringer
+Lightsever
+Lightslinger
+Lightstar
+Lumen
+Lumina
+Luminary
+Ra
+Rad burn
+Radiance
+Radicancer
+Radioactive
+Radioactive Storm
+Radioactive Zero
+Red Glare
+Red Light
+Rising Sun
+Sol
+Solar
+Spotlight
+Starbright
+Starburst
+Starlight
+Starlight Princess
+Starshine
+Summerday
+Sun Lass
+Sunbird
+Sundancer
+Sundream
+Sunmancer
+Sunny
+The Dog of Light
+The Mighty Flare
+The Nuclear Empress
+Cloud Nine
+Cloudburst
+Humid
+Mister Mist
+Scald
+Senator Smog
+Smog
+Smokepoint
+Smokey Bandit
+Steam Slinger
+Tempest
+Blizzard
+Celsius
+Cold
+Cold Gal
+Cold Lion
+Cold Renegade
+Count Frost
+Cryoeater
+Cryomancer
+Cryowalker
+Cryowatcher
+Devil's Frost
+Empress Snow
+Everest
+Freezeout
+Freezerburn
+Frigid
+Frost
+Frost Doctor
+Frost Supreme
+Frostbite
+Frostburn
+Frosteater
+Frostfucker
+Frostmouth
+Glacier
+Hoarfrost
+Iceflow
+Kinetic Cold
+Knight Chill
+Mister Frost
+Queen Frost
+Red Ice
+Rime
+Shiver
+Sir Snow
+Snow White
+Snowdrop
+Snowflake
+Snowlancer
+Snowman
+Tidal Chill
+Tundra
+Whiteout
+Anubis
+Apep
+Blacklight
+Blackout
+Cambion
+Dark Army
+Dark Despair
+Dark Ensnare
+Dark Reprise
+Darkest
+Darkling
+Darkness
+Grue
+Monarch Shadow
+Necromancer
+Necrotic
+Night
+Night Hag
+Night Woman
+Night Worg
+NightBringer
+Nightcaster
+Nightcomer
+Nightfall
+Nightingale
+Nightman
+Nightshade
+Nightshatter
+Nightwave
+Phantom
+Phantom Boy
+Phantom Minnow
+Shadow Bell
+Shadow Stalker
+Shadowcaster
+Shadowdancer
+Shadowhunter
+Stark Ghost
+Stygian
+Antipathy
+Curfew
+Gallows
+Gloom
+Grieve
+Misery
+Rain of Despair
+Sadboy
+Shame
+Sorrow
+Weep
+Bismuth
+Clay
+Crush
+Crush Hazard
+Dirtdigger
+Dune
+Dust
+Dust Devil
+Duster
+Dusthound
+Fissureman
+Gaia
+Grindstone
+Quake Woman
+Quartz
+Rock Lobster
+Rumble
+Rumbler
+Rust and Rubble
+Sandcastle
+Sandman
+Sandmann
+Sandssinger
+Sir Quake
+Statuary
+Statuesque
+Tecton
+Tectonic
+Dreadlord
+Fright
+Frightning Bug
+Grim
+Grim Fate
+Haunt
+Knightmare
+Phobia
+Phobos
+Spook
+Terror Bull
+The Fear
+Torment
+Toro de Terror
+Whimper
+Amberflame
+Arson Grind
+Ash
+Ash Beast
+Blastburn
+Bonfire
+Boomspark
+Boss Fire
+Boss Hell
+Burn Notice
+Burnout
+Burnscar
+Burnup
+Chilli Pepper
+Cinderbat
+Cinderblock
+Cindercrest
+Cinerate
+Cinereal
+Cooker
+Crimson Fire
+Dragonbreath
+Efreet
+Ember
+Emberling
+Empress Scorch
+Exemplar Phoenix
+Fire
+Fire Bear
+Fire Sire
+Firearm
+Fireback
+Fireball of the Eucharist
+Firebear
+Firebird
+Firebrand
+Firecracker
+Fireflight
+Firefly
+Fireman
+Firemind
+Flamehaze
+Flametongue
+Flashburn
+Foxfire
+Grindfire
+Hawkfire
+Heatblaze
+Heatdeath
+Heatraiser
+Hotspot
+Hotswap
+Ifrit
+Ignition
+Inferno
+Infernoeater
+Infernomouth
+Lavamancer
+Magma
+Malfire
+Miss Fire
+Molotov
+Naplam
+Pyre
+Pyrobinder
+Pyrofighter
+Pyromancer
+Pyromaster
+Pyrotechnical
+Rimfire
+Scorchbrand
+Scorchtaster
+Spark
+Spitfire
+St. Elmo's Fire
+Sulfur
+Surefire
+Surtr
+Swelter
+Thermic
+Tinder
+Toaster
+Torrid
+Whitespark
+Bladeblitz
+Brass
+Brass Band
+Bronze
+Bronze Hedgehog
+Bronze Man
+Chain Man
+Chainer
+Chainlink
+Cobalt
+Iron Scar
+Iron Spite
+Metal Mask
+Metalcore
+Metalhead
+Metalmancer
+Metalvore
+Prince of Blades
+Queen of Swords
+Real Steel
+Savant Metal
+Scrapheap
+Smelter
+Steel Wool
+Contempt
+Empress Spite
+Furious Boy
+Furious Grind
+Furious Heart
+Furious Jaguar
+Fury
+Rageboner
+Ragetard
+Spite
+Boss Mask
+Coptic Illusion
+Dreamcatcher
+Dreamer
+Dreamwalker
+Phantasm
+Phantasmagoria
+Professor Illusionist
+Black Thunder
+Boltkid
+Boss Static
+Calamityshock
+Crescent Shock
+Crimson Static
+Crosswired
+Dame Lightning
+Deathbolt
+Double Thunder
+Duke Thunder
+Electric Gal
+Electric Kangaroo
+Electrocrown
+Forked Lightning
+Funderbolt
+Gaol Thunder
+Gigawatt
+Little Thunder
+Redbolt
+Shock Trooper
+Shockblade
+Shocking Surprise
+Sister Thunder
+Static
+Staticcrusher
+Staticface
+Storm Lord
+Stormlight
+Thunderbird
+Thunderbreaker
+Thundercat
+Thunderclap
+Thunderer
+Thunderstorm
+Thundervolt
+Thunderwrought
+Tycoon Shock
+Wandering Storm
+Amore
+Bacchus
+Blissbang
+Cherish
+Fawn
+Hot Stuff
+Mister Joy
+Passion
+Soothe
+Starcrossed
+Suave
+Sweet Valentine
+Antidote
+Arsenic
+Bitterness
+Chemcrasher
+Contamination
+Famine
+Pestilence
+Plague
+Spore
+Toxic Crush
+Toxic Gate
+Toxin
+Bear Claw
+Daggerlancer
+Lancelot
+Lancer
+Lancet
+Shieldbearer
+Shielder
+Ultralancer
+Wolf Claw
+Black Mirror
+Deflector
+Facade
+Glass
+Glass Mind
+Glass Shard
+Glassfather
+Grim Mirror
+Looking Glass
+Magic Mirror
+Marred Mirror
+Mirrormask
+Reflection
+Scintillant
+Scintillate
+Shatter
+Shatterbird
+Tycoon Glass
+Audio Jack
+Babble
+Blabbermouth
+Boombox
+Cacophony
+Chatterbox
+Chime
+Chorus
+Chuckles
+Crescendo
+Cymbal
+Echo
+Howl
+Misty Melody
+Screamer
+Screech
+Silencio
+Siren
+Sonic Doom
+Sonic Heart
+Sonic Velvet
+SonicBoom
+Sound Striker
+Soundblast
+Stillsound
+Supersonic Guy
+Tempo
+Trumpet
+Vox
+Cosmic Princess
+Cosmonaut
+Entropy
+Event Horizon
+Galaxy
+Gravitron
+Quantum Hampster
+Quantum Woman
+Tesseract
+Vortex
+Warphole
+Countdown
+Cuckooclock
+Eon
+Epoch
+Gray Girl
+Overclock
+Overtime
+Shortstop
+Standstill
+Stopschild
+Sword of Time
+Thirteenth Hour
+Time Warp
+Wartime
+Watchrunner
+Antediluvian
+Brine
+Deepwater
+Double Rain
+Fog
+Geyser
+Hydroblast
+Jetwash
+Pisces
+Raindance
+Ripple
+Riptide
+Sea
+Seawall
+Slick
+Sobek
+Splash
+Sploosh
+Stream
+Streamweaver
+Submariner
+Surf
+Triton
+Viscosity
+Waterspout
+Appleseed
+Arbor
+Branch
+Briar Patch
+Briar Rose
+Daisy
+Demeter
+DogPlant
+Druid
+Dryad
+Evergreen
+Mother Nature
+Orchid
+Petal Throne
+Plantsman
+Root
+Rose
+Rose Petal
+Splinter
+Sprout
+Spruce
+The Lilies
+Weeping Willow
+WildPlant
+A Lonely Avenue
+Akazakana
+Alas
+Albescent
+Allfather
+Alturist
+Aluna
+Ammit
+Amperial
+Amphisbaena
+Anchorman
+Ancient
+Anemona
+Angel's Red
+Animos
+Animus
+Ankh
+Ankou
+Anorak
+Ante Up
+Anthem
+Antifreeze
+Antioch
+Anvil
+Apache
+Apepi
+Apogee
+Apollo H8
+Apophis
+Apparatus
+Aquateen
+Arabesque
+Arachnor
+Arashi
+Arc
+Arc Lass
+Arcane
+Arcanum
+Archaic
+Archerfish
+Archetype
+Archimedes
+Archon
+Arcstar
+Arcturus
+Areia
+Argent
+Argent State
+Argo
+Argonaut
+Aria
+Arlecchino
+Armada
+Armada II
+Aroma
+Arthwys
+Artlash
+Ascendant
+Aset
+Asmodeus
+Assault
+Assert
+Asshole
+Asteria
+Astra
+Astrape
+Asworstos
+Athlete
+Atone
+Atropos
+Atticus
+Attitude
+Auburn
+August Prince
+Auntie
+Aura/Zwang
+Auroch
+Auteur
+Authentic
+Autumn
+Auxiliar
+Auxiliary
+Avant Guard
+Averse
+Awides
+Axe Kid
+Axe to Grind
+Axebinder
+Axehead
+Axiom White
+Axis
+Axol
+Axolotl
+Azazel
+Azoth
+Backbone
+Backbreak
+Backhoe
+Backslash
+Badge
+Badger
+Badland
+Badlands
+Bagman
+Bait
+Balance
+Baler
+Ballast
+Balthazar
+Bambina
+Banger
+Bangle
+Banjo
+Banta Ray
+Banter
+Baraq
+Barare
+Barbatorem
+Barker
+Barlycuss
+Barotrauma
+Bashful
+Baskerville
+Basket Case
+Bastille
+Bat-Tziyon
+Batch
+Bath Boy
+Batman
+Batter
+Battlering
+Battlescar
+Bayonet
+Beagle
+Bearach
+Bearhug
+Beast of Babylon
+Bedlam
+Bedlamite Knight
+Beeswax
+Bel
+Belaris
+Bellcat
+Belle
+Belligerent
+Bellona
+Bellows
+Belvedere
+Benchmark
+Benthos
+Beslien
+Bespoke
+Best
+Bête Noire
+Betwixt
+Bezoar
+Bhanjak
+Biciul
+Big Bad
+Big Cheese
+🅱️ig chungus
+BigBadWolf
+Bigwig
+Bildhauer
+Billabong
+Binge
+Bingpot
+Bird School
+Birdhouse
+Biscuits
+Bitch
+Bitch Bone
+Bitch Seven
+Black Bishop
+Black Calamity
+Black Dog
+Black Gate
+Black Pawn
+Black Rabbit
+Blackbile
+Blackest Knight
+Blackrod
+Blackthorn
+Bladeblind
+Bladeeater
+Blaggard
+Bland Slam
+Blather
+Blaze On
+Bleak Three
+Blech
+Blepharospie
+Blindman’s Bluff
+Blister
+Blockade
+Blotter
+Blue
+Blue Bomber
+Blue Death
+Blue Eight
+Blue Leaf
+Blue Moon
+Blue Ribbon
+BlueBird
+Bluebottle
+Blunder Bus
+Blurt
+Bluster
+Bobbin
+Bodkin
+Bonsai
+Bookie
+Bootleg
+Bootlegger
+Booyah
+Boreal
+Boreas
+Borg
+Bottom Birch
+Boulevard
+Boxcar
+Br'er Rabbit
+Brandish
+Brash Clash
+Bravado
+Bravest
+Brazen Sledge
+Brazier
+Breach
+Breakaway
+Briar Witch
+Brigand
+Brigandine
+Brocade
+Brocéliande
+Broiler
+Broker/_
+Bronte
+Brontes
+Browbeat
+Bruin
+Bruiser
+Brutal
+Brutal Day
+Brutal Despicable
+Buckaroo Bonsai
+Buffalo
+Bugbear
+Bugle
+Bull Guster
+Bullethell
+Bulletin
+Bullwhip
+Bully
+Bumper
+Bündnis
+Burden
+Burgeon
+Bushwhack
+Bust
+Busta Crimez
+Buster XI
 Butte
 Butterfly Bombard
 Butterguy
 Butterup
-Buzzsaw
-Bygone
 Byte
 Caballero
 Cache
-Cacophony
 Cadence
 Cadillac
 Caduceus
 Caecilia
 Caecilian
-Caesar
 Caesura
-Cager
-Cain
 Caitiff
 Caladbolg
 Calamity
-Calamity Hell
 Calamity Velvet
 Calamityseeker
-Calamityshock
 Calcaire
 Calefactor
 Calescent
-Caliber
-Calibrate
 Calico
 Caliente
 Califa de Perro
 Callisto
 Callosity
-Callous
-Caltrop
-Calvary
 Calypso
 Camaka
-Cambion
 Camelot
 Camera
 Camozotz
@@ -713,15 +2184,10 @@ Campeón
 Camtist
 Canaan
 Canard
-Canary
 Candela
-Candid
-Candor
 Candyman
 CandyTrip
-Cannon
 Canon
-Canopy
 Canoric
 Cans
 Cantos
@@ -730,7 +2196,6 @@ Cap
 Capital
 Capital-punishment
 Capricorn
-Captain Bulwark
 Captain Cardigan
 Captain Convoker
 Captain Desu
@@ -740,36 +2205,25 @@ Captain Natro
 Captain Oceas
 Captain Pyra
 Captain Rune
-Captain Saber
 Caption
 Caramelo
-Carapace
 Carapacitor
 Caravan
-Carbon Copy
-Carcass
-Carcinogen
 Carcinoma
 Cardinal
 Caretaker
-Caricature
 Carmine
-Carnal
 Carnaval
 Carne Diem
 Carnelian
 Carnic
 Carnifex
 Carnival
-Carnivore
 Carp
-Carpenter
-Carrion
 Carroll
 Carronade
 Carver
 Caryatid
-Cascade
 Cascade Gal
 Cascademancer
 Caseclose
@@ -777,7 +2231,6 @@ Cask
 Caspiel
 Cassandra
 Cassandran
-Cassette
 Cassette (II)
 Cassiel
 Cassini
@@ -786,17 +2239,13 @@ Cast Iron Bitch
 Castle
 Castor
 Cat
-Catalyst
 Catalyzer
-Catapult
 Cataract
-Catastrophe
 Catatumbo
 Caterpillar
 Catharsis
 Cathedral
 Catiline
-Catspaw
 Caul
 Caustic IV
 Cavalier
@@ -804,23 +2253,16 @@ Caveat
 Cavitation
 Cay
 Cease
-Ceasefire
 Cede
 Ceilidh
 Celestia
-Celestial
 Cell Sword
 Cell Tower
 Cellar Door
 Cellophane
-Celsius
 Celt
 Celtic
-Cemetery
-Censor
 Centavo
-Center
-Centrifuge
 Cepheid
 Cepheus
 cerastes
@@ -828,51 +2270,30 @@ Ceres
 Cerulean
 Cervine
 Chaff
-Chain Man
-Chainer
-Chainlink
 Chalcedony
 Challenger
-Champion
 Champion Day
-Chance
 Chaparral
 Chapter
 Charbroil
-Chariot
 Charise
 Charlie Foxtrot
-Charter
-Chasm
-Chatterbox
 Chattercairn
 Chayot
-Checkmate
 Checkmate / Jiangjun
 Checkpoint
 Chekov
 Chekov's Gun
-Chemcrasher
-Chemgun
-Chemguzzler
 Chemosabe
 Cherenkov
-Cherish
 Chernekov
 Cherry on Top
 Cherufe
 Cherufé
-Cheshire
-Chessmaster
 Chevalier
 Chibiface
 Chica Plow
 Chikara
-Chill
-Chilli Pepper
-Chillzone
-Chime
-Chimera
 Chimney
 Chimneysweep
 Chink
@@ -881,46 +2302,25 @@ Chloro
 Chloroplast
 Cholera
 Choleric
-Chopshop
 Chordate
-Chorus
 Chorus Line
 Chromium
-Chronicler
 Chronyst
 Chrysaor
-Chubster
-Chuckles
-Chump
 Chunk
 Chunni
-Chupacabra
 Cicada
 Cicatrix
 Cilantro
-Cinderbat
-Cinderblock
-Cindercrest
-Cinderhands
-Cinerate
-Cinereal
 Circadian
-Circe
-Circuit
-Circuit-Breaker
 Circum
-Circus
 Cistern
-Citadel
-Citation
 Citizen
 Citrine
 Civil
 Clack
 Clamshell
-Clandestine
 Clarinet
-Clarity
 Clarke
 Clasp
 Classical
@@ -928,60 +2328,34 @@ Clattering
 Claudius
 Clavier
 Claw One
-Clay
 Claymore
 Cleanse
 Cleanser
 Clear
 Cleave
-Cleaver Boy
 Cleaverwalker
 Cleft
 Click
 Cliffhanger
 Climax
-Cloak
-Cloak & Dagger
 Cloaking Hazard
-Clobber
 Clockblocker
 Cloister
 Clot
-Cloud Nine
-Cloudburst
 Clover
 Cloy
-Clue
 Coach
 Coal
-Cobalt
 Cocktail
 Cocollona
 Cocoon
 Coddle
 Codex
 Coefficient
-Coffin
-Cog
 Cog in the Machine
-Cogwork
 Cohoho
 Coil
-Cold
-Cold Blood
-Cold Fusion
-Cold Gal
 Cold Gold
-Cold Lion
-Cold Murder
-Cold Renegade
-Cold Strike
-Coldfront
-Coldhand
-Coldheart
-Collateral
-Collector
-Collide
 Colliderscope
 Collosoraptor
 Colonnade
@@ -993,81 +2367,59 @@ Colt
 Come Hither
 Comerica
 Comet
-Commandeer
 Commander
-Commander Cunning
 Commander Napalm
 Commando Maul
 Commodore Ghost
 Commodore Vertigo
 Commodore Vore
-Compass
 Compass Rose
-Composite
 Comrade
 Concierge
 Concourse
 Concrete Jungle
 Condemned
 Conducir
-Conduit
 Congeries
 Conquest
 Conquistador
 Consecrator
 Consequence
-Conspiracy
 Conspirator
 ConSTABulary
 Constellate
 Consul
-Contamination
-Contempt
 Contessa
 Contour
 Contra
 Contraband
-Contract
 Contrast
-Control Freak
 Controlled
 Convection
-Cooker
 Cooper
-Copernicus
-Coptic Illusion
 Cord
 Cordite
 Cordon
 Cordyceps
-Core
 Corinthian
 Coriolis
 Cornhole
-Corona
 Coronary
 Corsair
-Cortex
 Coruscate
 Corvair
 Corvette
-Cosmic Princess
-Cosmonaut
 CosmoYouNerd
 Cossack
 Cota de Malha
 Cotton
 Count
-Count Frost
-Count Pain
 Count Stacks
 Count Storm
-Countdown
 Counterflow
 Counterglow
 Counterpart
 Courier
-Coverup
 Covet
 Cower
 Cowl
@@ -1077,31 +2429,19 @@ Cozen
 Crackle
 Cradlesong
 Crane the Harmonious
-Cranial
 Crank
 Crash
-Crashtest
-Crawler
 Crawling
 Crazy Kate
 CrazyCat
 Credenza
 Creek
-Creep
 Crenellation
-Crescendo
 Crescent Glass
 Crescent Moon
-Crescent Shock
 Cretian
 Crevasse
 Cricket
-Crimson
-Crimson Fire
-Crimson Girl
-Crimson Jaguar
-Crimson Static
-Crisis
 Criterion
 Critic
 Croc Madame
@@ -1111,37 +2451,19 @@ Crookadile
 Croquer
 Cross Stitch
 Crossbones
-Crosswired
 Crow
-Crowbar
-Crowd
-CrowdControl
 Crucible
-Cruise
-Crumple zone
 Crusader
-Crush
-Crush Hazard
 Crux
-Cryoeater
-Cryomancer
-Cryowalker
-Cryowatcher
 Crypsis
-Cryptic
-Cuckooclock
 Cue Ball
-Cueball
 Cuff
 Cull
 Culverin
 Cumberling
 Cumbersome
 Cumulus
-Curbstomp
-Curfew
 Curie
-Curse
 Cute Witch Queen
 Cutlass
 Cutpurse
@@ -1149,116 +2471,71 @@ Cuttle
 Cuttlefish
 Cwn Annwn
 Cyan
-Cyanhide
 Cyborgblood
 Cyborgeater
-Cycle
 Cyclepomp
-Cyclical
-Cyclone III
 Cygnet
 Cygnus
-Cymbal
 Cynic
 Cynosure
 Czar
 Dacian
 Daedalus
 Dagger Supreme
-Daggerlancer
-Dagon
 Daiichi
-Daisy
 Dakini
 Dakken
 Dāku
 Damascus
-Dame Lightning
 Damocles
 Damsel
 Damsel of Distress
 Dan from Accounting
 Dancehall
-Dancer
 Dandelion
 Dander
 Dandylion
-Dangerclose
-Dangerzone
 Dante
-Dark Army
-Dark Despair
-Dark Ensnare
 Dark Horse
-Dark Reprise
-Darkest
-Darkling
-Darkness
-Darling
 Dartfrog
 Darude
 Darwin and Finch
 Database
 Datarate
 Dauntless
-Dawn
-Day Boy
-Daybolt
-Daybomber
-Daybreak
-Daydream
-Dayguard
-Daylight
-Daymaker
-Dayman
-Dayseeker
 DDOS
-Dead Air
-Dead Beat
 Dead Deal
 Dead Drop
-Dead Ringer
 Deader
 Deadhead
 Deadly Draught
 Deadman
 Deadpan
 Deadweight
-Deadzone
 Death and Taxes
 Death Mask
 Deathadder
-Deathbolt
 Deathcap
-Deathdealer
 Debaser
-Debt
 Debtor
 Debug
 Decade
 Decadent
 Decaf
-Decisive Strike
 Decree
 Deep Train
 Deep Trash
 Deep-Six
-Deepwater
 Defang
 Defense
 Defiant
-Deflector
-Deform
 Degenerado
 Degenerate
 Dehydro
 Deimos
-Deja Vu
 Delete
 Delirious J.R.
 Delphi
-Deluge
-Demeter
 Demise
 Demon V
 Deness
@@ -1269,19 +2546,12 @@ Dermis
 Derringer
 Deru
 Dervish
-Descartes
 Descent
 Desiccation
 Desist
 Desolate
-Despair
 Despairity
-Despairmaster
-Despairscream
 Desperado
-Despicable Ghost
-Despicable Vertigo
-Despot
 Desvendar
 Detention
 Detest
@@ -1297,7 +2567,6 @@ Deva
 Deva Yaga
 Devil Moon
 Devil's Advocate
-Devil's Frost
 Devil's Grin
 Devil's Pain
 Devious
@@ -1333,12 +2602,10 @@ Dim Mak II
 Din
 Dio
 Diode
-Diplomat
 Dipsy
 Dire
 Direlect
 Dirge
-Dirtdigger
 Disallow
 Disaster
 Disaster Girl
@@ -1346,7 +2613,6 @@ Disc Jockey
 Disciple
 Disclosure
 Disco Fort
-Discovery
 Discus
 Disjoint
 Dismay
@@ -1354,33 +2620,27 @@ Dispatch
 Dispel
 Distaste
 Distill
-Distract
 Dittos
 Divergence
 Divina
 Djenne
 Djinn
 Djinni
-Do Over
 Doc Sticker
 Docker
-Doctor Cyborg
 Doctor Doom
 Doctor Heart
 Doctor Rain
 Dodeca
 Dodge
-Dogbreath
 Dogcatcher
 Doggone
 Dogmite
 Dogpile
-DogPlant
 Doldrum
 Doldrums
 Dollhouse
 Dolores
-Domain
 Dome
 Domino
 Domovoi
@@ -1388,53 +2648,36 @@ Donnie
 Donor
 Doom and Gloom
 Doom and Loom
-Doomhands
 Doomsday
-Doomslinger
 Doormaker
 Doozie
-Doppelganger
 Doppler
 Doric
 Dorothy
 Double Cyborg
-Double down
 Double Fault
 Double Gringo
-Double Jeopardy
 Double March
-Double Rain
-Double Thunder
-Double Time
 Double Trouble
-Doubledown
 Doubletake
-Doubletime
 Doubloon
 Douse
 Dovetail
 Downbeat
 Downburst
-Downdraft
 Downfall
 Downsize
 Doze
 Dozen
 Dozer
 Dr Goggles
-Dr Newton
 Dr. Blister
-Dr. Bloodbath
 Dr. Devastation
-Dr. Jekyll
 Dr. Lag
 Dr. Little
-Dr. Tomorrow
 Draconid
 Dracula
 Drag Queen
-Dragon
-Dragonbreath
 Dragonrider
 Dragoon Raven
 Drang
@@ -1442,32 +2685,23 @@ Drastic
 Draught
 Draugr
 Draw
-Drawbridge
 Dread Hole
-Dreadlord
 Dreadnought
-Dreamcatcher
-Dreamer
-Dreamwalker
 Dredge
 Dreidl
 Drider
-Drifter
 Drimys
 Dripper
 Drivel
 Drop
 Dross
 Drudge
-Druid
 Drumbeat
 Dry Heave
-Dryad
 Du Bist!
 Dubloon
 Duchess Daedalus
 Duchess Fantasia
-Duchess Gale
 Duchess Glaive
 Duchesse
 Dude Distaste
@@ -1478,12 +2712,9 @@ Duke Dude
 Duke Raven
 Duke Rocket
 Duke Slam
-Duke Thunder
 Duke Triumphant
 DunderDolt
-Dune
 Dune Danger
-Dunerider
 Duorang
 Duress
 Durian
@@ -1494,37 +2725,27 @@ Duskbringer
 Duskline
 Duskschund
 Duskwalk
-Dust
-Dust Devil
-Duster
-Dusthound
 Dyaus
 Dying Breath
 Dyna
 Dynamic
-Dynamo
 Dynasty
 Dyson
-Earworm
 Ebb
 Ebony
 Echelon
 Echidna
-Echo
 Eclipse
 Eda
 Edict
 Eel
 Eerie
-Effervescent
 Effigy
-Efreet
 Egessa
 Egg
 Eggs
 Ego
 Ego Trip
-Eidolon
 Eigenvector
 Eights
 Eighty-Four
@@ -1540,69 +2761,39 @@ Elder Dragoon
 Elder Fox
 Elder Gentleman
 Elder Murder
-Eldritch
-Electric Gal
-Electric Kangaroo
-Electrocrown
-Electrotech
 Elegance
 Elegant Dude
 Elegant Lizard
-Elemental
 Elephant
 Eleventh Hour
 Elhanan
 Eligos
 Elijah
 Elishah
-Elixir
 Ellecksavaa
 Ellimist
-Embargo
-Ember
-Emberling
 Embody
-Emissary
 Emit
 Emperor
 Empirical
-Empress
-Empress Scorch
-Empress Snow
-Empress Spite
-Empyreal
 Empyrean
 En Rose
 Enceladus
-Enchantress
 Endeavor
 Enfilade
-Enigma
 Enjambre
 Enkidu
 Enoch
 Enterprise
 Entish
-Entity
-Entourage
-Entrench
-Entropy
 Envelope
-Envoy
 Enzyme
-Eon
-Ephemeral
-Epic
-Epicenter
-Epidermis
 Epilogue
 Epimetheus
 Epione
 Epistulae
-Epoch
 Epsilon
 Equilibrium
-Equinox
 Erase Raven
 Eraser
 Eraser Head
@@ -1610,46 +2801,32 @@ Erinys
 Erlenmeyer
 Erlking
 Error
-Error 404
 Erudite
 Erupcion
 Erzengel
 Esbirro
 Escalate
-Escher
 Eschew
-Escrow
 Escutcheon
 Esé
 Eskimo
 Esoterica
 Espadachina
-Essence
 Estival
 Estoc
 Etchings
 Ether
-Ethereal
-Ethereal Kingfisher
-Ethereal Woman
 Eureka
 Eureka III
 Europa
 Europan
-Event Horizon
-Everest
-Evergreen
 Everlast
-Everyman
 Ex
 Exalt
-Excalibur
 Excisor
 Excrucio
 Excuse
 Executive
-Exemplar Phoenix
-Exhaust
 Éxodo
 Exodus
 Export
@@ -1660,12 +2837,9 @@ Extravagant
 Extreme Girl
 Extreme Gryphon
 Eye Matey
-Eyeshot
 Ezekiel
 Fable
-Fabricate
 Fabulist
-Facade
 Facet
 Faerie
 Fafnir
@@ -1678,19 +2852,14 @@ Falchion
 Falconet
 Fall VII
 Fallguy
-Fallout
-False Pretense
 Famicide
-Famine
 Fancy Boy
 Fancy Coyote
 Fantasia
 Fantastic Bear
 Fantastic Kid
-Faraday
 Fashion Week
 Fast Lane
-Fastball
 Fasto
 Fata Morgana
 Fatal Femme
@@ -1700,16 +2869,11 @@ Faultline
 Fauna
 Faust
 Faustus
-Fawn
 Fay
 Fearless Iguana
 Fearless Mask
-Fearmaster
 Featherweight
 Feck
-Feedback
-Feign
-Feint
 Felix
 Felix Swoop
 Fell
@@ -1717,7 +2881,6 @@ Fell Swoop
 Femur
 Fenix
 Fenja
-Fenrir
 Fenris
 Feral
 Feral Blood
@@ -1745,67 +2908,31 @@ Finch
 Finch Lad
 Finial
 Finite
-Fire
-Fire Bear
-Fire Sire
-Firearm
-Fireback
-Fireball of the Eucharist
-Firebear
-Firebird
-Firebrand
-Fireburst
-Firecracker
-Fireflight
-Firefly
-Fireknife
-Fireman
-Firemind
-Firestorm
 Firmament
 Firnis
 First Sight
 Fisher King
 Fisher o' Men
 Fisherboy
-Fission
-Fissure
-Fissureman
-Fist Boy
-Fist of Iron
-Fistfight
-Fistress
-Fistslayer
 Flack Rabbit
 Flag Man
 Flair
 Flak
 Flambe
 Flambo
-Flamehaze
-Flametongue
-Flanker
-Flaptor
-Flare
 Flash Mob
-Flashbang
-Flashburn
 Flashpoint
-Flatline
 Flatter
 Flaw
-Flechette
 Fleece
 Fleetfoot II
 Fletcher
 Fleur
 Flicker
-Flight Risk
 Flinch
 Flip Off
 Flippant
 Flisk
-Floater
 Flock
 Floe
 Flora Rose
@@ -1813,13 +2940,10 @@ Floret
 Flourish
 Flow
 FlowerPower
-Flubster
 Flume
 Fluoresce
-Flyby
 Focal
 Foco
-Fog
 Foil
 Fold
 Folkloric
@@ -1830,86 +2954,49 @@ Ford
 Forearm
 Forecast
 Foremost
-Forgemaster
 Forger
-Forget-me-not
-Forked Lightning
 Fornicate
-Fortify
 Fortnight
 Fortunate Son
-Fortune Cookie
-Fortuneteller
 Fountain of Valor
 Four
 Fourteen
 Fox to Trot
-Foxfire
 Foxraiser
 Foxtongue
-Frack
 Fractured
 Frag
-Fragburst
 Fraggot
 Fragment
-Fragstorm
 Frameshift
 Fray
 Freckles
-Freefire
-Freelance
-Freelancer
 Freemason
 Freestyle
-Freezeout
-Freezerburn
 Freight
 Frenetic
 Frenzy
-Fresh Air
-Fresh Meat
 Freud
 Freudian
 Freyja
 Friedrich
 Friendsy
-Fright
-Frightning Bug
-Frigid
 Frischluft
 Fritz
 Frontier
-Frontrunner
-Frost
-Frost Doctor
-Frost Supreme
-Frostbite
-Frostburn
-Frosteater
 Frostfang
-Frostfucker
-Frostmouth
 FUBAR
 Fuckinator
 Fugue
 Full Moon
 Full stop
 Full Throttle
-Fume
 Function
-Funderbolt
-Funhouse
 Funnerbolt
 Furies
-Furious Boy
-Furious Grind
-Furious Heart
-Furious Jaguar
 Furor
 Furror
 Furrow
-Fury
 Fusão
 Fusilier
 Fusoku
@@ -1919,7 +3006,6 @@ G_LOC
 G.G.
 Gabriel
 Gadget
-Gaia
 Gal
 Galactica
 Galaga
@@ -1928,14 +3014,7 @@ Galamander
 Galatea
 Galatian
 Galatine
-Galaxy
-Gale
-Gale Dude
-Gale Goon
-Gale King
 Galerie
-Galeseeker
-Galileo
 Gall
 Gallant
 Gallant Mask
@@ -1943,34 +3022,25 @@ Gallant Squirrel
 Galley
 Gallic
 Gallo
-Gallows
 Galvanate
-Gambit
 Gamdot
 Gamma
 Gander
 Ganesh
 Ganymede
-Gaol Thunder
 Gar and Starters
 Garaou
-Garden
 Gargant
-Gargantuan
 Gargle
-Gargoyle
 Garland
 Garnet
 Garnett
-Garotte
 Garrison
 Garth
-Gaslight
 Gaspar
 Gasper
 Gate Dude
 Gatecrasher
-Gategun
 Gatekeeper
 Gatemancer
 Gateslayer
@@ -1978,17 +3048,11 @@ Gateslinger
 Gateway
 Gatherer
 Gatling
-Gaunt
 Gauntlet
 Gauss
 Gauss II
 Gavel
-Gear
-Gearbox
-Geiger
-Geist
 Gellid
-Gemini
 Gemmata
 General Cascade
 General Cleaver
@@ -2001,26 +3065,18 @@ Genesis
 Genetrix
 Geneva
 Genial
-Genocide
-Genome
 Genoscythe
 Gentle Giant
 Gentlefolk
 Genus
-Geomancer
 Gerilim
 Gestalt
-Getaway
 Gethsemane
 Gever
-Geyser
 Ghetto
 Ghetto G-sus
-Ghost Army
 Ghost of Christmas Past
 Ghostbruiser
-Ghosteye
-Ghostlight
 Ghostly Hawk
 Ghostly Savage
 Ghostwatcher
@@ -2031,16 +3087,12 @@ Gibber
 Gibbet
 Gibbon
 Gigaton
-Gigawatt
 Gilgamesh
 Gill
 Gimmick
 Gin
 Gingerbread Boy
-Gizmo
 Glace
-Glacier
-Gladiator
 Gladiolus
 Glaistig Uaine
 Glaive
@@ -2048,33 +3100,18 @@ Glaive Gal
 Glaivekeeper
 Glamour
 Glance
-Glass
 Glass Cannon
-Glass Mind
-Glass Shard
-Glassfather
-Glasstrail
-Glassworks
 Gleipnir
 Glint
 Glitch
 Glitter
-Glitter Litter
-Glitterbeast
-Glitterdust
-Glitterhands
 Glittermaul
-Glitz Girl
-Glitzernde
 Gloam
-Globe
-Gloom
 Glorious Man
 Glorious Mouse
 Glory Girl
 Gloss
 Glossary
-Glow
 Glutton
 Glyph
 Gnash
@@ -2083,14 +3120,8 @@ Gnomestinger
 Gnosis
 Goblet
 God and Dog
-God Hand
-God's Thumb
 Godess Josie
-Godfang
-Godhead
-Godmonger
 Godot
-Godsend
 Gog
 Gold
 Gold Crush
@@ -2099,7 +3130,6 @@ Golden Fang
 Golden Gentleman
 Golden Girl
 Golden Hare
-Golden Murder
 Golden Rule
 Golden Son
 Goldenrod
@@ -2110,25 +3140,19 @@ Golem
 Golgoth
 Goliath
 Gomorrah
-Goner
 Good Johnny
-Good Neighbor
 Goodspear
 Gooper
 Gordias
-Gore
 Gorge
-Gorgon
 Gorgrath
 Gossamer
-Gotcha
 Goth
 Gothic
 Grace
 Graceless
 Gradient
 Gradient Tox
-Graft
 Gram
 Granadero
 Grand
@@ -2138,77 +3162,55 @@ Grand Man
 Grand Slam
 Grandeur
 Grandiose
-Grandmaster
 Grandstander
 Granite
 Granka
 Grant
 Grape
-Grapeshot
 Grasp
 Grasscutter
-Grasshopper
 Grassland
 Gravedanger
 Gravedigger
 Gravelord
 Graveyard
-Gravitron
 Gravity Hammer
 Gray
 Gray Boy
-Gray Girl
 Graze
 Grease Monkey
-Greased Lightning
 Greasemonkey
 Greasetrap
 Great Divide
 Great Kingfisher
 Great Lass
 Greed Gold
-Green Goo
 Green Knight
-Greenbat
 Greenborough
 Greenhorn
 Greenlight
 Gregor the Snail
-Grenadier
-Grendel
 Gressil
 Gretchen
 Grey
 Grey Man
 Greysteil
 Grievance
-Grieve
 Grifter
-Grim
-Grim Fate
-Grim Mirror
 Grimalkin
 Grime
-Grimoire
 Grin
 Grinch
 Grindcrusher
-Grindfire
 Grindmauler
-Grindstone
 Grindylow
-GrisGris
 Gristle
 Gristledinger
 Grit
 Grizzly
 Groove
 Grotesque
-Groundbreaker
-Groundskeeper
 Grouper
-Groupthink
-Grue
 Grumman
 Grumplestilskin
 Gruncle
@@ -2217,7 +3219,6 @@ Gryphon Rampant
 GTFO
 Guandao
 Guardian
-Guardian Angel
 Guardian Dagger
 Guidance
 Guidebook
@@ -2234,19 +3235,15 @@ Gunker
 Gunmander
 Gunrun
 Gunrunner
-Gunshow
 Gunshy
 Gunslinger
 Gunsmith
 Gurney
 Gurt Dog
 Gusto
-Gustslinger
-Gutshot
 Gutter
 Gutter XII
 Gutterfingers
-Gutwings
 Guzhang (孤掌)
 Gwerrus
 Gypsy
@@ -2263,9 +3260,7 @@ Halal
 Halcyon
 Hale
 Half
-Half-Life
 Halfling
-Hallow
 Halo
 Halogen
 Halphas
@@ -2300,17 +3295,10 @@ Hastur
 Hatchet Face
 Hauberk
 Hauler
-Haunt
 Hauntsome
 Havoc
 Hawkbringer
-Hawkfire
-Hayabusa
-Haymaker
-Hazard
-Haze
 He Shall Appear
-Headcase
 Heads
 Heads Up
 Headstrong
@@ -2320,19 +3308,13 @@ Heart of Gold
 Heartbreaker
 Hearth
 Heartless
-Heartless Bitch
 Heartless Diamond
-Heartless Horror
 HeartPlant
 Heartrace
-Heatblaze
-Heatdeath
-Heatraiser
 Heavy Groundhog
 Heavy Lad
 Heavy One
 Heavyset
-Heavyweight
 Hecate
 Hecatoncheir
 Hectate
@@ -2342,32 +3324,19 @@ Hedgewitch
 Hedgewizard
 Hedron
 Heilbronn
-Heimdall
 Heirophant
 Heist
 Heith
 Hekate
 Helada
 Helical Priest
-Helios
 Helix
 Hell and Back
 Hellcaller
-Hellcrasher
-Helldozer
-Helleye
-Hellfire
-Hellhound
 Hellion
-Hellion
-Hellraiser
-Hellroad
-Hellspawn
-Hellwalk
 Helon
 help
 Hemorrhagia
-Hephaestus
 Herald
 Herbalist
 Heretic
@@ -2393,15 +3362,12 @@ Hieroglyph
 Hierophant
 High Roller
 High-Spec
-Hijack
 Hijinks
 Hindenburg
 hindenbury
 Hipcheck
 Hissy Fit
 Hitch
-Hive
-Hoarfrost
 Hoax
 Hobbler
 Hogtie
@@ -2413,7 +3379,6 @@ Hollow
 Hollowhead
 Holmes
 Holmgang
-Holocaust
 Homesick
 Homestead
 Homunculus
@@ -2422,7 +3387,6 @@ Hon
 Hōng
 Honshu
 Hoodlum
-Hoodwink
 Hook
 Hookwolf
 Hooligan
@@ -2430,26 +3394,16 @@ Hoop
 Hooverville
 Hop
 Hopscotch
-Horde
 Horizon
 Horn Lord
-Horrorshow
 Horse Tracks
 Horseman
 Host
 Host
-Hostage
-Hostile Takeover
-Hot Stuff
 Hotbox
 Hotline
-Hotrod
-Hotspot
-Hotswap
 Hotwire
 Houdinette
-Hover
-Howl
 Howlbard
 Howling Void
 Hoyden
@@ -2461,9 +3415,7 @@ Huld
 Humanist
 Humble
 Humburgler
-Humid
 Hummer
-Hunch
 Hunter
 Huracan
 Hurdle
@@ -2471,50 +3423,35 @@ Hush
 Husk
 Hyacinth
 Hyaline
-Hyde
-Hydra
-Hydroblast
 Hydrophobe
 Hymn
 Hyohi
 Hyperdrive
-Hyperion
 Hyperspace
-Hypnos
 I-Beam
 Ibex
 Ibis
-Icarus
 Ice-Dirge
-Iceflow
 Ichor
-Id
 Ideologue
 Ides
 Idol
-Ifrit
 Ignatius
 Igneous
 Ignes Fatui
 Ignis
-Ignition
 Ignominy
-Il Bastardo
 Ilk
 Ill Intent
 Ill-Thrill
 Illicit
 Illmatic
 Illume
-Illuminate
-Illusionist
 Iluminado
 Immobulus
-Immolator
 Immortal Lockdown
 Immortal Wraith
 Immunity
-Imp
 Impact
 Impale
 Impasse
@@ -2532,20 +3469,12 @@ Implore
 Implosion
 Improv
 Impulse
-Incendiary
 Incinerata
 Inclement
-Incredible Gorilla
 Incredible Supreme
-Index
 Indigo
-Indiscriminate
-Indomitable
 Inductor
 Inertia
-Inferno
-Infernoeater
-Infernomouth
 Infierno
 Infinite
 Infomorph
@@ -2562,15 +3491,12 @@ Innkeeper
 Innuendo
 Inside
 Insidious
-Insight
 Insincere
 Instill
 Insulin
 Integral
 Interdict
-Interrobang
 Interstate
-Interstellar
 Interstice
 Interviewer
 Intoxicant
@@ -2583,22 +3509,11 @@ Irator
 Iridescent
 Iris
 Iron Anger
-Iron Falcon
 Iron Lotus
-Iron Maiden
 Iron Mask
-Iron Rain
-Iron Scar
-Iron Scorch
 Iron Sniper
-Iron Spite
 Iron Storm
-Iron Will
-IronBeetle
-Ironclad
-Ironscale
 Isaiah
-Iscariot
 Isis
 Islander
 Isochasm
@@ -2609,13 +3524,10 @@ Itchy
 Ivory Angel
 Ivory Froth
 J.A.o.B.
-Jabberwock
 Jack
 Jack of Hearts
-Jack slash
 Jack-All
 Jack-O'-Fall
-Jack-of-all-Trades
 Jackal
 Jackalope
 Jackanapes
@@ -2625,30 +3537,18 @@ Jackpot
 Jackrock
 Jade Rabbit
 Jadeite
-Jail
-Jailbird
 Jakuten
 Jam
 Jamestown
-Jane Doe
 Janisarry
-Janus
 Jason
-Jaunt
-Jawbreaker
 Jazz
 Jed Taylor
 Jellyboy
-Jericho
-Jester
-Jet
 Jetblast
-Jetstream
-Jetwash
 Jia
 Jiangjun
 Jig
-Jigsaw
 Jing
 Jinn
 Job
@@ -2657,29 +3557,20 @@ Jolly Lass
 Jolly Tiger
 Jongleur
 Jonquil
-Jotun
 Joule
 Jouster
 Jovian
 Joyeuse
-Joyride
 Joystick
 Jōzō
-Judgment
-Judgment Day
 Juice
 Jukebox Hero
 Julius
-Jump
-Jumping Jack
 June
 Jūnfá
-Jungle
 Juniper
 Junius
 Junket
-Junkyard Inferno
-Junkyard Rat
 Juno
 Jupiter
 Just
@@ -2725,7 +3616,6 @@ Kibosh
 Kick
 Kick Spar
 Kickback
-Kickflip
 Kickstart
 Kid Axe
 Kid Convoker
@@ -2736,24 +3626,15 @@ Kid Lockdown
 Kid Morningstar
 Kid Myrmidon
 Kid Raven
-Kid Win
 Kidface
 Kikai
-Kill Me-ow
 Killhand
 Killsat
-Killstreak
-Killzone
 Kimaris
 Kindred
 Kinesthetic
 Kinetic
-Kinetic Cold
-King
 King Army
-King Blade
-King Blast
-King Bomb
 King Boy
 King Crow
 King Crush
@@ -2762,7 +3643,6 @@ King Day
 King Despair
 King Gate
 King of Cups
-King of Hearts
 King of Spades
 King of Strife
 King of the Hill
@@ -2773,38 +3653,26 @@ King slayer
 King Sorcerer
 King Spear
 King's Son
-Kingmaker
 Kingpin
 Kirin
 Kirkschild
 Kismet
 Kiss List
 Kit-Bash
-Kite
 Kitty Corner
 Knave
 Knave of Clubs
 Knave of Hearts
-Kneejerk
 Knickknack
 Knifehead
-Knight Acid
 Knight Bulwark
-Knight Chem
-Knight Chill
 Knight Cipher
-Knight Crimson
-Knight Errant
-Knightmare
 Knock
-Knockabout
-Knockout
 Knot
 Knotweed
 Knuckle Sandwich
 Knuckleball
 Knuckleduster
-Kobold
 Komainu
 Kongmato
 Kore
@@ -2814,7 +3682,6 @@ Koryuu
 Kothophed
 Koto
 Krag
-Kraken
 Kratocrat
 Kreuzer
 Krieg
@@ -2840,9 +3707,7 @@ La Llorona
 La Maupin
 La Tempestad
 Laa-laa
-Lab Rat
 Labrys
-Labyrinth
 Lachisis (?)
 Lackadaisy
 Lacquer
@@ -2851,16 +3716,12 @@ Lacrimosa
 Ladon
 Lady Diamond
 Lady Excelsis
-Lady Lightning
 Lady Luck
 Lady Luster
-Lady of the Lake
-Lady Photon
 Lady Saint Plumage
 Lady Slam
 Lag
 Lagniappe
-Laissez-faire
 Lamashtu
 Lambent
 Lament
@@ -2868,9 +3729,6 @@ Lamenta
 Laminate
 Lamprey
 LAN-celot
-Lancelot
-Lancer
-Lancet
 Land Send
 Land's End
 Landlubber
@@ -2882,36 +3740,26 @@ Landvættr
 Lantern
 Lanternes de Morts
 Lapetus
-Laplace
 Lark's Tongue
 Larkspur
 Laser Suzie
-Laserdream
-Laserlash
 Lasseiz-faire
 Last Hawk
 Last Mask
 Last Resort
 Later Gator
-Launchpad
-Laureate
 Laurel
-Lavamancer
 Lavender
 LaVey
 LaVeyan
 Lavinia
 Lax Bro
-Lazarus
-Lazer Lime
 League of Their Own
 Least
 Lectern
-LED
 Leechcraft
 Leet
 Legend
-Legion
 Legwork
 Leister
 Leitmotif
@@ -2922,9 +3770,6 @@ Leonid
 Leperous
 Leveret
 Leviticus
-Lexicon
-Leyline
-Li'l Bang
 Libera
 Libertas
 Libra
@@ -2934,18 +3779,10 @@ Lichtblitz
 Lichtstomp
 Licit
 Liebszauber
-Lifeline
 Lift
 Liftdoff
 Ligeia
-Lightbringer
-Lightchild
 Lightlost
-Lightsever
-Lightshow
-Lightslinger
-Lightstar
-Lightwing
 Lilith
 Lillith
 Lilu
@@ -2956,35 +3793,25 @@ Line
 Linedrive
 Liner
 Linorm
-Lion Tamer
-Lionheart
 Lionize
 Liquefy
 Listless
 Little Hand
-Little Thunder
 Littoral
-Liturgy
-Livery
 Lizard Prince
 Lizardtail
-Loan Shark
 Loathe Deluge
-Lobotomy
 Loci
 Lockblast
 Lockbox
-Lockdown
 Locus
 Locust
 Lodestone
 Log Ram
-Logos
 Lollipop
 Long Arm
 Longboard
 Longinus
-Looking Glass
 Loop
 Loose Thread
 Lord Bang
@@ -2999,26 +3826,20 @@ Lorelei
 Lorica
 Lotus
 Loudmouth
-Loup-garou
 Lout
 Low-key
 Luce
 Lucent
 Lucid
 Lucidate
-Lucifer
 Lucifuge
 Luckless
 Lucky 13
-Lucky Bone
 Lucky Duck
 Lucky Seven
 Lucky Strike
 Luddite
 Luger
-Lumen
-Lumina
-Luminary
 Lun
 Luna
 Lunacross
@@ -3042,15 +3863,11 @@ Lux
 Lux Invicta
 Luxury
 Luz
-Lycanthrope
 Lye
 Lynch
-Lynch Squad
 Lyric
-Macabre
 Maccabee
 Mace
-Mach
 Macha
 Machete
 Machinist
@@ -3066,25 +3883,21 @@ Madame Hammer
 MadBird
 Madrigal
 Madtom
-Maelstrom
 Maestra
 Maestro
 Mage
 Magehand
 Magic Mike
-Magic Mirror
 Magician
 Maginot
 Magister
 Magisterial
-Magma
 Magnaat
 Magnetude
 Magnficence
 Magnitude
 Magnus
 Magog
-Magpie
 Magus Opus
 Maize
 Majestic Kid
@@ -3098,21 +3911,15 @@ Maladroit
 Malcontent
 Malefactor
 Maleficarum
-Malfire
 Malhador
-Malice
-Malign
 Malin
 Mallet
 Malleus
 Malmation
 Maltese Falcon
-Malware
-Mama Bear
 Mambabarang
 Mamorigami
 Man in the Mirror
-Man of War
 Man-Machine
 Man's Red Flower
 Manananggal
@@ -3123,18 +3930,14 @@ Mangle
 Mangled
 Mangold
 Manhandler
-Mania
-Manic
 Maniobra
 Maniobra
-Mannequin
 Mano de Dio
 Mano Destra
 Mano Sola
 Mano Sola
 Manohae
 Manos del Mono
-Manpower
 Manse
 Manta
 Mantellum
@@ -3151,7 +3954,6 @@ Marginal
 Maria
 Maricha
 Marionette
-Marionette
 Maripose
 Marjanah
 Mark of Cain
@@ -3159,13 +3961,10 @@ Mark Schreiner
 Marker
 Marlin
 Marquis
-Marred Mirror
 Marrow
 Marshal
-Martial Law
 Martian
 Martingale
-Martyr
 Martyrdom
 Marvel Kid
 Marvelslinger
@@ -3176,15 +3975,10 @@ Mask Man
 Maskchaser
 Maslow
 Maslow's Hammer
-Masochist
 Masque
-Masquerade
 Mass
-Mastermind
-Masterplan
 Masterstroke
 Mastiff
-Matador
 Matchmaker
 Matchsticks
 Materia
@@ -3193,23 +3987,16 @@ Matrix
 Matryoshka
 Mattock
 Maul
-Maul Girl
 Maulfighter
 Maullancer
 Maven
-Maw
 Max
 Maxwell
 Mayfly
 Mayhem
 Mean Streak
 Meany Moe
-Meat Hook
-Meatbag
-Meatgrinder
-Meathead
 Mechanical Turk
-Medicine Man
 Medley
 Medulla
 Megacarpus
@@ -3221,13 +4008,9 @@ Melody
 Melusine
 Memento
 Memento Mori
-Memnzy
-Menace
-Menagerie
 Mendicant
 Menja
 Meowsma
-Mephisto
 Mercurial
 Mercury
 Mercy
@@ -3238,11 +4021,6 @@ Merry Berry
 Mesa
 Mesh
 Meta
-Metal Mask
-Metalcore
-Metalhead
-Metalmancer
-Metalvore
 Metamorph
 Metamorphose
 Metasynth
@@ -3252,10 +4030,7 @@ Metronome
 Metropolitan Kitty
 Metropolitan Woman
 Mezzine
-Miasma
-Midas
 Midge
-Midnight
 Midnight Oil
 Midnight Violet
 Midnighter
@@ -3269,55 +4044,32 @@ Mime-A-Dozen
 Minakhim
 Mincemeat
 Mind If I
-Mind Map
-Mindfuck
 Mindjack
-Mindmite
 Mine
-Minefield
 Minerva
 Miniboss
 Minos
 Mint
 Minus
 Mirage
-Mirrormask
-Misclick
-Misdirection
 Misericorde
-Misery
 Miss Andry
-Miss Blitz
-Miss Cleaver
 Miss Demeanor
-Miss Fire
-Miss Hiss
-Miss Information
 Miss Manacle
 Miss Mania
 Miss Manos
-Miss Massacre
 Miss Militia
-Miss Oilslick
 Miss Shapen
 Miss Wisp
 MissileToe
-Mist
-Mistbank
 Mister Demented
 Mister Eminent
-Mister Frost
-Mister Joy
 Mister Lost
-Mister Mask
-Mister Mist
 Mister Phoenix
 Mister Simian
 Mister Victorious
 Mistral
-Mistress Gale
 Mistress of Ceremonies
-Misty Melody
 Mithrandir
 Mithril
 Mitre
@@ -3330,28 +4082,23 @@ Mockshow
 Mog
 Moira Kane
 Molecular
-Molotov
 Momo
-Monarch Shadow
 Monarch Sorrow
 Mongrel
 Monk
 Monkey King
 Monokeros
-Monolith
 Monologue
 Montatura
 Monteserrat
 Monument
 Mood
-Mood Swing
 Moonbeam
 Moonshine
 Moonsting
 Moonwalk
 Moonwalker
 Moord Nag
-Morbid
 Mordant
 Mordred
 Morgan
@@ -3360,7 +4107,6 @@ Moros
 Morsel
 Mortal
 Mortal Lock
-Mortar
 Mortifero
 Mosaic
 Moses
@@ -3370,7 +4116,6 @@ Mote
 Mothdaddy
 Mother Bomb
 Mother May I
-Mother Nature
 Motor Pool
 Motorpsycho
 Mountain Man
@@ -3389,7 +4134,6 @@ Mt. Lady
 Muda
 Mudman
 Mudskipper
-Mudslide
 Mugshot
 Multistage
 Mummer
@@ -3397,9 +4141,7 @@ Munch
 Munstro
 Murder Rat
 Murder She Wrote
-Murderbeam
 Murderface
-Murdermaster
 Murdock
 Murmur
 Muse
@@ -3435,26 +4177,18 @@ Nailtime
 Naked Angel
 Name
 Nano
-Naplam
-Narwhal
 Native
-Natural Selection
 Nautilus
 Navaratna
 Navigator
-Navpoint
 Naysay
 Nebulos
 Necessitate
-Necromancer
 Necron
-Necrotic
 Needle
-Needlestorm
 Needletail
 Nein
 Nemean
-Nemesis
 Neon
 Neon King
 Neptunia
@@ -3480,28 +4214,7 @@ Nice Guy
 Niche
 Nicodemus
 Niflheim
-Night
-Night Hag
-Night Woman
-Night Worg
-Nightbomb
-NightBringer
-Nightcaster
-Nightcomer
-Nightfall
-Nightingale
-Nightlight
-Nightlobster
-Nightman
-Nightmare
-Nightshade
-Nightshatter
-Nightsong
-Nightswoop
 Nightwalk
-Nightwatcher
-Nightwave
-Nightwind
 Nihilist
 Nihilo
 Nihilus
@@ -3519,7 +4232,6 @@ Niveous
 Nix
 Nix 
 Noble
-Noblesse Oblige
 Nobody
 Noctis
 Node
@@ -3534,14 +4246,12 @@ Nosseeum
 Nostrum
 Not Here Man
 Notos
-Notre Dame
 Nótt
 Nougat
 Noumenon
 Nouveau
 Nouveau Riche
 Nowhere
-Nucklavee
 Nuclear Lass
 Nuclear Platypus
 Nucleic
@@ -3549,9 +4259,6 @@ Nuisance
 Nuke
 Null
 Numb
-Number Man
-Numbers
-Numbskull
 Nurture
 Nutshank
 Nyx
@@ -3562,7 +4269,6 @@ Oaks
 Oarsman
 Oasis
 Oath
-Oathbinder
 Obelisk
 Oberon
 Oblation
@@ -3572,9 +4278,7 @@ Octane
 Octavian
 Ocular
 Oculli
-Odious Spire
 Odyssey
-Ogre
 Ogun
 Ol' Black Magic
 Ola Polar
@@ -3582,10 +4286,8 @@ Old Faithless
 OLED
 Oliver
 Olympian
-Omen
 Omission
 Omnigrade
-Omnivore
 One
 Oni Lee
 Oni-Ni-Kabano
@@ -3596,13 +4298,9 @@ Operative Shadow
 Operative Sorrow
 Ophan
 Ophiuchus
-Oracle
-Orbit
 Orbital
 Orc
-Orchid
 Ordeal
-Ordnance
 Oread
 Origami
 Oriole
@@ -3619,11 +4317,8 @@ Osteoblast
 Osteoclast
 Othala
 Othello
-Oubliette
 Ouroboros
-Oust
 Outburst
-Outclass
 Outer Gate
 Outlander
 Outrageous
@@ -3631,19 +4326,14 @@ Outrider
 Outsider
 Outskied
 Ova
-Overclock
-Overdose
 Overheat
 Overload
 Overmatch
 Override
 Overrun
 Oversear
-Oversight
 OverThal
-Overtime
 Overtone
-Overwatch
 Ovum
 Oxheart
 Oz
@@ -3651,25 +4341,17 @@ Packman
 Paddock
 Pagan
 Paideia
-Pain Guy
-Pain Train
-Paincaller
-Painfist
 Painkiller
 Palace
-Paladin
 Paladin Trident
 Pale Gloom
 Paleontology
 Palindrome
-Palisade
 Paliza
 Pallas
 Palp
 Paltik
 Pan
-Panacea
-Pandemic
 Pangolin
 Panico
 Panimal
@@ -3686,40 +4368,31 @@ Paperdoll
 Papermoon
 Papyrus
 Paracelsus
-Parade Day
 Paradigm
 Paradigm Shift
-Paragon
 Parallelicat
 Paramour
 Parasol
-Pariah
 Parian
 Parlay
 Parley
 Parrymaster
-Parse
 Particulate
 Partisan
 Party Animal
 Pas de Deux
 Pasadizo
 Pasas
-Pascal
 Pasper
 Passenger
-Passion
 Pater
 Path to Paradise
-Pathos
 Patient
 Patrician
-Pause
 Pavise
 Pearl
 Pebble
 Pedigree
-Peekaboo
 Pelter
 Pelzig
 Pendulum
@@ -3744,21 +4417,13 @@ Perséphone
 Persian
 Persimmon
 Peste
-Pestilence
 Pestle
 Pet Project
-Petal Throne
 Petard
 Petaurus
 Pete Bog
 Petit Chat
 Petit Morty
-Phalanx
-Phantasm
-Phantasmagoria
-Phantom
-Phantom Boy
-Phantom Minnow
 Phantom of Heilbronn
 Phantom Tollbooth
 Pharaoh
@@ -3770,8 +4435,6 @@ Phenomenon
 Pheonix
 Phir Se
 Phlegyas
-Phobia
-Phobos
 Phoenix Mask
 Phoenixbuster
 Phoenixfeather
@@ -3789,7 +4452,6 @@ Pillbox
 Pilot Light
 Pime Abtiss
 Pin-up Girl
-Pinball
 Pinball Wizard
 Pindar
 Pinion
@@ -3799,21 +4461,15 @@ Pinnacle
 Pinpoint
 Pinprick
 Pioneer
-Pirouette
-Pisces
 Pistolwhip
 Pit Boss
 Pit Bull
 Pitch
-Pitstop
-Pivot
 Pixel
 Pixie Stick
 Pizzicato
 Placid
-Plague
 Plane
-Plantsman
 Plassein
 Platemail
 Platoon
@@ -3825,7 +4481,6 @@ Plethora
 Plinkmazer
 Plover
 Plower
-Plunderer
 Poacher
 Pocket Knife
 Podunk
@@ -3844,7 +4499,6 @@ Pollux
 Polychrome
 Polyp
 Poolfloat
-Portcullis
 Posie
 Posse
 Postman
@@ -3857,14 +4511,12 @@ Prancer
 Prat
 Pratfall
 Praybird
-Preacher
 Precipice
 Predator
 Predicament
 Prefab
 Preface
 Prête
-Pretender
 Pretty Boy
 Prick
 Pride
@@ -3880,7 +4532,6 @@ Prince Girl
 Prince Hammer
 Prince Meow
 Prince Nightblade
-Prince of Blades
 Prince of Peace
 Prince Prosperous
 Prince Raven
@@ -3905,23 +4556,18 @@ Prion
 Prior
 Prism
 Prisma
-Prismatic
 Prison Break
 Private Alice
 Procyon
 Prodigal
 Prodigal Sun
-Prodigy Acid
 Prodigy Fist
 Prodigy Thirteen
 Professor Cascade
-Professor Chaos
 Professor Craven
-Professor Dilemma
 Professor Fist
 Professor Grind
 Professor Haywire
-Professor Illusionist
 Professor Kid
 Professor Marvel
 Professor Maul
@@ -3939,7 +4585,6 @@ Prometheus
 Prominence
 Promise
 Pronto
-Proof
 Propagation
 Propellent
 Protector Quake
@@ -3950,8 +4595,6 @@ Province
 Prowess
 Proxy
 Prynne
-Psion
-Psionic
 Psych
 Psychedelia
 Psychonaut
@@ -3959,11 +4602,9 @@ Psychosoma
 Puck
 Puerco Loco
 Pulsar
-Pulsar
 Pumice
 Punchy
 Puncture
-Purity
 Purple Boar
 Purple Parrot
 Pursuit
@@ -3972,40 +4613,25 @@ Pustule
 Pygmalion
 Pylon
 Pyrachnid
-Pyre
 Pyrite
-Pyrobinder
-Pyroclastic
-Pyrofighter
 Pyrofrost
-Pyromancer
-Pyromaster
 Pyrosome
-Pyrotechnical
 Pyrrhic
 Q Factor
 Quack
 Quadrant
 Quaff
 Quag
-Quake Woman
 Quakebinder
 Quality Control
-Quantum Hampster
-Quantum Woman
-Quarantine
 Quark
 Quarrel
-Quarry
 Quartermaster
 Quarters
-Quartz
 Quasimodo
 Quaver
-Queen Frost
 Queen Meow
 Queen Midas
-Queen of Swords
 Queen of the Gate
 Queenfish
 Questionnaire
@@ -4017,31 +4643,15 @@ Quillhound
 Quincunx
 Quine
 R
-Ra
 Rabbit
 Rabbit Hole
-Rabid
-Rad burn
-Radiance
-Radicancer
 Radiculose
-Radioactive
-Radioactive Storm
-Radioactive Zero
 Rag Man
 Ragdoll
-Rageboner
-Ragetard
 Ragnarok
-Raidiant Slug
-Raijin
 Rail
-Railgun
 Railway
-Rain of Despair
-Rainbow Dash
 Rainbow Idol
-Raindance
 Rake
 Rakshasa
 Rally
@@ -4052,13 +4662,10 @@ Ramrod
 Ramshackle
 Ramus
 Range
-Ranger
 Rank
 Rapere
-Rapid Rabbit
 Rapier Wit
 Raptor
-Rapture
 Raselgethi
 Rasende Wut
 Rasputin
@@ -4067,31 +4674,19 @@ Rat Doom
 Rat Storm
 Rata Mata
 Ratatoskr
-Ratchetman
 Raternal
-Rational Mind
 Raul
-Ravager
 Ravel
 Raven
 Raven Dude
 Raven Lass
 Ravenchaser
 Ravenslayer
-Ray
-Raymancer
 Raze
 Razorface
-Razortooth
 Razzmatazz
 Re-Curse
-Reach
-Reactor
-Reader
-Real Steel
-Reaper
 Rearguard
-Reaver
 Rebar
 Rebellion
 Rebobinar
@@ -4099,24 +4694,18 @@ Rebound
 Rebuild
 Reckless
 Recluse
-Recoil
 Recorder
 Recourse
 Red
 Red Card
 Red Dude
 Red Eagle
-Red Eye
 Red Fish Blue Fish
-Red Glare
-Red Ice
-Red Light
 Red Lips
 Red Panda
 Red Riding Hood
 Red Riot
 Redact
-Redbolt
 Redcap
 Redcoat
 Redipt
@@ -4124,34 +4713,22 @@ Rediron
 Redline
 Redoubt
 Redox
-Redpath
 Redshift
 Redundancy
 Redux
-Reflection
-Refute
 Regale
-Regent
-Region
 Regolith
-Reign
-Relativity
 Relay
 Reliant
 Rem
-Remedy
 Ren
-Renaissance Man
 Rend
 Renegade
-Replica
 Repose
 Reprehensus
 Reprieve
 Reprisal
 Rerun
-Resilience
-Resilient
 Resillience
 Resistance
 Resistor
@@ -4165,12 +4742,10 @@ Retrial
 Retribution
 Rev
 Revel
-Revelation
 Revenant
 Reverb
 Reverberate
 Reverberatum
-Reverie
 Reverse Cowgirl
 Reversi
 Revert
@@ -4180,28 +4755,17 @@ Reynard
 Reynolds
 Rhapsody
 Rhomphaia
-Ribbit
-Ribcage
 Richard Belman
-Ricochet
 Rictus
-Ride the Lightning
-Rifle
 Rift
 Riftwatch
-Rig
 Rigsaw
-Rime
-Rimfire
 Rinse
 Riot Act
 Rip And Tear
 Ripcord
 Riposte
 Ripper
-Ripple
-Riptide
-Rising Sun
 Rite
 Ritual
 Rival
@@ -4213,14 +4777,11 @@ Roanoke
 Robin Hood
 ROBOGOD
 Rochambeau
-Rock Lobster
-Rocket Kid
 Rocketwatcher
 ROFLcopter
 Rogue Death
 Rogue Eight
 Roguelight
-Roll Out
 Roma
 Roman
 Romeo
@@ -4228,84 +4789,54 @@ Romero
 Romp
 Ronin
 Rook
-Root
-Rosary
-Rose
-Rose Petal
 Rosencrantz
 Rosier
 Rotary
 Rotas
-Rotgut
 Roth
 Roulette
 Round Robin
 Roundup
 Rousant
 Rout
-Royal Flush
 Royal Man
 Royal Starling
 Royal Wedding
-Rube Coldberg
 Rubicon
 Rubin
-Rugburn
 Ruin
 Rule of Ruin
 Rum
 Rum "Punch"
-Rum Punch
-Rumble
-Rumbler
 Ruminate
 Runaway
 Rune
 Rune Man
-Runebat
 Runekeeper
 Runnel
-Runner
 Rusalka
 Ruse
-Rush
 Russian Roulette
 Rust
-Rust and Rubble
 Rust Devil
 Rutt
-Saber
 Saber Woman
 Saberbang
 Saberbuster
 Sabersinger
-Sabre
 Sabreur
-Sadboy
 Safeguard
 Safety
 Sagittarius
-Saint
-Saint of Sorrow
-Saints Amen
 Sakura
-Salamander
 Saltasaurus
 Saltykov
 Salute
 Salva Fier
-Salvo
 Samba
 Samedi
 Samsara
 Samson
-Sanctuary
-Sanctum
-Sandcastle
-Sandman
-Sandmann
-Sandssinger
-Sandstorm
 Sangkin
 Sangria
 Sanguine
@@ -4315,61 +4846,41 @@ Sariel
 Satin
 Satyrical
 Säureregen
-Saurian
 Savage
 Savant
 Savant Lockdown
-Savant Metal
-Savant Wraith
 Savior Rune
 Savoir-faire
 Savor
 Savvy
 Sawbuck
-Sawed-Off
 Sawmill
 Say My Name
-Scald
 Scaled Back
 Scanner
 Scapegoat
 Scapegrace
 Scapel
 Scar
-Scarab
-Scarlet Frog
 Scarlet Kid
 Scathach
 Scatter
-Scattershot
-Scenario
-Scenic
 Scepter
 Scheherazade
 Schlafender Prinz
 Schlieren
-Schrödinger
 Schwarze Tante
 Schwindel
 Scimitar
 Scint
-Scintillant
-Scintillate
 Scloop
 Scoop
 Scope
-Scorchbrand
-Scorched Earth
-Scorchtaster
 Scordatura
 Scorpio
 Scorpion
-Scout
-Scrapheap
 Scratch
 Scrawl
-Screamer
-Screech
 Screecul
 Screen
 Screwdriver
@@ -4381,24 +4892,16 @@ Scritch
 Scrounge
 Scrub
 Scuttle
-Scylla
 Scythia
-Sea
 Seachange
 Seance
-Search
-Seawall
-Second Guess
-Secret
 Secrétaire
 Secreted
-Sector
 Sediment
 Seidr (II)
 Seize
 Selkie
 Semiramis
-Senator Smog
 Seneschal
 Senpai
 Sensei
@@ -4408,7 +4911,6 @@ Sequoia
 Seraph
 Sere
 Serpentine
-Serum
 Servant
 Set
 Setback
@@ -4420,76 +4922,42 @@ Sewer Soul
 Sewer Velvet
 Shackle
 Shades
-Shadow Bell
-Shadow Stalker
-Shadowcaster
-Shadowdancer
-Shadowhunter
-Shadowstep
-Shadowwalk
 Shah
 Shaitan
 Shaken
-Shakesphere
-Sham
 Shaman
-Shame
 Shamrock
 Shamus
 Shanghai
 Shangri-La
 Shank
 Shantytown
-Shaper
 Shapesmith
 Sharezer
-Shark Boy
 Sharken
-Shatter
-Shatterbeam
-Shatterbird
-Shatterbolt
 Shatterhold
-Shattershot
 Sheath
-Shell
 Sheltershatter
 Shen yu
 Shenanigans
 Shepherd
 Sheriff
 Shi Shi
-Shieldbearer
-Shielder
 Shifu
 Shigaru
 Shigs
 Shinigami
-Shining Armor
 Shinkansen
 Shinkin
-Shitstorm
-Shiver
 Shivite
 Sho
-Shock Trooper
-Shockblade
-Shocking Surprise
-Shoggoth
 Shokyakuro
 Short Fuse
-Shortstop
 Show Stopper
 Showstopper
 Showtime
-Shrapnel
 Shrike
-Shrine
-Shroud
 Shuffle
-Shunt
-Shuriken
-Shutdown
 Siberian
 Sibyl
 Sic Semper Tyrannis
@@ -4497,39 +4965,20 @@ Sicario
 Side Kick
 Side-swipe
 Sidereal
-Sidestep
-Sidewinder
-Sidle
-Siege
 Siegfried
 Sievert
 Sifara
 Sigma
-Signal Boost
 Sigrdrífa
-Silence
-Silencio
-Silent Gate
-Silent Lad
-Silent Mask
-Silent Night
-Silent Panther
-Silhouette
 Silk
 Silkroad
 Silkworm
 Silver
 Silver Bear
 Silver Boy
-Silver Chem
 Silver Cord
 Silver Lining
-Silver Rat
-Silverback
-Silverfish
 Silverline
-Silvertongue
-Silverwind
 Simik
 Simisan
 Simmer
@@ -4540,28 +4989,19 @@ Simulcranium
 Sin
 Sine
 Sineater
-Sinew
-Singularity
 Sinister
 Sinker
-Sinkhole
 Sinter
 Sir Bulwark
-Sir Gate
 Sir Man
-Sir Quake
-Sir Snow
 Sir Triumphant
-Siren
 Sirrocco
 Sister Axe
-Sister Thunder
 Sister Trouble
 Sister Vicar
 Sisyphus
 Sixed
 Sixpence
-Sixth Sense
 Sizzle
 Skadi
 Skate
@@ -4571,29 +5011,14 @@ Skeeter
 Skein
 Skellig
 Skidmark
-Skids
-Skincrawl
-Skingraft
-Skinslip
-Skintaker
-Skip
 Skirmish
-Skirmisher
 Skitter
 Skulker
 Skull
 Skull Mark
 Skulldozer
 Skullshock
-Sky
 Sky Show
-Skybreak
-Skyburst
-Skyfall
-Skyforge
-Skyknife
-Skylark
-Skywalk
 Slam Dunk
 Slam Mask
 Slammaster
@@ -4607,90 +5032,52 @@ Slice
 Slice of Life
 Sliced Bread
 Slicer
-Slick
 Slide
 Slider
 Slight
-Slimeball
-Slingshot
 Slink
 Slip-up
 Slipknot
 Slipspace
 Slipstream
-Slither
 Sliver
 Sloom
-Slugger
 Slumberjack
 Smackdown
 Smarmalade
 Smash 'n Grab
 Smear
-Smelter
 Smiler
-Smite
-Smog
-Smokepoint
-Smokey Bandit
 Snakebite
 Snakeskin
-Snap Judgement
 Snapper
 Snaptrap
-Snatch
-Sneaker
 Sniffs
 Snip
-Snipe
-Sniper
-Snitch
 Snitchboss
 Snob
-Snow White
-Snowdrop
-Snowflake
-Snowlancer
-Snowman
 Snuffle
 Snuffles
-Sobek
 Sockmonkey
 Soda Jerk
-Sol
-Solar
-Solder of Fortune
-Sole Survivor
 Soliform
 Solipsist
 Solitaire
-Solitary
-Solomon
 Someone Else
-Sonic Doom
-Sonic Heart
-Sonic Velvet
-SonicBoom
-Soot
-Soothe
 Sorcerous Eagle
 Sorcerous Lad
 Sordid Affair
 Sordina
-Sorrow
 Sortes
 Soter
 Soulblade
 Soulmangler
 Soulshock
-Sound Striker
-Soundblast
 Southpaw
 Sovereign
 Spade
 Spamburgler
 Spanner
-Spark
 Sparkimedes
 Sparrow
 Spatula
@@ -4699,89 +5086,50 @@ Speaker of the House
 Spear Lad
 Spearhead
 Spearwatcher
-Speed of Dark
 Spew
 Spidermonkey
 Spiegelbild
 Spike
 Spin Cycle
 Spin Doctor
-Spinal Tap
 Spindle
 Spire
 Spirit Fingers
-Spirit Walker
 Spit
-Spite
-Spitfire
 Spitzel
-Splash
 Splatter
-Splatterpult
 Splendere
-Splinter
 Splitwire
-Sploosh
-Spook
-Spore
-Spotlight
 Spree
-Spriggan
-Springheel
 Springstep
 Sprite
-Sprocket
-Sprout
-Spruce
 Spur
 Spyder
 Squad
 Squeak Attack
 Squealer
 Squire
-St. Elmo's Fire
-Stab Happy
 Stack
 Stage Whisper
 Stain
-Stalemate
-Stalker
 Stall
 Stallion
 Stalwart
 Stalwart Dog
 Stalwart Gal
 Stampede
-Standstill
-Star Girl
-Starbright
-Starburst
 Starcraft
-Starcrossed
 Stardom
 Stardust
-Stargazer
-Stark Ghost
 Starlich
-Starlight
-Starlight Princess
 Starling
 Starmeleon
-Starshine
 Start Engine
-Static
-Staticcrusher
-Staticface
-Staticscream
 Stato
-Statuary
-Statuesque
-Steam Slinger
 Steed of Steel
 Steel Jaguarundi
 Steel Mask
 Steel Moose
-Steel Wool
 Steelbow
 Steelheart
 Stella
@@ -4792,27 +5140,12 @@ Sterling
 Steve
 Stewmaker
 Sti
-Stigmata
-Stillsound
 Stilt
 Stinger
-Stingray
 Stirge
 Stirred
-Stitch
 Stochastic
-Stock
 Stocking Stuffer
-Stopschild
-Storm Lord
-Storm-mouse
-Stormcaller
-Stormlight
-Stormspike
-Stormstalker
-Stormtiger
-Stormwalker
-Stormwane
 Stow
 Straddle
 Strafe
@@ -4820,170 +5153,93 @@ Strat
 Strata
 Stray
 Streaker
-Stream
-Streamweaver
 Street Eater
-Street Meat
-Streetwise
 Stribog
 Stricture
-Strider
 Strife
-Strike
 String Hack
 String Theory
 Striptease
 Strive
-Strobe
 Strober
-Strongarm
 Struggle
-Stumble
-Stump
-Stupor
 Stutter
-Stutterstep
-Stygian
 Styx
-Suave
 Sublighter
-Submariner
 Substance
 SubWOOFer
-Suckerpunch
 Sugar Rush
 Sugarpop
 Suiro
 Sulayman
-Sulfur
-Summerday
-Summoner
-Sun Lass
-Sunbird
-Sunbolt
-Sunburst
-Sundancer
-Sunday Clothes
 Sundercolt
 Sundergoat
-Sundream
-Sunmancer
-Sunny
 Sunset Flower
-Sunspot
-Sunwalker
-Super Missile
 Supercell
 Superego
-Supersonic Guy
-Supersonic Terror
-Superstition
-Supply Line
 Supreme Starling
 Supreme Woman
-Surefire
-Surf
-Surge
 Surgeon Nail
 Surgeon Supreme
 Surname
 Surplus
-Surprise
 Sursum
-Surtr
-Survey
 Susurravi
 Susurro
 Swan
 Swash
 Sweatshop
-Sweet Valentine
-Swelter
 Swift Capybara
 Swift Supreme
 Swiftspear
 Swill
-Swindle
 Swiss
 Switch
 Switchblade
-Swole
 Sword of Damocles
-Sword of Time
-Sworn
 Sycamore
-Sycophant
 Sydyk
 Sykkiä
 Sylph
 Sylvestris
-Symbiote
-Synapse
 Syncopate
 Syndicate
 Synod
 Syrfe
-Syzygy
 Szilard
 T-Wrecks
 Tagula
-Tails
-Tailwind
 Taint Train
 Taipan
 Taiyang
 Tàiyáng
 Takemikazuchi
 Tallow
-Talon
 Talos
 Tangler
 Tango
-Tank
 Tankslap
 Tanpo
 Tapout
-Tar Pit
 Tarch
-Tarot
 Tartare
-Tartarus
-Taserfist
-Taserhands
 Tattletale
-Taunt
 Tea Party
 Teabag
-Teacher
 Tealeaf
 Team Playa
 Tease
 Technicolor
-Technicolor Rainbow Princess
-Technochaser
-Technoslayer
-Techwiz
-Tecton
-Tectonic
 Teddy
 Teishi
-Telefrag
 Telephant
-Telescope
 Tellus
 Temblor
-Temperance
-Tempest
 Tempestad
 Tempête
-Templar
 Templar de Sang
 Templar Marvel
-Templar Storm
 Templar Zero
-Tempo
-Tempofire
-Temposlinger
 Tempura
 Ten'i
 Tendercrisp
@@ -4994,25 +5250,14 @@ Tequila
 Teratoma
 Terminate
 Terminus
-Termite
 Terra Pin
 Terrabyte
-Terracotta
-Terraforma
 Terrapains
 Terratoma
-Terrible Bastard
-Terrible Night
-Terror Bull
-Terror-form
-Terrormancer
-Terrormouth
 Terrorpins
 Teruzi
 Terza Mela
-Tesla
 Tess
-Tesseract
 Testudo
 Tetelestai
 Tether
@@ -5023,10 +5268,7 @@ Thaumaturge
 Thaw
 The 800
 The Alder King
-The Architect
-The Artful Dodger
 The Black Duke
-The Black Goat
 The Black Knight
 The Bronze Baroness
 The Cad
@@ -5035,25 +5277,19 @@ The Calamity Templar
 The Caustic Cur
 The Critic
 The Cur
-The Cure
 The Cuss
 The Custodian
 The Cypher
-The Dark King
 The Dart
 The Debt
-The Depraved
-The Dog of Light
 The Don
 The Duke
 The Dusk
 The Empress Knave
 The End of Awl
 The Fantastic Phantasm
-The Fear
 The Final Guardian
 The Foresaken
-The Gardener
 The Gentleman
 The Gigahedron
 The Good King
@@ -5062,173 +5298,97 @@ The Green Knight
 The Green Man
 The Hammer
 The Hard
-The Hare
-The Hollow King
 The House
 The Huntsman
 The Implicit
 The Jerk
 The Khagan
-The Lilies
 The Line
 The Long Con
 The Lucky Bitch
 The Mailman
 The Man
-The Mighty Flare
 The Mincer
 The Nail
-The Nuclear Empress
-The Ombudsman
 The Pen
 The Prince in Rags
 The Punisher
-The Rabbit
 The Rack
-The Reanimator
 The Red
-The Shapeshifter
-The Sheriff
 The Steel Savant
-The Sun King
 The Thaw
-The Therapist
-The Trinity
-The Trip
 The Underneath
-The Untouchable
-The Vice Grip
 The Visitor
 Themis
-Then Come the Screams
 Theodosian
 Therion
-Thermic
-Thespian
-Thin Man
-Third Eye
 Third Wheel
 Thirteen
-Thirteenth Hour
 Thirty-One
 Thirty-Two
 This One
 Thor of Babylon
 Thorn
-Thoth
-Thousand Hands
 Thousand Hands (Qiān Shǒu 千手)
-Thrall
 Thrasher
 Threadbare
 Threadglare
 Threadhare
 Threadmare
 Threadscare
-Threatsensor
 Three Snake
 Thresher
 Threshold
 Thrice
 Thriller
-Thrive
 Throwaway
 Thrust
 Thumbelina
 Thumper
-Thunderbird
-Thunderbreaker
-Thundercat
-Thunderclap
-Thunderer
-Thundersnow
-Thunderstorm
-Thundervolt
-Thunderwrought
 Thunk
-Tick-Tock
-Ticktock
-Tidal Acid
-Tidal Chill
 Tigresa
 Timberline
-Time Warp
-Tinder
-Tingletouch
-Tinker Belle
-Tinkerbell
-TinkerBelle
-Tinkertown
 Tiptoe
-Titan
-Titanic
 Tithe
 Titz
 To Arms!
-Toad
-Toaster
 Tock
-Toggle
 Toil
-Tombstone
 Tomcat
-Tommygun
 Tong Ling Ta
 Topaz
 Topiary
 Topple
 Topsy
 Torchy
-Torment
-Tornado
 Toro
-Toro de Terror
-Torrent
-Torrid
 Tort
 Toso
 Total Eclipse
-Totem
 Totemic
 Totsuka
 Totsuka-no-tsurugi
 Totsuzen
 Tourmaline
-Toxic Crush
-Toxic Gate
-Toxin
-Toxoplasma
 Trace
-Tracer
 Trafalgar
-Trailblazer
 Trainwreck
 Trammel
 Transam
-Transmute
 Transmuter
-Transpose
-Trapmaster
 Trasheyes
 Trashflayer
 Trashmouth
 Treant
-Treason
 Treble
 Trebuchet
 Trellis
-Tremor
 Trepanner
-Trespass
-Trespasser
 Triage
 Trial
-Trickshot
-Trickster
 Trident Girl
 Tridentmaster
 Trifold
-Trigger Finger
 Trinity
 Trio
 Trip blade
@@ -5236,10 +5396,7 @@ Tripartite
 Triple Point
 Triptych
 Triskelion
-Triton
 Triumph
-Trivia
-Troglodite
 Trombe
 Trommel
 Trompo
@@ -5247,29 +5404,18 @@ Tron
 Trooper State
 Trouble
 Tru Blood
-Truesight
-Trump Card
-Trumpet
 Truncheon
-Truth
 TryHard
 Tsar
 Tsukuyomi
-Tsunami
 Tsuneo
 Tule
 Tumbleweed
-Tumour
-Tundra
-Tunguska
 Turanta
 Turbokeeper
 Turboseeker
 Turnkey
 Turtle
-Turtlebug
-Tusk
-Tutor
 Twax
 Twelve
 Twenty-Three
@@ -5277,54 +5423,33 @@ Twilight
 Twin Sister
 Twinge
 Twist
-Twister
 Two
 Two Cents
-Two-Touch
 Two's Company
-Tycoon Glass
-Tycoon Shock
 Tyglav
 Tympanum
-Typhon
-Typhoon
 Tyranis
-Tyrant
-Tyrant Frost
-Tyrant Whisper
 Ucalegon
 Uglymug
 Ultra Girl
 Ultra Panther
-Ultralancer
 Ultraslinger
 Ulysses
-Umbra
 Umbrella
 Umbross
-Uncanny Valley
 Unconquered
 Undine
 Undone
-Unforeseen
 Unity
-Unlucky Thirteen
-Untouchable
 Uplifter
-Uplink
-Upload
-Uppercut
-Upperhand
 Uranaishi
 Ursa Aurora
-Us
 Usagi
 Usher
 Utopian
 Vacant
 Vae Victis
 Vættir
-Vagabond
 Vagrant
 Vainglory
 Valefor
@@ -5334,12 +5459,9 @@ Valiant
 Valkyrie
 Valmiki
 Van Helsing
-Vandal
 Vanguard
-Vanish
 Vanquish
 Vantage
-Vapor Blade
 Vapula
 Varicose
 Varyllex
@@ -5348,23 +5470,16 @@ Vast
 Vaulter
 Vector
 Vectus
-Veil
-Veil of Ignorance
 Veldt
 Vellum
-Velocitas
-Velocity
 Velvet
 Vendetta
 Veneer
 Venganza
-Venom
 Venus
-Verdict
 Verminator
 Vern
 Vertex
-Vertigo
 Vesper
 Vessel
 Vested
@@ -5373,8 +5488,6 @@ Vex
 Viand
 Vibora Real
 Vicarious
-Vice
-Viceroy
 Victor
 Victory
 Vignette
@@ -5389,96 +5502,52 @@ Vire
 Virgil
 Virgo
 Visage
-Viscosity
 Vista
 Vita Man
-Vital
 Vitiator
 Vitreous
 Vitruvian
-Vixen
-Void
 Volatile
 Volhine
-Voltaic
 Voltaire
 Vornehm
 Vorpal
-Vortex
 Vortic
 Votive
-Vox
-Voyager
-Voyeur
 Vua
 Waif
 Wake
 Walk This Way
 Wallhax
-Wallop
 Walpurgisnacht
 Waltz
 Wan
 Wanderer
 Wandering God
-Wandering Storm
 Wanton
 Wappen
 Warcraft
 Warden IV
 Warlock
-Warning
-Warpath
-Warphole
-Wartime
-Warzone
-Watch
-Watcher
 Watchman
 Watchman Night
-Watchrunner
-Waterspout
-Waveform
 Wavelength
 Waxer
-Wayfaring Stranger
 WCM
-Weather Report
 Weaver
 Webcaster
 Webster
-Weep
-Weeping Willow
 Weevil
 Weird Mother
 Weise
-Welcome to the Jungle
-Weld
-Wendigo
 Whatever
 Whig
-Whimper
 Whimsy
 Whipcrack
-Whirlwin
-Whirlwind
-Whirlybird
-Whirlygig
-Whisper
 White Devil
-White Flag
 White Gal
 White Kid
-White King
 White Lady
-White Lion
-White Night
-White Rabbit
-White Rose
-White Tiger
-White Whale
-Whiteout
-Whitespark
 Whymsical
 Wiccan
 Wicht
@@ -5486,94 +5555,32 @@ Wick
 Wicker
 Wickerman
 Wiesswald
-WiFi
 Wiggle
-Wight
-Wild Hunt
 Wild Man
 Wild Warrior
-Wildcard
-Wilderness
-WildPlant
 Wiley Coyote
 Wilhelm
 Willy Nilly
 Winder
-Windrider
-Windshield Viper
-Windstorm
-Windwalker
-Windy
 Wingman
-Wingsuit
-Wingtip
-Wink
-Winter
-Winterbeast
-Wireframe
 Wiremaw
-Wise Men
-Wiseacre
 Wishbone
-Wisp
 Wisteria
-Witch Doctorate
 Wither
-Witness
 Woebegone
 Wojtek
-Wolf Claw
 Wolfpact
-Wombat
-Wonderland
 Wormwood
 Wrack
-Wraith
-Wraithbreath
-Wraithspitter
-Wrath
 Wrayth
-Wreck
-Wrecker
-Wrecking Ball
-Wrecking Belle
-Wretch
-Wrought
-Wuwei
-Wyvern
-Xanadu
-Xeno
 Yarnball
-Yata-no-Kagami
 Yessir
-Yggdrasil
 Yo-Yo Lord
-Yoink
 Yojimbo
-Youngblood
-Yuki-Onna
-Zap
 Zeal
-Zealot
-Zebra
-Zen
-Zen Garden
-Zenith
-Zeno
-Zephyr
-Zero
 Zero Day
-Zero Escape
-Zhugeliang
-Ziggurat
-Zigzag
 Zilch
-Zion
-Zip
-Zipper
-Zircon
-Zodiac
-Zone
-Zugzwang
-Zulfiqar
-Zweihander
+Brain Fog
+Helter Skelter
+Shelter
+Flash
